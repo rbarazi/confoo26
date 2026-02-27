@@ -75,4 +75,10 @@ class ConferenceSessionTest < ActiveSupport::TestCase
     session = conference_sessions(:legacy_code)
     assert_equal schedule_entries(:wednesday_legacy), session.schedule_entry
   end
+
+  test "has favoriting users through favorites" do
+    session = conference_sessions(:legacy_code)
+
+    assert_includes session.favoriting_users, users(:one)
+  end
 end

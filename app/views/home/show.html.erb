@@ -1,3 +1,20 @@
 <h1>Welcome</h1>
 
 <p>You are signed in as <strong><%= Current.user.email_address %></strong>.</p>
+
+<h2>Sessions</h2>
+
+<ul>
+  <% @conference_sessions.each do |conference_session| %>
+    <li>
+      <h3><%= conference_session.title %></h3>
+      <p><%= conference_session.speaker.name %></p>
+
+      <% if @favorite_session_ids.include?(conference_session.id) %>
+        <%= button_to "Unfavorite", conference_session_favorite_path(conference_session), method: :delete %>
+      <% else %>
+        <%= button_to "Favorite", conference_session_favorite_path(conference_session), method: :post %>
+      <% end %>
+    </li>
+  <% end %>
+</ul>

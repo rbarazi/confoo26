@@ -15,5 +15,9 @@ class HomeAuthenticationTest < ActionDispatch::IntegrationTest
     assert_response :success
     assert_match("Welcome", response.body)
     assert_match(users(:one).email_address, response.body)
+    assert_match(conference_sessions(:legacy_code).title, response.body)
+    assert_match("From Zero to Agentic AI with Google Gemini", response.body)
+    assert_match("Unfavorite", response.body)
+    assert_match("Favorite", response.body)
   end
 end

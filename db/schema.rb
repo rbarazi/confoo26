@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_02_27_145343) do
+ActiveRecord::Schema[8.1].define(version: 2026_02_27_162943) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
 
@@ -56,6 +56,16 @@ ActiveRecord::Schema[8.1].define(version: 2026_02_27_145343) do
     t.index ["tags"], name: "index_conference_sessions_on_tags", using: :gin
   end
 
+  create_table "favorites", force: :cascade do |t|
+    t.bigint "conference_session_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.bigint "user_id", null: false
+    t.index ["conference_session_id"], name: "index_favorites_on_conference_session_id"
+    t.index ["user_id", "conference_session_id"], name: "index_favorites_on_user_id_and_conference_session_id", unique: true
+    t.index ["user_id"], name: "index_favorites_on_user_id"
+  end
+
   create_table "schedule_entries", force: :cascade do |t|
     t.bigint "conference_session_id", null: false
     t.datetime "created_at", null: false
@@ -98,6 +108,8 @@ ActiveRecord::Schema[8.1].define(version: 2026_02_27_145343) do
   add_foreign_key "active_storage_attachments", "active_storage_blobs", column: "blob_id"
   add_foreign_key "active_storage_variant_records", "active_storage_blobs", column: "blob_id"
   add_foreign_key "conference_sessions", "speakers"
+  add_foreign_key "favorites", "conference_sessions"
+  add_foreign_key "favorites", "users"
   add_foreign_key "schedule_entries", "conference_sessions"
   add_foreign_key "sessions", "users"
 end
