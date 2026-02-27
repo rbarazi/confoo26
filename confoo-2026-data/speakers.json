@@ -1,0 +1,866 @@
+[
+  {
+    "name": "A N M Bazlur Rahman",
+    "company": "Hammerspace",
+    "photo": "https://confoo.ca/images/speakers/2026/a-n-m-bazlur-rahman-1.jpg",
+    "url": "https://confoo.ca/en/speaker/a-n-m-bazlur-rahman-1",
+    "bio": "A N M Bazlur Rahman is a Toronto-based senior Java technologist and Java Champion. He leads the Java User Group Bangladesh, contributes as an InfoQ and Foojay.io editor, and speaks at international conferences including Devoxx and ConFoo.\n\nHe is the author of *Modern Concurrency in Java* (O\u2019Reilly) and focuses on modern Java features, high-performance concurrency: https://www.oreilly.com/library/view/modern-concurrency-in/9781098165406/",
+    "photo_local": "photos/a-n-m-bazlur-rahman-1.jpg"
+  },
+  {
+    "name": "AL Rodriguez",
+    "company": "Duende",
+    "photo": "https://confoo.ca/images/speakers/2026/al-rodriguez.jpg",
+    "url": "https://confoo.ca/en/speaker/al-rodriguez",
+    "bio": "AL Rodriguez is a developer, cloud enthusiast, 3 kids in a trench coat, and sometimes-blogger. As a software development with a clear lack of self restraint, he specializes in using .NET for everything. An ASP.NET Core backend and a Blazor frontend? Check. IoT devices, Playwright testing, CI/CD, or Infrastructure as Code? Of course! When he's not working, he's playing games, making stupid jokes, or arguing with code in a personal repo. You can find his latest postings at ProgrammerAL.com",
+    "photo_local": "photos/al-rodriguez.jpg"
+  },
+  {
+    "name": "Alexis Fortin-C\u00f4t\u00e9",
+    "company": "Vooban",
+    "photo": "https://confoo.ca/images/speakers/2026/alexis-fortin-cote.jpg",
+    "url": "https://confoo.ca/en/speaker/alexis-fortin-cote",
+    "bio": "Alexis Fortin-C\u00f4t\u00e9, an engineer with a PhD in robotics, crafts AI solutions at Vooban to streamline processes and make the most out of client data. He focuses on devising strategies and solutions that help businesses seamlessly integrate AI, maximize the value of their data, and automate their operations.",
+    "photo_local": "photos/alexis-fortin-cote.jpg"
+  },
+  {
+    "name": "Ali Amine Ghazali",
+    "company": "Cofomo",
+    "photo": "https://confoo.ca/images/speakers/2026/ali-amine-ghazali.jpg",
+    "url": "https://confoo.ca/en/speaker/ali-amine-ghazali",
+    "bio": "Expert en informatique avec deux baccalaur\u00e9ats et une ma\u00eetrise en s\u00e9curit\u00e9 informatique, a plus de 15 ans d'exp\u00e9rience en TI. D\u00e9veloppeur C# de formation, Je me suis sp\u00e9cialis\u00e9 dans le cloud et l'IA. Aujourd'hui, je dirige un centre d'excellence d'IA chez COFOMO et contribue aux normes ISO-IEC/42 au sein du Conseil Canadien des Normes, fondateur de la communit\u00e9 d'IA \u00e0 Qu\u00e9bec o\u00f9 j'ai toujours combin\u00e9 expertise technique et engagement. Entrepreneur et fondateur de QSG.Inc.",
+    "photo_local": "photos/ali-amine-ghazali.jpg"
+  },
+  {
+    "name": "Andres Pineda",
+    "company": "AFL Global",
+    "photo": "https://confoo.ca/images/speakers/2026/andres-pineda.jpg",
+    "url": "https://confoo.ca/en/speaker/andres-pineda",
+    "bio": "A community-driven tech enthusiast with a practical background in building extraordinary UX for Mobile and Web Applications. I have a particular passion for OSS, A11y and community collaboration.",
+    "photo_local": "photos/andres-pineda.jpg"
+  },
+  {
+    "name": "Andrew Lombardi",
+    "company": "Mystic Coders, LLC",
+    "photo": "https://confoo.ca/images/speakers/2026/andrew-lombardi.jpg",
+    "url": "https://confoo.ca/en/speaker/andrew-lombardi",
+    "bio": "Andrew Lombardi has been coding since he could barely reach an Apple ][ keyboard. As founder/CEO of Mystic Coders for 25 years, he's led transformative projects from passenger AI systems for Airbus to Fortune 500 applications. Published author with O'Reilly and Apress, international speaker, and mentor to engineers. Despite all his technical achievements, being a great dad remains his greatest accomplishment.",
+    "photo_local": "photos/andrew-lombardi.jpg"
+  },
+  {
+    "name": "Anna Filina",
+    "company": "Filina Consulting",
+    "photo": "https://confoo.ca/images/speakers/2026/anna-filina.jpg",
+    "url": "https://confoo.ca/en/speaker/anna-filina",
+    "bio": "Anna has been a web developer since 1997. In her long consulting career, she developed an expertise in refactoring very old applications to be modern and testable. She is passionate about sharing her skills with fellow developers through her blog, YouTube channel, conferences and various articles. Anna also has an eye for technical debt, for which she then devises strategies that save companies a lot of money.",
+    "photo_local": "photos/anna-filina.jpg"
+  },
+  {
+    "name": "Anthony Dahanne",
+    "company": "HeroDevs",
+    "photo": "https://confoo.ca/images/speakers/2026/anthony-dahanne.jpg",
+    "url": "https://confoo.ca/en/speaker/anthony-dahanne",
+    "bio": "Software Developer for 15+ years, my favorite topics are containerization (Docker and Kubernetes), building tools, Continuous Integration and, of course, core Java development.\nHaving recently joined HeroDevs, I work on patching and releasing EOL OSS Java and Spring projects.\nI'm also a maintainer of the Paketo Java buildpacks.\nIn my spare time, I work on various open source projects : from Mastodon bots written in NodeJS or Go, to Android apps!",
+    "photo_local": "photos/anthony-dahanne.jpg"
+  },
+  {
+    "name": "Anthony Vallee-Dubois",
+    "company": "Google Canada",
+    "photo": "https://confoo.ca/images/speakers/2026/anthony-vallee-dubois.jpg",
+    "url": "https://confoo.ca/en/speaker/anthony-vallee-dubois",
+    "bio": "After graduating from ETS with a B.Eng. in Software Engineering, I joined the Chrome team in Montreal. Since 2015, I've worked on Chrome Sign In & Identity, Chrome Language & Translate, Web Payments (Payment Request and Payment Handler APIs), Chrome Enterprise. As of now, I work on a small team responsible for Chrome's resource management, performance, and stability.",
+    "photo_local": "photos/anthony-vallee-dubois.jpg"
+  },
+  {
+    "name": "Arne Blankerts",
+    "company": "thePHP.cc",
+    "photo": "https://confoo.ca/images/speakers/2026/arne-blankerts.jpg",
+    "url": "https://confoo.ca/en/speaker/arne-blankerts",
+    "bio": "Arne Blankerts has already dealt with computers when networking was still an adventure. As long-standing head of development of an internet agency, he has created solutions far ahead of the times already years ago. As Co-Founder and Principal Consultant of The PHP Consulting Company (thePHP.cc), Arne helps clients to develop software successfully. He is (co-)author of various Open Source tools, and is a regular presenter at conferences. In his free time he reads fantasy and likes to cook.",
+    "photo_local": "photos/arne-blankerts.jpg"
+  },
+  {
+    "name": "Arvin Singla",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/arvin-singla.jpg",
+    "url": "https://confoo.ca/en/speaker/arvin-singla",
+    "bio": "Full-stack software engineer with 14+ years of experience developing scalable web applications, SaaS platforms, and microservices architecture. Proven track record leading cross-functional teams to deliver revenue-generating products for Fortune 500 companies and startups. Expert in JavaScript/TypeScript ecosystems, React, Node.js, and cloud infrastructure with strong focus on DevOps practices and system reliability.",
+    "photo_local": "photos/arvin-singla.jpg"
+  },
+  {
+    "name": "Ashleigh Lodge",
+    "company": "Neovation Learning Solutions",
+    "photo": "https://confoo.ca/images/speakers/2026/ashleigh-lodge-1.jpg",
+    "url": "https://confoo.ca/en/speaker/ashleigh-lodge-1",
+    "bio": "Ashleigh is the leader of the Product Team at Neovation in Winnipeg, Manitoba, Canada and has held tech and management roles for 12+ years. \n\nAshleigh is a vocal advocate for accessibility and inclusive design, working to make digital websites, apps and products more accessible to users of all types and abilities. She has spoken about accessibility to a variety of audiences, including at TedxWinnipeg. Ashleigh has also published articles on digital accessibility in Code Magazine.",
+    "photo_local": "photos/ashleigh-lodge-1.jpg"
+  },
+  {
+    "name": "Aur\u00e9lie Vache",
+    "company": "OVHcloud",
+    "photo": "https://confoo.ca/images/speakers/2026/aurelie-vache-1.jpg",
+    "url": "https://confoo.ca/en/speaker/aurelie-vache-1",
+    "bio": "Aur\u00e9lie is a Developer Advocate at OVHcloud. \nVery invested in communities since many years, she is also a CNCF Ambassador, Docker Captain & Google Developer Expert on Cloud.\nSpeaker, sketchnoter, technical writer & conferences organizer.\nShe created a new visual way for people to learn and understand Cloud technologies: \"Understanding Kubernetes/Docker in a visual way\" in sketchnotes, videos & illustrated book.",
+    "photo_local": "photos/aurelie-vache-1.jpg"
+  },
+  {
+    "name": "Ben Dechrai",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/ben-dechrai.jpg",
+    "url": "https://confoo.ca/en/speaker/ben-dechrai",
+    "bio": "Ben Dechrai is a technologist with a strong focus on security and privacy. Known for his ability to distil complex technical concepts into engaging, digestible portions, Ben empowers developers through a deep understanding of design principles, security considerations, and coding practices. With over two decades of experience in software engineering, security, and architecture, Ben is a published author and has consulted for companies and investors across numerous industries.",
+    "photo_local": "photos/ben-dechrai.jpg"
+  },
+  {
+    "name": "Benoit des Ligneris",
+    "company": "ESA",
+    "photo": "https://confoo.ca/images/speakers/2026/benoit-des-ligneris.jpg",
+    "url": "https://confoo.ca/en/speaker/benoit-des-ligneris",
+    "bio": "Benoit des Ligneris, Ph.D. is a computer scientist and entrepreneur with over 20 years of experience designing scalable software systems and leading technology teams. He works with open-source cloud-native platforms, IoT, and data-driven architectures to deliver innovative energy and industrial solutions. His expertise spans distributed systems, scientific computing, DevOps, and developer experience.",
+    "photo_local": "photos/benoit-des-ligneris.jpg"
+  },
+  {
+    "name": "Carl Alexander",
+    "company": "Ymir",
+    "photo": "https://confoo.ca/images/speakers/2026/carl-alexander-1.jpg",
+    "url": "https://confoo.ca/en/speaker/carl-alexander-1",
+    "bio": "Carl Alexander is a PHP developer and consultant from Montr\u00e9al, Canada. He\u2019s the solo founder of Ymir, a serverless DevOps platform for WordPress.\n\nHe also has a website where he publishes articles regularly. It's his way to help the PHP community with these hard-to-learn topics. It's also why he's excited to speak at Longhorn PHP. It's another way for him to help the PHP community.",
+    "photo_local": "photos/carl-alexander-1.jpg"
+  },
+  {
+    "name": "Carl Lapierre",
+    "company": "Osedea",
+    "photo": "https://confoo.ca/images/speakers/2026/carl-lapierre.jpg",
+    "url": "https://confoo.ca/en/speaker/carl-lapierre",
+    "bio": "Carl is a Lead AI Engineer driving innovation through intelligent systems across healthcare, manufacturing, and mining at Osedea. With over a decade of experience in software development, he leads high-impact AI initiatives focused on agentic systems, context engineering architectures, and large language model (LLM) integration, building solutions that enhance decision-making, automation, and adaptability in complex environments.",
+    "photo_local": "photos/carl-lapierre.jpg"
+  },
+  {
+    "name": "Cedric Clyburn",
+    "company": "Red Hat",
+    "photo": "https://confoo.ca/images/speakers/2026/cedric-clyburn.jpg",
+    "url": "https://confoo.ca/en/speaker/cedric-clyburn",
+    "bio": "Cedric Clyburn (@cedricclyburn), Senior Developer Advocate at Red Hat, is an enthusiastic software technologist with a background in Kubernetes, DevOps, and container tools. He has experience speaking and organizing conferences including DevNexus, WeAreDevelopers, The Linux Foundation, KCD NYC, and more. Cedric loves all things open-source, and works to make developer's lives easier! Based out of New York.",
+    "photo_local": "photos/cedric-clyburn.jpg"
+  },
+  {
+    "name": "Cedric L'homme",
+    "company": "Osedea",
+    "photo": "https://confoo.ca/images/speakers/2026/cedric-l-homme.jpg",
+    "url": "https://confoo.ca/en/speaker/cedric-l-homme",
+    "bio": "With 25+ years in software architecture and development, Cedric specializes in helping clients start and develop projects through technical leadership and complex implementations. As co-organizer of Software Crafters Montreal and the /dev/mtl conf, Cedric contributes to the tech community and leads discussions on craftsmanship while heading the Software Design and Quality Team at Osedea.",
+    "photo_local": "photos/cedric-l-homme.jpg"
+  },
+  {
+    "name": "Chad Green",
+    "company": "Jasper Engines & Transmissions",
+    "photo": "https://confoo.ca/images/speakers/2026/chad-green.jpg",
+    "url": "https://confoo.ca/en/speaker/chad-green",
+    "bio": "Chad Green, Senior Systems Architect at Jasper Engines & Transmissions, brings 35+ years of experience across multiple industries. A Microsoft MVP and community leader, he drives cloud-native innovation, mentors peers, and shares knowledge through conferences and global speaking engagements.",
+    "photo_local": "photos/chad-green.jpg"
+  },
+  {
+    "name": "Chris DeMars",
+    "company": "TuxCare",
+    "photo": "https://confoo.ca/images/speakers/2026/chris-demars-1.jpg",
+    "url": "https://confoo.ca/en/speaker/chris-demars-1",
+    "bio": "Chris DeMars is a Senior Developer Advocate. He has over 20 years of technical experience and speaks globally on various frontend topics and has received accolades for his community contributions, including the prestigious Microsoft MVP and Progress Champion awards to name a few. Chris is passionate about enhancing web development and helping developers achieve their goals. In his free time, he enjoys rating Detroit-style pizza, searching for Bigfoot, and investigating UFO's.",
+    "photo_local": "photos/chris-demars-1.jpg"
+  },
+  {
+    "name": "Chris Hartjes",
+    "company": "Ziff Davis Shopping",
+    "photo": "https://confoo.ca/images/speakers/2026/chris-hartjes.jpg",
+    "url": "https://confoo.ca/en/speaker/chris-hartjes",
+    "bio": "Long-time PHP developer who has spent many years helping to teach PHP developers how to get better at testing their PHP applications.\n\nI currently work for ZiffDavis Shopping building global shopping loyalty infrastructure using a mix of PHP, Python, good testing practices, and design patterns.",
+    "photo_local": "photos/chris-hartjes.jpg"
+  },
+  {
+    "name": "Christian Wenz",
+    "company": "Arrabiata Solutions GmbH",
+    "photo": "https://confoo.ca/images/speakers/2026/christian-wenz.jpg",
+    "url": "https://confoo.ca/en/speaker/christian-wenz",
+    "bio": "Christian Wenz is an author, consultant and trainer focussing on web technologies and web application security. He wrote or co-wrote over 100 books, is a fixture at international developer conferences since 2001, and is the lead author of the Zend PHP certification. His day job at Arrabiata Solutions includes conducting security audits, migrating old code bases, implementing complex web applications and helping companies choose the right mix of web technologies.",
+    "photo_local": "photos/christian-wenz.jpg"
+  },
+  {
+    "name": "Christopher Harrison",
+    "company": "GitHub",
+    "photo": "https://confoo.ca/images/speakers/2026/christopher-harrison.jpg",
+    "url": "https://confoo.ca/en/speaker/christopher-harrison",
+    "bio": "Christopher is a long-time geek who's spent most of his career training, supporting, and upskilling developers. He's a web developer with passions from Python to DevOps to TypeScript to AI. In his current role as an Enterprise Advocate for GitHub, he seeks to help organizations improve their DevOps process and culture. When not found writing code, he can be found running, playing Civilization, or spending time with his partner and their four-legged child (a rescue mutt).",
+    "photo_local": "photos/christopher-harrison.jpg"
+  },
+  {
+    "name": "Christopher Neugebauer",
+    "company": "Maribel Health / Python Software Foundation",
+    "photo": "https://confoo.ca/images/speakers/2026/christopher-neugebauer.jpg",
+    "url": "https://confoo.ca/en/speaker/christopher-neugebauer",
+    "bio": "Christopher Neugebauer is an Australian developer, speaker, and serial community conference organiser, who presently lives in the United States.\n\nHe serves as a Director of the Python Software Foundation, and is co-organiser of the acclaimed North Bay Python conference, a boutique one-track conference run in unusual venues \u2014 include an old vaudeville theatre, and more recently a barn on a farm \u2014 in Petaluma, California.",
+    "photo_local": "photos/christopher-neugebauer.jpg"
+  },
+  {
+    "name": "Damien Seguy",
+    "company": "Exakat",
+    "photo": "https://confoo.ca/images/speakers/2026/damien-seguy.jpg",
+    "url": "https://confoo.ca/en/speaker/damien-seguy",
+    "bio": "Damien Seguy is CTO at Exakat SA., a company specialized in PHP code quality solutions for the industry. He leads the development of the exakat static analysis engine, that automatically review code for version compatibility, security and clear code. Over the last 24 years Damien has contributed to PHP, as documentation author, elephpant breeder, conference UFO on all continents. He also enjoys gremlin and camemberts.",
+    "photo_local": "photos/damien-seguy.jpg"
+  },
+  {
+    "name": "Dan Vega",
+    "company": "Broadcom",
+    "photo": "https://confoo.ca/images/speakers/2026/dan-vega.jpg",
+    "url": "https://confoo.ca/en/speaker/dan-vega",
+    "bio": "Dan Vega is a Java Champion & Spring Developer Advocate at Broadcom. He has been developing software for the web for over 23 years and his superpower is problem-solving. Dan is a Blogger, YouTuber,Course Creator, Podcaster, and speaker. He is a lifelong learner and his passion is sharing his knowledge with the developer community.",
+    "photo_local": "photos/dan-vega.jpg"
+  },
+  {
+    "name": "Daniel Mikusa",
+    "company": "7SIGNAL Inc",
+    "photo": "https://confoo.ca/images/speakers/2026/daniel-mikusa.jpg",
+    "url": "https://confoo.ca/en/speaker/daniel-mikusa",
+    "bio": "Daniel is currently employed as a Staff Software Engineer at 7SIGNAL, the leader in enterprise WiFi optimization, where he uses technologies like Java, Spring, OAuth2/OIDC, and AWS to build the company\u2019s WiFi performance monitoring solutions. \n\nIn his spare time, Daniel is active in the open source community helping as a maintainer on the CNCF Cloud-Native Buildpacks project, and participating as both a maintainer and a member on the steering committee for the Paketo Buildpacks project.",
+    "photo_local": "photos/daniel-mikusa.jpg"
+  },
+  {
+    "name": "Daniel Scherzer",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/daniel-scherzer.jpg",
+    "url": "https://confoo.ca/en/speaker/daniel-scherzer",
+    "bio": "Daniel is an open source contributor mainly focused on PHP and its ecosystem. He contributes as @DanielEScherzer on GitHub. See https://scherzer.dev/ for more.",
+    "photo_local": "photos/daniel-scherzer.jpg"
+  },
+  {
+    "name": "Dave Liddament",
+    "company": "Lamp Bristol",
+    "photo": "https://confoo.ca/images/speakers/2026/dave-liddament.jpg",
+    "url": "https://confoo.ca/en/speaker/dave-liddament",
+    "bio": "Dave is a director and developer at Lamp Bristol, a software consultancy. He\u2019s been writing software commercially for over 22 years in many languages including C, Python, Java and PHP.\n\nDave is keen to pass on his knowledge. He speaks at conferences and user groups. He is an organiser of PHP-SW. He also runs a monthly workshop that covers topics including testing, CI and git.\n\nHe is also the author of an open source tool called SARB (static analysis results baseliner).",
+    "photo_local": "photos/dave-liddament.jpg"
+  },
+  {
+    "name": "David Buchmann",
+    "company": "Liip AG",
+    "photo": "https://confoo.ca/images/speakers/2026/david-buchmann.jpg",
+    "url": "https://confoo.ca/en/speaker/david-buchmann",
+    "bio": "David Buchmann works at Liip AG as lead developer and Symfony coach. He is an open source enthusiast, co-author of PSR-18 and Httplug, maintainer of FOSHttpCache and contributor to the Symfony framework. When he is not coding, he enjoys travelling with his girlfriend, music and boardgames.",
+    "photo_local": "photos/david-buchmann.jpg"
+  },
+  {
+    "name": "David Guida",
+    "company": "Microsoft",
+    "photo": "https://confoo.ca/images/speakers/2026/david-guida.jpg",
+    "url": "https://confoo.ca/en/speaker/david-guida",
+    "bio": "David is a software engineer with more than 15 years of professional experience. He's working @ Microsoft on some very cool stuff and he's also a former Microsoft MVP on Developer Technologies. When he's not busy coding, blogging, or looking for the next book to read, you can find him in his kitchen baking cakes.",
+    "photo_local": "photos/david-guida.jpg"
+  },
+  {
+    "name": "David vlijmincx",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/david-vlijmincx.jpg",
+    "url": "https://confoo.ca/en/speaker/david-vlijmincx",
+    "bio": "I\u2019ve been a full-time developer since 2018 but I\u2019ve been writing software and using Java for much longer.\n\nI develop software in Java to help businesses, customers, and end-users to achieve more. I have developed applications for multiple industries, including banking, insurance, and maritime. Currently, I am working as a Java software consultant.\n\nWhen I am not working, I like to explore (new) technologies/opportunities, share findings with the community.",
+    "photo_local": "photos/david-vlijmincx.jpg"
+  },
+  {
+    "name": "Derick Rethans",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/derick-rethans-1.jpg",
+    "url": "https://confoo.ca/en/speaker/derick-rethans-1",
+    "bio": "In this presentation I will be showing how I use PHP, Go, and Home Assistant to automate many tasks in my office and house.\n\nWe'll be looking at how to interact with Home Assistant, with MQTT from both PHP and Go, and obtain sensor data. With this we can create complex scenarios for complex situations, such as trying to figure out how dark and cold/warm it is going to be in a room.",
+    "photo_local": "photos/derick-rethans-1.jpg"
+  },
+  {
+    "name": "Dwayne McDaniel",
+    "company": "GitGuardian",
+    "photo": "https://confoo.ca/images/speakers/2026/dwayne-mcdaniel.jpg",
+    "url": "https://confoo.ca/en/speaker/dwayne-mcdaniel",
+    "bio": "Dwayne has been working as a Developer Relations professional since 2015 and has been involved in tech communities since 2005. He loves sharing his knowledge, and he has done so by giving talks at over a hundred events worldwide. Dwayne currently lives in Chicago. Outside of tech, he loves karaoke, live music, and performing improv.",
+    "photo_local": "photos/dwayne-mcdaniel.jpg"
+  },
+  {
+    "name": "Erik Beaulieu",
+    "company": "Openmind Technologies",
+    "photo": "https://confoo.ca/images/speakers/2026/erik-beaulieu.jpg",
+    "url": "https://confoo.ca/en/speaker/erik-beaulieu",
+    "bio": "Erik Beaulieu is a Tech Lead and senior software developer specializing in web applications, with expertise in C#, PHP, Node.js, and Vue.js. With over 15 years of experience, he focuses on building high-performance, scalable systems and optimizing software architectures. Passionate about clean code and technical excellence, Erik drives continuous innovation while guiding teams toward quality and sustainable delivery.",
+    "photo_local": "photos/erik-beaulieu.jpg"
+  },
+  {
+    "name": "Erik Hanchett",
+    "company": "AWS",
+    "photo": "https://confoo.ca/images/speakers/2026/erik-hanchett.jpg",
+    "url": "https://confoo.ca/en/speaker/erik-hanchett",
+    "bio": "Hello! ???? My name is Erik Hanchett! I'm a published book author and software developer. I've been teaching software development for over 10 years on my YouTube channel, Program With Erik, that has over 100,000 subscribers. I've given talks on frontend development from all around the world. Currently I work as a Senior Developer Advocate at AWS.",
+    "photo_local": "photos/erik-hanchett.jpg"
+  },
+  {
+    "name": "Etienne Caron",
+    "company": "Kanastruk Services Conseils",
+    "photo": "https://confoo.ca/images/speakers/2026/etienne-caron.jpg",
+    "url": "https://confoo.ca/en/speaker/etienne-caron",
+    "bio": "Over 25 years of experience in the industry.\n\u2022 President - Kanastruk Innovation Labs: Web, Mobile, and IoT (Led projects for Bell, Instacart)\n\u2022 Staff Developer - Shopify store management app (1M+ downloads)\n\u2022 Senior Android Developer - Shopify Hatchful\u2122 Logo Maker (1M+ downloads)\n\u2022 Android Team Lead - Passwordbox\u2122 password manager (1M+ downloads, acquired by Intel/McAfee)\n\u2022 Senior Backend Developer - 8D Technologies (Bixi, New York Citi Bikes, London Bike Share; acquired by Lyft)",
+    "photo_local": "photos/etienne-caron.jpg"
+  },
+  {
+    "name": "\u00c9tienne V\u00e9zina",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/etienne-vezina.jpg",
+    "url": "https://confoo.ca/en/speaker/etienne-vezina",
+    "bio": "Apr\u00e8s plus de 20 ans \u00e0 faire groover les sc\u00e8nes du Qu\u00e9bec et \u00e0 performer \u00e0 l\u2019international, \u00c9tienne V\u00e9zina ma\u00eetrise l\u2019art de lever le moral avec des voyages musicaux immersifs, \u00e9nergisants et franchement \u00e9clat\u00e9s. Pour l\u2019\u00e9v\u00e9nement, il livre un mix \u00e9lectrisant, ponctu\u00e9 de moments plus smooth et de mont\u00e9es puissantes pour enflammer l\u2019ambiance.",
+    "photo_local": "photos/etienne-vezina.jpg"
+  },
+  {
+    "name": "Florian Engelhardt",
+    "company": "Datadog",
+    "photo": "https://confoo.ca/images/speakers/2026/florian-engelhardt.jpg",
+    "url": "https://confoo.ca/en/speaker/florian-engelhardt",
+    "bio": "Florian is married with five kids and likes to play table tennis, table football, chess, and MTG. He is also a software engineer and builds a PHP profiler at Datadog.\nHe started writing software on an IBM PS/2 30 286 in GW-BASIC back in 1993, throughout the 90s he learned HTML, JavaScript, Perl, C, and a bit of Assembler. It was September 2000 when he was introduced to PHP and he thought nobody would ever need it, but boy he was wrong.",
+    "photo_local": "photos/florian-engelhardt.jpg"
+  },
+  {
+    "name": "Francis Lavoie",
+    "company": "Loopsin",
+    "photo": "https://confoo.ca/images/speakers/2026/francis-lavoie.jpg",
+    "url": "https://confoo.ca/en/speaker/francis-lavoie",
+    "bio": "Full Stack Software Developer with 2 decades of programming experience. \n \nI'm currently involved in innovative technologies including Agentic AI development, Rust/Python programming, FastAPI, Axum, htmx, and React Native mobile solutions. \n \nI recently completed a certificate in Agentic AI from Johns Hopkins University.",
+    "photo_local": "photos/francis-lavoie.jpg"
+  },
+  {
+    "name": "Francis Pieraut",
+    "company": "SiliconIsland.ai",
+    "photo": "https://confoo.ca/images/speakers/2026/francis-pieraut-1.jpg",
+    "url": "https://confoo.ca/en/speaker/francis-pieraut-1",
+    "bio": "Apply Machine Learning Research Engineer/Entrepreneur/Investor & Mentor  \n\nFrancis is an hardcore tech entrepreneur, community builder, enabler and connector. By training, Francis is an apply research engineer from MTL's prestigious Yoshua Bengio lab (MILA). Francis was involved in early research on Deep Learning. He is involved directly and indirectly in many tech companies.",
+    "photo_local": "photos/francis-pieraut-1.jpg"
+  },
+  {
+    "name": "Frank Boucher",
+    "company": "Reka",
+    "photo": "https://confoo.ca/images/speakers/2026/frank-boucher.jpg",
+    "url": "https://confoo.ca/en/speaker/frank-boucher",
+    "bio": "Passionate about AI, cloud computing, and .NET Frank Boucher is seeking to learn from other and share his knowledge. You can find many of his blog posts and videos online in French and English. Frank is always happy to share and help others so everyone can have the best experience possible and get the maximum for their solution.",
+    "photo_local": "photos/frank-boucher.jpg"
+  },
+  {
+    "name": "Gerard Sans",
+    "company": "Google Developer Expert; former AWS Amplify team",
+    "photo": "https://confoo.ca/images/speakers/2026/gerard-sans.jpg",
+    "url": "https://confoo.ca/en/speaker/gerard-sans",
+    "bio": "Gerard Sans is a Computer Science Engineer and Google Developer Expert in AI, Cloud, and Angular. Formerly an AWS Amplify Developer Advocate, he now leads Axiom Professional Trainings and organises the NextAI London community. Passionate about the future of AI, Gerard enjoys sharing his knowledge through talks, workshops, and mentoring.",
+    "photo_local": "photos/gerard-sans.jpg"
+  },
+  {
+    "name": "Guy Nesher",
+    "company": "Redis",
+    "photo": "https://confoo.ca/images/speakers/2026/guy-nesher.jpg",
+    "url": "https://confoo.ca/en/speaker/guy-nesher",
+    "bio": "Guy Nesher is a team lead (and former lawyer) who heads the Redis Enterprise Cluster Manager team, building a mix of services using React/Fastify with a sprinkle of Go and Python.",
+    "photo_local": "photos/guy-nesher.jpg"
+  },
+  {
+    "name": "Heath Kesler",
+    "company": "OpenTek Solutions",
+    "photo": "https://confoo.ca/images/speakers/2026/heath-kesler-1.jpg",
+    "url": "https://confoo.ca/en/speaker/heath-kesler-1",
+    "bio": "Heath Kesler is an AI enthusiast, open source software evangelist, developer and architect; he has created Java architectures for large scalable, high transaction load systems for many fortune 100 companies. Heath has spoken at conferences all over the world and was selected as a 2012 JavaOne Rockstar. \nHe is an active contributor to several Apache frameworks and a committer on Karaf.   He is co-author of the book \"Learning Apache Karaf\" and \"Karaf Cookbook\".",
+    "photo_local": "photos/heath-kesler-1.jpg"
+  },
+  {
+    "name": "Henri Helvetica",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/henri-helvetica.jpg",
+    "url": "https://confoo.ca/en/speaker/henri-helvetica",
+    "bio": "Henri is a developer who has turned his interests to a passionate mix of site performance engineering and pinches of user experience. When not reading the deluge of daily research docs and case studies, or indiscriminately auditing sites, you can find him programming the Toronto Web Performance Group, volunteering at local bootcamps, and maybe even racking up miles running through the streets of the great city of Toronto.",
+    "photo_local": "photos/henri-helvetica.jpg"
+  },
+  {
+    "name": "Henri Tremblay",
+    "company": "TS Imagine",
+    "photo": "https://confoo.ca/images/speakers/2026/henri-tremblay.jpg",
+    "url": "https://confoo.ca/en/speaker/henri-tremblay",
+    "bio": "Henri est Java Champion, JavaOne Rock Star et Montr\u00e9al JUG leader. Il a d\u00e9velopp\u00e9 les concepts des mocks de classes au sein des projets EasyMock et Objenesis dont il est le project leader. Il est actuellement directeur de TS Imagine Canada.\n\nSes centres d\u2019int\u00e9r\u00eat sont l\u2019optimisation et la productivit\u00e9. Ceux-ci \u00e9tant parfois plus li\u00e9s qu\u2019on ne pourrait le penser. Il est un conf\u00e9rencier r\u00e9current sur ces sujets.\n\nIl essaie d'\u00eatre utile.",
+    "photo_local": "photos/henri-tremblay.jpg"
+  },
+  {
+    "name": "Ivar Grimstad",
+    "company": "Eclipse Foundation",
+    "photo": "https://confoo.ca/images/speakers/2026/ivar-grimstad.jpg",
+    "url": "https://confoo.ca/en/speaker/ivar-grimstad",
+    "bio": "Ivar Grimstad is the Jakarta EE Developer Advocate at Eclipse Foundation. He is a Norwegian Java Champion and JUG Leader in Sweden.\n\nBesides advocating the Jakarta EE technologies, Ivar is contributing to the Jakarta EE specifications as well as being the PMC Lead for Eclipse Enterprise for Java (EE4J). He is also one of the specification leads for Jakarta MVC and represents Eclipse Foundation in the JCP Executive Committee.\n\nIvar is a frequent speaker at International developer conferences.",
+    "photo_local": "photos/ivar-grimstad.jpg"
+  },
+  {
+    "name": "Jessica Tornare",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/jessica-tornare.jpg",
+    "url": "https://confoo.ca/en/speaker/jessica-tornare",
+    "bio": "Experte engag\u00e9e de la transformation des organisations et des pratiques de gestion depuis plus de 25 ans. \nAvec une approche bas\u00e9e autant sur la pratique que sur la recherche (EMBA HEC et Ph.D en management), je b\u00e2tis des ponts entre strat\u00e9gie, innovation et r\u00e9alit\u00e9 de terrain pour faire \u00e9merger des environnements de travail vivants, engag\u00e9s et performants. \nConf\u00e9renci\u00e8re, formatrice et autrice de Transformer l'\u00c9tat, une innovation \u00e0 la fois, j'enseigne \u00e9galement \u00e0 l'universit\u00e9 en maitrise.",
+    "photo_local": "photos/jessica-tornare.jpg"
+  },
+  {
+    "name": "Joel Tosi",
+    "company": "Dojo & Co",
+    "photo": "https://confoo.ca/images/speakers/2026/joel-tosi.jpg",
+    "url": "https://confoo.ca/en/speaker/joel-tosi",
+    "bio": "Co-author of upcoming book 'Signals and Levers (Fall '26, ITRevolution), 'Coaching for Learning' and 'Creating Your Dojo', Joel Tosi is a hands on coach, working with teams to make their work easier, allowing them to deliver impactful products.  This is achieved through continuous, team learning done in the context of their work while building products",
+    "photo_local": "photos/joel-tosi.jpg"
+  },
+  {
+    "name": "Johan Janssens",
+    "company": "Timble",
+    "photo": "https://confoo.ca/images/speakers/2026/johan-janssens.jpg",
+    "url": "https://confoo.ca/en/speaker/johan-janssens",
+    "bio": "Johan Janssens is a passionate technologist and open-source advocate with over 25 years of experience in emerging technologies and innovative software architectures. As a Fractional CTO and Digital Architect, he specializes in crafting seamless digital experiences and solving complex challenges with open technologies.\n\nA co-founder of Joomla and the lead developer of Joomla 1.5, Johan has played a pivotal role in shaping the open-source landscape. He is deeply committed to digital freedom.",
+    "photo_local": "photos/johan-janssens.jpg"
+  },
+  {
+    "name": "Johannes Bechberger",
+    "company": "SAP SE",
+    "photo": "https://confoo.ca/images/speakers/2026/johannes-bechberger.jpg",
+    "url": "https://confoo.ca/en/speaker/johannes-bechberger",
+    "bio": "Johannes Bechberger is a JVM developer working on profilers and their underlying technology in the SapMachine team at SAP. This includes improvements to async-profiler and its ecosystem, a website to view the different JFR event types, and improvements to the FirefoxProfiler, making it usable in the Java world. His work today comprises many open-source contributions and his blog, where he regularly writes articles on profiling and eBPF.",
+    "photo_local": "photos/johannes-bechberger.jpg"
+  },
+  {
+    "name": "Jonathan Marcil",
+    "company": "JM International",
+    "photo": "https://confoo.ca/images/speakers/2026/jonathan-marcil-1.jpg",
+    "url": "https://confoo.ca/en/speaker/jonathan-marcil-1",
+    "bio": "Jonathan is an Application Security Consultant that has published on the topic of threat modeling and is involved in NorthSec, a security event in Montreal. He is passionate about Application Security and enjoys architecture analysis, code review, cloud security and debunking security tools. Jonathan holds a bachelor's degree in Software Engineering from ETS Montreal and has 20 years of experience in Information Technology and Security.",
+    "photo_local": "photos/jonathan-marcil-1.jpg"
+  },
+  {
+    "name": "Jordan Kasper",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/jordan-kasper.jpg",
+    "url": "https://confoo.ca/en/speaker/jordan-kasper",
+    "bio": "Jordan started programming in 1993 and has developed systems on platforms ranging from IBM mainframes to TI calculators and everything in between. Jordan's experience includes software development, instruction, mentorship, and technical leadership at startups, Fortune 100 companies, universities, and state and federal governments. He is an open source maintainer and regular conference speaker. Outside of work Jordan is a community organizer, board game enthusiast, and aspiring author.",
+    "photo_local": "photos/jordan-kasper.jpg"
+  },
+  {
+    "name": "Josh Reed",
+    "company": "Aiven",
+    "photo": "https://confoo.ca/images/speakers/2026/josh-reed.jpg",
+    "url": "https://confoo.ca/en/speaker/josh-reed",
+    "bio": "Josh lives in Montr\u00e9al, Canada, and works for Aiven.io as a Staff Platform Engineer. With many years of experience in several parts of the software development lifecycle, he has a passion for processes that enable smooth interactions between developers and operations. When he\u2019s not hacking away at a problem or championing best practices, he loves to cook recipes from around the world, as long as he can garnish them with a little bit of cilantro!",
+    "photo_local": "photos/josh-reed.jpg"
+  },
+  {
+    "name": "Joyce Peralta",
+    "company": "McGill University",
+    "photo": "https://confoo.ca/images/speakers/2026/joyce-peralta-1.jpg",
+    "url": "https://confoo.ca/en/speaker/joyce-peralta-1",
+    "bio": "Joyce has been creating websites and digital content for more than 20 years. She currently works at McGill University as Manager, Digital Communications and has also held positions on development and communications teams at the University of Victoria, Western University and King's University College.\n\nAn award-winning international speaker, Joyce has presented at CMS Connect, Confoo, ContentEd, Digital Collegium, DrupalCon, and EvolveDigital about web standards, governance and user experience.",
+    "photo_local": "photos/joyce-peralta-1.jpg"
+  },
+  {
+    "name": "Julian Egelstaff",
+    "company": "Formulize",
+    "photo": "https://confoo.ca/images/speakers/2026/julian-egelstaff.jpg",
+    "url": "https://confoo.ca/en/speaker/julian-egelstaff",
+    "bio": "Julian leads the Formulize open source project, a data management platform that turns messy information and chaotic processes into beautiful databases that blend smoothly with how people actually work. In 1996, Julian got a Bachelor of Journalism and Philosophy, and naturally went on to 30 years in the software industry. In 2003, he co-founded Freeform Solutions, a non-profit web development firm, where the Formulize project began. Somehow, along the way, Julian became a Zend Certified Engineer.",
+    "photo_local": "photos/julian-egelstaff.jpg"
+  },
+  {
+    "name": "Justine Gehring",
+    "company": "Gologic",
+    "photo": "https://confoo.ca/images/speakers/2026/justine-gehring.jpg",
+    "url": "https://confoo.ca/en/speaker/justine-gehring",
+    "bio": "Justine Gehring is a specialist in the field of ML for code and obtained her master's from McGill and Mila where her research focused on generating code under challenging circumstances such as library-specific code. Previously, Justine was a research engineer at Moderne, focusing on leveraging AI for large-scale code refactoring and impact analysis. Presently, she leads the AI team at Gologic, where she develops AI-driven solutions to enhance DevOps workflows and accelerate software delivery.",
+    "photo_local": "photos/justine-gehring.jpg"
+  },
+  {
+    "name": "Karol Deland",
+    "company": "Workleap",
+    "photo": "https://confoo.ca/images/speakers/2026/karol-deland-1.jpg",
+    "url": "https://confoo.ca/en/speaker/karol-deland-1",
+    "bio": "Karol is a Staff Software Developer at Workleap. He's passionate about architecture, DevOps, and the cloud. He helps teams design and deliver cloud-native solutions in highly complex environments, always balancing pragmatism, innovation, and execution quality. Beyond coding, Karol shares his experience as a frequent speaker and active contributor to the tech community.",
+    "photo_local": "photos/karol-deland-1.jpg"
+  },
+  {
+    "name": "Kathryn Grayson Nanz",
+    "company": "Progress Software",
+    "photo": "https://confoo.ca/images/speakers/2026/kathryn-grayson-nanz.jpg",
+    "url": "https://confoo.ca/en/speaker/kathryn-grayson-nanz",
+    "bio": "Kathryn Grayson Nanz is a Senior Developer Advocate at Progress with a passion for React, UI/UX Design, and sharing with the community. She started her career as a graphic designer and was told by her Creative Director to never let anyone find out she could code because she\u2019d be stuck doing it forever \u2013 she ignored his warning and has never been happier. You can find her writing, blogging, and speaking about human-centered software development.",
+    "photo_local": "photos/kathryn-grayson-nanz.jpg"
+  },
+  {
+    "name": "Kevin Goldsmith",
+    "company": "Nimble Autonomy, LLC",
+    "photo": "https://confoo.ca/images/speakers/2026/kevin-goldsmith.jpg",
+    "url": "https://confoo.ca/en/speaker/kevin-goldsmith",
+    "bio": "Kevin Goldsmith serves as the Chief Technology Officer for DistroKid, the world's largest digital music distributor. Previously, he was the CTO of Anaconda, Inc., the world's most popular data science platform with over 25 million users.\n\nHe also served as CTO of  Onfido, CTO at Avvo, Vice President of Engineering, Consumer at Spotify, and for nine years at Adobe Systems as a director of engineering. He has also held software engineering roles at Microsoft and IBM.",
+    "photo_local": "photos/kevin-goldsmith.jpg"
+  },
+  {
+    "name": "Kilian Valkhof",
+    "company": "Polypane",
+    "photo": "https://confoo.ca/images/speakers/2026/kilian-valkhof.jpg",
+    "url": "https://confoo.ca/en/speaker/kilian-valkhof",
+    "bio": "Kilian is a front-end developer with over 20 years of experience that switched from building websites to building apps to build websites with. He is interested in modern web development, desktop app development and new technologies, and regularly speaks about topics like responsive websites, design systems and Electron. Kilian is a frequent open source contributor.",
+    "photo_local": "photos/kilian-valkhof.jpg"
+  },
+  {
+    "name": "Kito Mann",
+    "company": "Virtua, Inc.",
+    "photo": "https://confoo.ca/images/speakers/2026/kito-mann.jpg",
+    "url": "https://confoo.ca/en/speaker/kito-mann",
+    "bio": "Kito D. Mann is the Principal Consultant at Virtua, Inc., specializing in enterprise application architecture, training, development, and mentoring with microservices, cloud, Web Components, Angular, and Jakarta/Java EE technologies. He is also the co-host of The Stackd Podcast and the author of JavaServer Faces in Action. Mann has participated in several Java Community Process expert groups and is an internationally recognized speaker. He is a Java Champion and Google Developer Expert Alumnus.",
+    "photo_local": "photos/kito-mann.jpg"
+  },
+  {
+    "name": "Lo\u00efc Tr\u00e9hin",
+    "company": "ESA Series",
+    "photo": "https://confoo.ca/images/speakers/2026/loic-trehin.jpg",
+    "url": "https://confoo.ca/en/speaker/loic-trehin",
+    "bio": "How to rebuild multi-year hourly weather for dozens of sites, from postal addresses to one dashboard. Topics include geocoding, timezone resolution, and grouping nearby locations. A provider-agnostic API unifies historical, real-time, and forecast ranges. A background service backfills and refreshes safely. Guidance on rate limits, DST edge cases, and data quality. Leave with patterns and a minimal template.",
+    "photo_local": "photos/loic-trehin.jpg"
+  },
+  {
+    "name": "Louis Beaudoin-Allaire",
+    "company": "Workleap",
+    "photo": "https://confoo.ca/images/speakers/2026/louis-beaudoin-allaire.jpg",
+    "url": "https://confoo.ca/en/speaker/louis-beaudoin-allaire",
+    "bio": "Louis is a Principal Software Developer at Workleap. In his role, he overviews the technical vision and strategy of the product known as ShareGate to meet customer expectations and ambitions of the product.\n\nWorking closely with multiple development and product teams, he loves a good challenge that leverages technical creativity to bring a simple and efficient solution to customers.",
+    "photo_local": "photos/louis-beaudoin-allaire.jpg"
+  },
+  {
+    "name": "Maarten Balliauw",
+    "company": "Duende Software",
+    "photo": "https://confoo.ca/images/speakers/2026/maarten-balliauw.jpg",
+    "url": "https://confoo.ca/en/speaker/maarten-balliauw",
+    "bio": "Maarten Balliauw loves building web and cloud apps. His main interests are in .NET web technologies, C#, Microsoft Azure and application performance. He is Head of Customer Success at Duende Software. Creator and maintainer of https://speaker.travel. He's an ASP Insider and former Microsoft MVP. Maarten is a frequent speaker at various national and international events and organizes Azure User Group events in Belgium. In his free time, he brews his own beer.",
+    "photo_local": "photos/maarten-balliauw.jpg"
+  },
+  {
+    "name": "Marc-Antoine Aub\u00e9",
+    "company": "Poka",
+    "photo": "https://confoo.ca/images/speakers/2026/marc-antoine-aube-1.jpg",
+    "url": "https://confoo.ca/en/speaker/marc-antoine-aube-1",
+    "bio": "Thinking tools to solve thorny problems. Software engineering isn\u2019t just about production, it\u2019s about learning in complex, uncertain situations. This talk explores how useful (if imperfect) models and practical heuristics can help you reframe problems, cut through complexity, and make better technical decisions.",
+    "photo_local": "photos/marc-antoine-aube-1.jpg"
+  },
+  {
+    "name": "Marcus Bointon",
+    "company": "Devalps",
+    "photo": "https://confoo.ca/images/speakers/2026/marcus-bointon-1.jpg",
+    "url": "https://confoo.ca/en/speaker/marcus-bointon-1",
+    "bio": "I'm a skier, songwriter, PHP & Laravel developer, privacy advocate, sysadmin, technical writer, and the author of \"The HTTP/3 book\". I work as a pentester and writer for Radically Open Security, work on smartmessages.net, and support 1CRM. I'm the maintainer of PHPMailer (the second-most forked PHP project on GitHub!) and contribute to many other open-source projects. I've spoken at many conferences around the world. I live in the French alps with my wife, kids, guitars, skis, and bikes.",
+    "photo_local": "photos/marcus-bointon-1.jpg"
+  },
+  {
+    "name": "Marian Marinov",
+    "company": "Web Hosting Canada",
+    "photo": "https://confoo.ca/images/speakers/2026/marian-marinov.jpg",
+    "url": "https://confoo.ca/en/speaker/marian-marinov",
+    "bio": "Marian is a system administrator by heart. He is working with Linux for more than 20 years. Currently, he is Director of Engineering at Web Hosting Canada. He is a big fan of FOSS and regularly speaks at different FOSS conferences around the world.",
+    "photo_local": "photos/marian-marinov.jpg"
+  },
+  {
+    "name": "Mario Bittencourt",
+    "company": "SAP",
+    "photo": "https://confoo.ca/images/speakers/2026/mario-bittencourt.jpg",
+    "url": "https://confoo.ca/en/speaker/mario-bittencourt",
+    "bio": "I am a Software Architect with over 25 years of experience designing and leading distributed systems at scale. Based in Montr\u00e9al, I specialize in DDD, event-driven architectures, and building resilient cloud-based solutions.\nAs a passionate advocate for engineering excellence and continuous learning, I have authored over 90 technical articles on architecture, cloud, and AI, and regularly speak at technical conferences.",
+    "photo_local": "photos/mario-bittencourt.jpg"
+  },
+  {
+    "name": "Martin Legris",
+    "company": "Obvious Leap",
+    "photo": "https://confoo.ca/images/speakers/2026/martin-legris.jpg",
+    "url": "https://confoo.ca/en/speaker/martin-legris",
+    "bio": "Hi, I've been programming for longer than I like to admit.. I started developing for the web in 1997, wrote my first CGI scripts that talked to MySQL in C++. It has been a long journey since then; through Java (10+ years), PHP, HTML/JS, AS2, AS3, Android Developemnt, C#. I founded a startup in 2012 and raised 1M$; that has changed my perspective of programming forever! I like to explore interaction concepts.",
+    "photo_local": "photos/martin-legris.jpg"
+  },
+  {
+    "name": "Mathieu Fillion",
+    "company": "Wepoint",
+    "photo": "https://confoo.ca/images/speakers/2026/mathieu-fillion-1.jpg",
+    "url": "https://confoo.ca/en/speaker/mathieu-fillion-1",
+    "bio": "Mathieu is an experienced mobile developer who collaborated on dozens of mobile apps in the past decade. He's now guiding teams of software developers and constantly looking for ways to improve people's lives using technology.",
+    "photo_local": "photos/mathieu-fillion-1.jpg"
+  },
+  {
+    "name": "Mathieu Santostefano",
+    "company": "SensioLabs",
+    "photo": "https://confoo.ca/images/speakers/2026/mathieu-santostefano.jpg",
+    "url": "https://confoo.ca/en/speaker/mathieu-santostefano",
+    "bio": "As a developer for almost 15 years, I work with Symfony on a daily basis. Having worked with almost every version since 1.4, I have followed the evolution of the entire PHP ecosystem, eventually becoming an active contributor and joining the Symfony Core Team in 2021!\nStill passionate about this community and its enthusiasm, I enjoy sharing my experience on stage at conferences such as Forum PHP, SymfonyLive, SymfonyCon, and API Platform Con!",
+    "photo_local": "photos/mathieu-santostefano.jpg"
+  },
+  {
+    "name": "Mathys Deshaies",
+    "company": "Desjardins",
+    "photo": "https://confoo.ca/images/speakers/2026/mathys-deshaies.jpg",
+    "url": "https://confoo.ca/en/speaker/mathys-deshaies",
+    "bio": "En tant que d\u00e9veloppeur web, je prends plaisir \u00e0 concevoir des solutions web intuitives et efficaces. Guid\u00e9 par le principe \u00ab Keep it simple \u00bb, je suis anim\u00e9 par le d\u00e9veloppement, l'entrepreneuriat et la finance. Je travaille actuellement pour Desjardins et je suis pigiste. J'ai r\u00e9alis\u00e9 plusieurs projets personnels et men\u00e9 des pr\u00e9sentations \u00e0 Qu\u00e9bec, ce qui me permet d\u2019expliquer certains concepts dans un langage accessible, tout en partageant des conseils pratiques et applicables.",
+    "photo_local": "photos/mathys-deshaies.jpg"
+  },
+  {
+    "name": "Maxime David",
+    "company": "AWS",
+    "photo": "https://confoo.ca/images/speakers/2026/maxime-david.jpg",
+    "url": "https://confoo.ca/en/speaker/maxime-david",
+    "bio": "Maxime David is a Senior Software Engineer at AWS, working on the AWS Lambda Runtimes team. He's passionate about open source, serverless performance, and observability. A frequent conference speaker, Maxime has shared insights at re:Invent, PyCon US, Devoxx, and CNCF meetups around the world. When he's not deep in code or on stage sharing knowledge, Maxime is on a personal quest to try every banana bread he can find.",
+    "photo_local": "photos/maxime-david.jpg"
+  },
+  {
+    "name": "Micah Silverman",
+    "company": "Snyk",
+    "photo": "https://confoo.ca/images/speakers/2026/micah-silverman-1.jpg",
+    "url": "https://confoo.ca/en/speaker/micah-silverman-1",
+    "bio": "Micah is Snyk's Director of AI Acceleration. With 30 years of Java Experience (yup, that's from the beginning) and 23 years as a security professional Micah's authored numerous articles, co-authored a Java EE book, and spoken at many conferences. He's a maker, who's built full-size MAME arcade cabinets and repaired old electronic games (http://afitnerd.com/2011/10/16/weekend-project-fix-dark-tower/). He brings his love of all things security and Java to a conference near you!",
+    "photo_local": "photos/micah-silverman-1.jpg"
+  },
+  {
+    "name": "Michael Dawson",
+    "company": "Red Hat",
+    "photo": "https://confoo.ca/images/speakers/2026/michael-dawson.jpg",
+    "url": "https://confoo.ca/en/speaker/michael-dawson",
+    "bio": "Michael Dawson is a Senior Principal Software Engineer at Red Hat, with a focus on building AI and LLM applications as part of the ecosystem engineeing team. Before moving into the AI space, he was a key contributor to Node.js as the technical lead for IBM and Red Hat's team and a member of the Node.js Technical Steering Committee.",
+    "photo_local": "photos/michael-dawson.jpg"
+  },
+  {
+    "name": "Mika\u00ebl Francoeur",
+    "company": "Turso",
+    "photo": "https://confoo.ca/images/speakers/2026/mikael-francoeur.jpg",
+    "url": "https://confoo.ca/en/speaker/mikael-francoeur",
+    "bio": "Mika\u00ebl loves building software, taming complexity, and three-element enumerations. Before working as a software engineer, he was a musician and a researcher.",
+    "photo_local": "photos/mikael-francoeur.jpg"
+  },
+  {
+    "name": "Mohamed Wali",
+    "company": "Amazon Web Services",
+    "photo": "https://confoo.ca/images/speakers/2026/mohamed-wali.jpg",
+    "url": "https://confoo.ca/en/speaker/mohamed-wali",
+    "bio": "Mohamed is working as a Senior Solutions Architect for AWS Solutions Architecture team based out of Amsterdam, Netherlands. He is a subject matter expert in Cloud Architecture helping the customers scale their use of AWS safely and securely, accelerate their adoption of cloud and driving the value of their investment in AWS while acting as a technical liaison between customers and product teams to help evolve the AWS platform.",
+    "photo_local": "photos/mohamed-wali.jpg"
+  },
+  {
+    "name": "Nicholas Nadeau",
+    "company": "Onix",
+    "photo": "https://confoo.ca/images/speakers/2026/nicholas-nadeau.jpg",
+    "url": "https://confoo.ca/en/speaker/nicholas-nadeau",
+    "bio": "Dr. Nicholas Nadeau is an engineer and builder developing systems that enhance human intelligence across humanoid robots, cognitive neuroscience devices, and privacy-first AI. He scaled 3D printers at AON3D with parts on the ISS and Moon, led humanoid robots as CTO of 1X, and later served as CTO at SmartOne.ai. Now Co-Founder & CTO of Onix building Personal Intelligence, he also co-founded AI Salon Montr\u00e9al, mentors at CDL, Next AI, Startupfest, and serves on the board of Garage&Co.",
+    "photo_local": "photos/nicholas-nadeau.jpg"
+  },
+  {
+    "name": "Nick Taylor",
+    "company": "Pomerium",
+    "photo": "https://confoo.ca/images/speakers/2026/nick-taylor.jpg",
+    "url": "https://confoo.ca/en/speaker/nick-taylor",
+    "bio": "Nick is a Microsoft MVP, GitHub Star, Software Developer, and Developer Advocate. With over two decades in technology and a decade of open source contributions, plus five years of professional open source work at companies like OpenSauced, dev.to, and Netlify, he brings deep community knowledge to his work. You'll often find him live streaming tech content, either solo or with friends from the community.",
+    "photo_local": "photos/nick-taylor.jpg"
+  },
+  {
+    "name": "Paul Conroy",
+    "company": "Square1 Software",
+    "photo": "https://confoo.ca/images/speakers/2026/paul-conroy.jpg",
+    "url": "https://confoo.ca/en/speaker/paul-conroy",
+    "bio": "As CTO of Square1, a leading digital agency in Dublin, Paul brings 20+ years of experience building high-traffic applications across Europe. He's led teams, shaped products, and navigated the challenges of transitioning from developer to manager. An accomplished international speaker, he's passionate about sharing insights on technical leadership and the evolving world of software development.",
+    "photo_local": "photos/paul-conroy.jpg"
+  },
+  {
+    "name": "Pavel Makhov",
+    "company": "Lightspeed Commerce",
+    "photo": "https://confoo.ca/images/speakers/2026/pavel-makhov.jpg",
+    "url": "https://confoo.ca/en/speaker/pavel-makhov",
+    "bio": "Pavel is a Staff Software Developer and open-source enthusiast with over a decade of experience, primarily in Java. Beginning his career at the birthplace of the World Wide Web, CERN in Switzerland, Pavel has since worked in various companies, gaining expertise across a wide range of technologies. His interests span Linux, macOS/iOS development, and open source, reflecting his passion for exploring and mastering diverse technological landscapes.",
+    "photo_local": "photos/pavel-makhov.jpg"
+  },
+  {
+    "name": "Peter Zaitsev",
+    "company": "Percona, Coroot, FerretDB",
+    "photo": "https://confoo.ca/images/speakers/2026/peter-zaitsev-1.jpg",
+    "url": "https://confoo.ca/en/speaker/peter-zaitsev-1",
+    "bio": "Peter Zaitsev is an entrepreneur and co-founder of Percona, Coroot, FerretDB, and other tech companies. As one of the leading experts in Open Source strategy and database optimization, Peter has applied his technical knowledge and entrepreneurial drive to contribute as a board member and advisor to several open source startups. Additionally, Peter is the co-author of the book \"High Performance MySQL: Optimization, Backup and Replication,\" one of the most popular books on MySQL performance.",
+    "photo_local": "photos/peter-zaitsev-1.jpg"
+  },
+  {
+    "name": "Philippe Arteau",
+    "company": "ServiceNow",
+    "photo": "https://confoo.ca/images/speakers/2026/philippe-arteau.jpg",
+    "url": "https://confoo.ca/en/speaker/philippe-arteau",
+    "bio": "Philippe is a security engineer at ServiceNow. He has an interest in software development, penetration testing and security code review. He also maintains Find Security Bugs, the open-source Java static analysis tool.\nHe discovered significant vulnerabilities in several popular applications like Google Chrome, DropBox, Runkeeper, Jira and more. He has presented at various conferences including Black Hat Arsenal, SecTor, AppSec USA, ATLSecCon, 44CON and JavaOne.",
+    "photo_local": "photos/philippe-arteau.jpg"
+  },
+  {
+    "name": "Ralf Westphal",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/ralf-westphal.jpg",
+    "url": "https://confoo.ca/en/speaker/ralf-westphal",
+    "bio": "Ralf Westphal is an independent trainer and consultant specializing in long-term productivity in the age of AI, and preparing teams for the challenges of a VUCA world. \n\nWith nearly 40 years of industry experience, he co-founded in 2008 the largest German Clean Code initiative, which has grown to over 5,000 members.\n\nSince 1997, Ralf has contributed extensively to magazines, books, and blogs, and regularly speaks at developer conferences across Germany, Europe, and beyond.",
+    "photo_local": "photos/ralf-westphal.jpg"
+  },
+  {
+    "name": "Ramona Schwering",
+    "company": "Auth0",
+    "photo": "https://confoo.ca/images/speakers/2026/ramona-schwering-1.jpg",
+    "url": "https://confoo.ca/en/speaker/ramona-schwering-1",
+    "bio": "Ramona is a Developer Advocate at Auth0. With a background in software engineering and quality assurance, she bridges the gap between testers and developers and fosters trust in identity topics. Ramona is also a Google Developer Expert in Web Technologies, a Women Techmaker, and a Cypress Ambassador.",
+    "photo_local": "photos/ramona-schwering-1.jpg"
+  },
+  {
+    "name": "Rapha\u00ebl Rougeron",
+    "company": "Telaqua",
+    "photo": "https://confoo.ca/images/speakers/2026/raphael-rougeron.jpg",
+    "url": "https://confoo.ca/en/speaker/raphael-rougeron",
+    "bio": "Rapha\u00ebl Rougeron is a lead developer at Telaqua with 23 years experience in web technologies. While his background is deeply rooted in the PHP community, his main focus has shifted to the frontend at the beginning of the Single Page Applications age, before embracing the full-stack spirit. Being technical is cool, but did you try to mix Agile and leadership with that? Rapha\u00ebl did, and he loves to share stories from the trenches.",
+    "photo_local": "photos/raphael-rougeron.jpg"
+  },
+  {
+    "name": "reza madabadi",
+    "company": "",
+    "photo": "https://confoo.ca/images/speakers/2026/reza-madabadi-1.jpg",
+    "url": "https://confoo.ca/en/speaker/reza-madabadi-1",
+    "bio": "I began my career as a developer, took a detour into teaching, and returned to development and design with a broader perspective. \n\nI\u2019m a generalist who loves solving problems across many domains while going deep into areas that spark my curiosity. \n\nMy unconventional thinking often brings the fresh angle needed to find effective solutions.",
+    "photo_local": "photos/reza-madabadi-1.jpg"
+  },
+  {
+    "name": "Rida Al Barazi",
+    "company": "Amidship",
+    "photo": "https://confoo.ca/images/speakers/2026/rida-al-barazi.jpg",
+    "url": "https://confoo.ca/en/speaker/rida-al-barazi",
+    "bio": "Rida Al Barazi is a software architect, product strategist, and two-time founder focused on Rails, AI agents, and developer experience. He\u2019s been building for the web since 2002, co-authored Apress\u2019s Beginning Rails series, and has spoken at conferences across Canada, Europe, and the Middle East. He helps teams ship faster by pairing agentic workflows with reliable, testable software practices.",
+    "photo_local": "photos/rida-al-barazi.jpg"
+  },
+  {
+    "name": "Rob Richardson",
+    "company": "robrich.org",
+    "photo": "https://confoo.ca/images/speakers/2026/rob-richardson.jpg",
+    "url": "https://confoo.ca/en/speaker/rob-richardson",
+    "bio": "Rob Richardson is a software craftsman building web properties in ASP.NET and Node, React and Vue. He\u2019s a Microsoft MVP, published author, frequent speaker at conferences, user groups, and community events, and a diligent teacher and student of high quality software development. You can find this and other talks on https://robrich.org/presentations and follow him on Mastodon at @robrich@hachyderm.io.",
+    "photo_local": "photos/rob-richardson.jpg"
+  },
+  {
+    "name": "Robert Hodges",
+    "company": "Altinity",
+    "photo": "https://confoo.ca/images/speakers/2026/robert-hodges.jpg",
+    "url": "https://confoo.ca/en/speaker/robert-hodges",
+    "bio": "Robert Hodges serves as CEO at Altinity, an enterprise provider for ClickHouse. Robert has over 30 years of experience with database systems and applications including pre-relational databases such as M204, online SQL transaction processing, Hadoop, and analytics. In the last few years, his work has focused on analytical databases, Kubernetes, and open source. Robert is the founder of the Open Source Analytics Conference (osacon.io).",
+    "photo_local": "photos/robert-hodges.jpg"
+  },
+  {
+    "name": "Ron Dagdag",
+    "company": "Thomson Reuters",
+    "photo": "https://confoo.ca/images/speakers/2026/ron-dagdag.jpg",
+    "url": "https://confoo.ca/en/speaker/ron-dagdag",
+    "bio": "Ron Dagdag brings 25 years of experience as a software artisan to his role as Research Engineering Manager at Thomson Reuters, where he leads teams to develop transformative AI solutions. Ron is an active member of the tech community, recognized as a Microsoft MVP in AI, Mixed Reality, and IoT. Ron is an international speaker, sharing his knowledge at industry events, and remains an active maker and tinkerer with a passion for Augmented Intelligence. \nCode > Create > Coach > Repeat.",
+    "photo_local": "photos/ron-dagdag.jpg"
+  },
+  {
+    "name": "Rowdy Rabouw",
+    "company": "Nationale-Nederlanden",
+    "photo": "https://confoo.ca/images/speakers/2026/rowdy-rabouw.jpg",
+    "url": "https://confoo.ca/en/speaker/rowdy-rabouw",
+    "bio": "The web is designed to be accessible by default, but we developers made a mess of it along the way. We exclude a large group of people, while the web is an intrinsic part of our daily lives.\n\nIn this talk, we will look at common mistakes and see solutions to improve your website for people with disabilities. We will also discuss practical examples of how to make websites more enjoyable and usable for every user.",
+    "photo_local": "photos/rowdy-rabouw.jpg"
+  },
+  {
+    "name": "Sander Hoogendoorn",
+    "company": "ibood.com",
+    "photo": "https://confoo.ca/images/speakers/2026/sander-hoogendoorn.jpg",
+    "url": "https://confoo.ca/en/speaker/sander-hoogendoorn",
+    "bio": "Sander Hoogendoorn is an independent dad, traveler, and seasoned developer with 40+ years of experience who still writes code daily\u2014why stop now? As CTO at iBOOD, he's known for his post-agile mindset and knack for shaking the status quo.\n\nA prolific author and speaker, Sander keeps teams on their toes. He shares his ideas on disruption, microservices, software architecture, and the fine art of writing elegant code while championing small steps and big thinking.",
+    "photo_local": "photos/sander-hoogendoorn.jpg"
+  },
+  {
+    "name": "Scott Stroz",
+    "company": "Oracle",
+    "photo": "https://confoo.ca/images/speakers/2026/scott-stroz.jpg",
+    "url": "https://confoo.ca/en/speaker/scott-stroz",
+    "bio": "Scott has been full-stack developer for longer than the term \"full-stack developer\" has been around. In that time, MySQL was the only constant in his development stack. He is passionate about sharing what he has learned on his coding journey so others may learn from his mistakes.",
+    "photo_local": "photos/scott-stroz.jpg"
+  },
+  {
+    "name": "Semira Allen",
+    "company": "Grainger",
+    "photo": "https://confoo.ca/images/speakers/2026/semira-allen.jpg",
+    "url": "https://confoo.ca/en/speaker/semira-allen",
+    "bio": "Semira is an Engineering Manager at Grainger. She is a proud Northwestern University Alum and graduated in Computer Science. She was recently appointed as chair of the Agile Young Professionals committee for the Agile Alliance. She was also a program chair for Agile2023 and 2024 and was instrumental in bringing back their technology track. In her spare time she\u2019s a BIG Sci-fi nerd, tennis player, hobbyist photographer and twin!",
+    "photo_local": "photos/semira-allen.jpg"
+  },
+  {
+    "name": "Shao Hang He",
+    "company": "DevFortress",
+    "photo": "https://confoo.ca/images/speakers/2026/shao-hang-he-1.jpg",
+    "url": "https://confoo.ca/en/speaker/shao-hang-he-1",
+    "bio": "Shao Hang He is a serial entrepreneur and senior software developer. He has more than 11 years of experiences in software development. He worked for big companies such as Ubisoft, BlackBerry and Corus Entertainment. He also co-founded several startups (Athena AI, MailMagic.ai,  DevFortress, Blossom, Geek-it and Fanstories) and raised money from Venture Capital.",
+    "photo_local": "photos/shao-hang-he-1.jpg"
+  },
+  {
+    "name": "Sherif Behna",
+    "company": "SHB Informatique inc.",
+    "photo": "https://confoo.ca/images/speakers/2026/sherif-behna.jpg",
+    "url": "https://confoo.ca/en/speaker/sherif-behna",
+    "bio": "With a rich technical background, I am currently working on leveraging Big Data, Apache Spark, and Databricks to deliver value from data using the combination of Big Data, Machine Learning and Agile principles. \n\nMy professional journey reflects a commitment to continuous improvement and strategic transformation within the tech landscape. Among others, I focus on Domain Driven Design, Clean Code, MLOps, DevOps and Developer Experience (DUX), to develop high-quality, resilient systems.",
+    "photo_local": "photos/sherif-behna.jpg"
+  },
+  {
+    "name": "Simon MacDonald",
+    "company": "sanity.io",
+    "photo": "https://confoo.ca/images/speakers/2026/simon-macdonald.jpg",
+    "url": "https://confoo.ca/en/speaker/simon-macdonald",
+    "bio": "Simon MacDonald has 20 years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition, unified messaging and mobile development. His current focus is convincing folks \u201cyou aren\u2019t going to need it\u201d when it comes to building web applications as the Head of Developer Experience at Begin.",
+    "photo_local": "photos/simon-macdonald.jpg"
+  },
+  {
+    "name": "Stephan Hochdoerfer",
+    "company": "bitExpert AG",
+    "photo": "https://confoo.ca/images/speakers/2026/stephan-hochdoerfer.jpg",
+    "url": "https://confoo.ca/en/speaker/stephan-hochdoerfer",
+    "bio": "Stephan Hochd\u00f6rfer is the Head of IT Business Operations at bitExpert AG, a company that specializes in pro-code and low-code software development. In his role, he oversees the software development processes, technical operations, sales, and strategic planning.",
+    "photo_local": "photos/stephan-hochdoerfer.jpg"
+  },
+  {
+    "name": "Tamires Marcal",
+    "company": "McGill",
+    "photo": "https://confoo.ca/images/speakers/2026/tamires-marcal.jpg",
+    "url": "https://confoo.ca/en/speaker/tamires-marcal",
+    "bio": "I\u2019m a Computational Neuroscientist and an AI Researcher with a decade of experience bridging brain science and machine learning. With a strong background in science communication, industry collaboration and open science, I\u2019m dedicated to building tools that bring research closer to real-world solutions. I am currently pursuing a PhD at the McGill Centre for Integrative Neuroscience and Mila \u2013 Quebec Artificial Intelligence Institute.",
+    "photo_local": "photos/tamires-marcal.jpg"
+  },
+  {
+    "name": "Thibault Friedrich",
+    "company": "Plusgrade",
+    "photo": "https://confoo.ca/images/speakers/2026/thibault-friedrich.jpg",
+    "url": "https://confoo.ca/en/speaker/thibault-friedrich",
+    "bio": "Thibault Friedrich, a front-end engineer, loves coding beautiful, accessible, user-friendly graphical interfaces. He focuses on good user experience to increase business value, code craftsmanship to reduce maintenance costs and productivity.",
+    "photo_local": "photos/thibault-friedrich.jpg"
+  },
+  {
+    "name": "Thijs Feryn",
+    "company": "Varnish Software",
+    "photo": "https://confoo.ca/images/speakers/2026/thijs-feryn.jpg",
+    "url": "https://confoo.ca/en/speaker/thijs-feryn",
+    "bio": "As the Technical Evangelist at Varnish Software, Thijs Feryn focuses on web performance, software scalability, and content delivery. He demonstrates this through presentations, videos, books and blog posts.\n\nThijs is a published author and wrote Getting Started with Varnish Cache and Varnish 6 by Example. As a public speaker, he has a track record of over 370 presentations in 26 different countries, where he is often praised for his energetic and engaging presentation style.",
+    "photo_local": "photos/thijs-feryn.jpg"
+  },
+  {
+    "name": "Vagmi Mudumbai",
+    "company": "Urai AI Corp.",
+    "photo": "https://confoo.ca/images/speakers/2026/vagmi-mudumbai.jpg",
+    "url": "https://confoo.ca/en/speaker/vagmi-mudumbai",
+    "bio": "Vagmi is a technology leader and a polyglot developer with over 23 years of experience building software and teams. He is currently the co-founder and CTO of Urai AI Corp.",
+    "photo_local": "photos/vagmi-mudumbai.jpg"
+  },
+  {
+    "name": "Wesley Cabus",
+    "company": "Duende Software",
+    "photo": "https://confoo.ca/images/speakers/2026/wesley-cabus.jpg",
+    "url": "https://confoo.ca/en/speaker/wesley-cabus",
+    "bio": "Wesley is a Customer Success Engineer at Duende Software, helping Duende's customers to be successful by assisting developers with issues, documenting common problems and teaching about security / identity.\n\nHe's also a Microsoft MVP, board member of the VISUG meetup in Belgium and speaker at meetups and conferences, such as NDC London and Sydney, Copenhagen Developer Festival, WeAreDevelopers Berlin, Update Conference, TechDays, DevConf, DeveloperDays and Techorama.",
+    "photo_local": "photos/wesley-cabus.jpg"
+  },
+  {
+    "name": "Xavier Bouclet",
+    "company": "La fabrique Digit\u2019Owl",
+    "photo": "https://confoo.ca/images/speakers/2026/xavier-bouclet-1.jpg",
+    "url": "https://confoo.ca/en/speaker/xavier-bouclet-1",
+    "bio": "Techlead for several years, I like to discuss everything related to languages, tools or development practices. I participate in meetups and conferences in order to learn and challenge my knowledge. And now I share what I have learned.",
+    "photo_local": "photos/xavier-bouclet-1.jpg"
+  }
+]

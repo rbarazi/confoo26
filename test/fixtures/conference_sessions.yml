@@ -1,0 +1,26 @@
+legacy_code:
+  title: Untangling Legacy Code
+  description: Learn techniques for working with and improving legacy codebases.
+  slug: untangling-legacy-code
+  tags:
+    - architecture
+    - php
+  url: https://confoo.ca/en/2026/session/untangling-legacy-code
+  speaker: anna
+
+agentic_ai:
+  title: From Zero to Agentic AI with Google Gemini & MCP
+  description: Build agentic AI applications from scratch using Google Gemini and MCP.
+  slug: from-zero-to-agentic-ai-with-google-gemini-mcp
+  tags:
+    - ai
+  url: https://confoo.ca/en/2026/session/from-zero-to-agentic-ai-with-google-gemini-mcp
+  speaker: gerard
+
+unscheduled:
+  title: Unscheduled Workshop
+  description: A workshop that has no schedule entry.
+  slug: unscheduled-workshop
+  tags: []
+  url: https://confoo.ca/en/2026/session/unscheduled-workshop
+  speaker: anna

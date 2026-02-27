@@ -1,0 +1,1362 @@
+[
+  {
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "session_id": "3619",
+    "slug": "from-zero-to-agentic-ai-with-google-gemini-mcp",
+    "title": "From Zero to Agentic AI with Google Gemini & MCP",
+    "speaker": "Gerard Sans",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "session_id": "3620",
+    "slug": "passkeys-an-implementation",
+    "title": "Passkeys, an implementation",
+    "speaker": "Martin Legris",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "session_id": "3616",
+    "slug": "refactoring-legacy-php-for-maintainability",
+    "title": "Refactoring Legacy PHP for Maintainability",
+    "speaker": "Anna Filina",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "session_id": "3618",
+    "slug": "ddd-cqrs-and-hexagonal-architecture-the-good-parts",
+    "title": "DDD, CQRS and Hexagonal Architecture - the good parts",
+    "speaker": "Mario Bittencourt",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Wednesday",
+    "start_time": "09:00",
+    "end_time": "10:30",
+    "session_id": "3617",
+    "slug": "full-stack-security-for-web-applications",
+    "title": "Full-Stack security for web applications",
+    "speaker": "Marcus Bointon",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3758",
+    "slug": "simplifying-observability-focus-on-what-truly-matters",
+    "title": "Simplifying Observability: Focus on What Truly Matters",
+    "speaker": "Peter Zaitsev",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3684",
+    "slug": "drowning-in-details-turning-techtalk-into-everyday-language",
+    "title": "Drowning in Details: Turning TechTalk Into Everyday Language",
+    "speaker": "Semira Allen",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3658",
+    "slug": "ghosts-in-the-machine-tampering-with-the-js-supply-chain",
+    "title": "Ghosts in the Machine: Tampering with the JS Supply Chain",
+    "speaker": "Chris DeMars",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3746",
+    "slug": "no-frameworks-for-old-devs",
+    "title": "No Frameworks for Old Devs",
+    "speaker": "Simon MacDonald",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3727",
+    "slug": "the-test-suite-holy-trinity",
+    "title": "The Test Suite Holy Trinity",
+    "speaker": "Dave Liddament",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3738",
+    "slug": "java-concurrency-face-off-virtual-threads-vs-reactive",
+    "title": "Java Concurrency Face-Off: Virtual Threads vs Reactive",
+    "speaker": "A N M Bazlur Rahman",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3714",
+    "slug": "ramping-up-on-llama-stack-for-developing-ai-applications",
+    "title": "Ramping up on Llama Stack for developing AI applications",
+    "speaker": "Michael Dawson",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3710",
+    "slug": "building-a-supply-chain-attack-with-net-and-nuget",
+    "title": "Building a supply chain attack with .NET and NuGet",
+    "speaker": "Maarten Balliauw",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3661",
+    "slug": "building-php-applications-with-the-symfony-framework-in-2025",
+    "title": "Building PHP Applications with the Symfony Framework in 2026",
+    "speaker": "David Buchmann",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "09:00",
+    "end_time": "09:00",
+    "session_id": "3771",
+    "slug": "enrich-the-clis-experience-modern-tuis-with-python",
+    "title": "Enrich the CLIs' Experience: Modern TUIs with Python",
+    "speaker": "Andres Pineda",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3750",
+    "slug": "redefining-code-review-with-ai",
+    "title": "Redefining Code Review with AI",
+    "speaker": "Erik Beaulieu",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3718",
+    "slug": "praivacy-privacy-and-security-in-ai-tools",
+    "title": "PrAIvacy \u2013 Privacy and security in AI tools",
+    "speaker": "Marcus Bointon",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3795",
+    "slug": "graphql-distilled",
+    "title": "GraphQL Distilled",
+    "speaker": "Kito Mann",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3701",
+    "slug": "build-your-own-javascript-runtime",
+    "title": "Build your own JavaScript Runtime",
+    "speaker": "Vagmi Mudumbai",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3733",
+    "slug": "ditch-flaky-tests-node-testcontainers-reliable-testing",
+    "title": "Ditch Flaky Tests: Node + Testcontainers = Reliable Testing",
+    "speaker": "Scott Stroz",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3636",
+    "slug": "what-s-new-in-asp-net-core-10-and-blazor-10",
+    "title": "What's New in ASP.NET Core 10 and Blazor 10",
+    "speaker": "Christian Wenz",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3747",
+    "slug": "you-like-fastapi-you-like-pydantic-you-ll-love-pydantic-ai",
+    "title": "You Like FastAPI, You Like Pydantic, You'll Love Pydantic AI",
+    "speaker": "Alexis Fortin-C\u00f4t\u00e9",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3744",
+    "slug": "automating-my-house-with-go-and-php",
+    "title": "Automating My House with Go and PHP",
+    "speaker": "Derick Rethans",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3667",
+    "slug": "running-kubernetes-on-a-phone",
+    "title": "Running Kubernetes on a Phone",
+    "speaker": "Johannes Bechberger",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3789",
+    "slug": "caddyserver-first-contact",
+    "title": "CaddyServer: First Contact",
+    "speaker": "Arne Blankerts",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3698",
+    "slug": "insights-on-context-memory-for-a-supportive-assistant",
+    "title": "Insights on Context & Memory for a Supportive Assistant",
+    "speaker": "Cedric L'homme",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3695",
+    "slug": "rr-eg-ular-s-ee-x-p-pressions",
+    "title": "/^[Rr]eg(ular\\s)?[Ee]x(p|pressions?)?$/",
+    "speaker": "Jordan Kasper",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3712",
+    "slug": "can-we-use-ai-with-net",
+    "title": "Can we use AI with .NET?",
+    "speaker": "Frank Boucher",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3670",
+    "slug": "introduction-and-pitfalls-of-java-s-new-concurrency-model",
+    "title": "Introduction and pitfalls of Java's new concurrency model",
+    "speaker": "David vlijmincx",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3721",
+    "slug": "gitops-with-fluxcd-kubernetes-and-kubeseal",
+    "title": "GITOPS with fluxCD, kubernetes and kubeseal",
+    "speaker": "Benoit des Ligneris",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3812",
+    "slug": "build-voice-first-agents-with-gemini-3-pro",
+    "title": "Build Voice-First Agents with Gemini 3 Pro",
+    "speaker": "Gerard Sans",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3681",
+    "slug": "leveraging-the-edge-for-observability",
+    "title": "Leveraging the edge for observability",
+    "speaker": "Thijs Feryn",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3648",
+    "slug": "how-i-became-a-repo-man-for-a-day",
+    "title": "How I Became a Repo Man for a Day",
+    "speaker": "Micah Silverman",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3634",
+    "slug": "enhancing-your-customers-search-experience-with-gally",
+    "title": "Enhancing your customers' search experience with Gally",
+    "speaker": "Stephan Hochdoerfer",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3775",
+    "slug": "real-time-streaming-showdown-apache-spark-and-apache-flink",
+    "title": "Real-Time Streaming Showdown: Apache Spark and Apache Flink",
+    "speaker": "Sherif Behna",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3645",
+    "slug": "avoiding-deja-vu-building-resilient-apis-with-idempotency",
+    "title": "Avoiding D\u00e9j\u00e0 Vu: Building Resilient APIs with Idempotency",
+    "speaker": "Paul Conroy",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3753",
+    "slug": "ai-assemble-build-your-own-private-development-team",
+    "title": "AI Assemble! Build your own private Development Team",
+    "speaker": "Heath Kesler",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3764",
+    "slug": "what-every-spring-developer-should-know-about-jakarta-ee",
+    "title": "What Every Spring Developer Should Know About Jakarta EE",
+    "speaker": "Ivar Grimstad",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3662",
+    "slug": "intl-the-best-browser-api-you-re-not-using",
+    "title": "INTL: The best browser API you're not using",
+    "speaker": "Kilian Valkhof",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3742",
+    "slug": "safe-agentic-dev-environments",
+    "title": "Safe Agentic Dev Environments",
+    "speaker": "Rida Al Barazi",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3676",
+    "slug": "creer-un-pip-ia-multimodales-pour-l-analyse-radiographique",
+    "title": "Cr\u00e9er un pip IA Multimodales pour l'analyse radiographique",
+    "speaker": "Ali Amine Ghazali",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3668",
+    "slug": "comprendre-docker-de-facon-visuelle",
+    "title": "Comprendre Docker de fa\u00e7on visuelle",
+    "speaker": "Aur\u00e9lie Vache",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3804",
+    "slug": "asp-net-core-authentication-explained",
+    "title": "ASP.NET Core Authentication Explained",
+    "speaker": "Wesley Cabus",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3699",
+    "slug": "upgrading-legacy-to-the-latest-php-version",
+    "title": "Upgrading Legacy to the Latest PHP Version",
+    "speaker": "Anna Filina",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3797",
+    "slug": "explainable-ai-xai-where-to-begin",
+    "title": "Explainable AI (XAI): Where to Begin",
+    "speaker": "Tamires Marcal",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3674",
+    "slug": "secrets-security-end-to-end",
+    "title": "Secrets Security End-To-End",
+    "speaker": "Dwayne McDaniel",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3786",
+    "slug": "ai-for-java-developers",
+    "title": "AI for Java Developers",
+    "speaker": "Dan Vega",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3723",
+    "slug": "database-devops-with-containers",
+    "title": "Database DevOps with Containers",
+    "speaker": "Rob Richardson",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3629",
+    "slug": "blending-product-thinking-with-architecture-1",
+    "title": "Blending Product Thinking with Architecture",
+    "speaker": "Joel Tosi",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3652",
+    "slug": "accelerating-net-modernization-with-ai-transformation",
+    "title": "Accelerating .NET Modernization with AI Transformation",
+    "speaker": "Mohamed Wali",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3814",
+    "slug": "2026-the-future-in-performance",
+    "title": "2026: The Future In Performance",
+    "speaker": "Henri Helvetica",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3687",
+    "slug": "building-with-open-source-ai-a-crash-course",
+    "title": "Building with Open Source AI: A Crash Course",
+    "speaker": "Cedric Clyburn",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3638",
+    "slug": "observing-php-for-fun-and-profit",
+    "title": "Observing PHP for Fun and Profit",
+    "speaker": "Florian Engelhardt",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3800",
+    "slug": "rising-after-the-fall-engineering-your-career-comeback",
+    "title": "Rising After the Fall: Engineering Your Career Comeback",
+    "speaker": "Kevin Goldsmith",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3803",
+    "slug": "edge-ai-on-mobile-practical-approaches-and-challenges",
+    "title": "Edge AI on Mobile: Practical Approaches and Challenges",
+    "speaker": "Mathieu Fillion",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3799",
+    "slug": "ai-consistency-prompt-optimization-with-llm-as-a-judge",
+    "title": "AI consistency: Prompt Optimization with LLM as a judge",
+    "speaker": "Shao Hang He",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3779",
+    "slug": "php-8-5-new-features-from-the-source",
+    "title": "PHP 8.5: New Features from the Source",
+    "speaker": "Daniel Scherzer",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3706",
+    "slug": "nobody-is-serious-about-digital-sovereignty",
+    "title": "Nobody is Serious About Digital Sovereignty",
+    "speaker": "Josh Reed",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3754",
+    "slug": "how-we-failed-at-event-sourcing",
+    "title": "How we failed at Event Sourcing",
+    "speaker": "Louis Beaudoin-Allaire",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3808",
+    "slug": "opentelemetry-and-distributed-tracing",
+    "title": "OpenTelemetry and distributed tracing",
+    "speaker": "Marian Marinov",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3703",
+    "slug": "sqlite-more-powerful-than-you-think",
+    "title": "SQLite: more powerful than you think",
+    "speaker": "Mika\u00ebl Francoeur",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3790",
+    "slug": "observabilite-avec-spring-boot",
+    "title": "Observabilit\u00e9 avec Spring Boot",
+    "speaker": "Xavier Bouclet",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3665",
+    "slug": "from-the-crypt-to-the-code",
+    "title": "From the Crypt to the Code",
+    "speaker": "Ramona Schwering",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3644",
+    "slug": "a-practical-guide-to-passkeys-with-asp-net-core",
+    "title": "A Practical Guide to Passkeys with ASP.NET Core",
+    "speaker": "Maarten Balliauw",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3778",
+    "slug": "building-a-10-foot-experience-react-native-for-tv",
+    "title": "Building a 10-Foot Experience: React Native for TV",
+    "speaker": "Arvin Singla",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3770",
+    "slug": "messaging-patterns-to-transform-your-cloud-architecture",
+    "title": "Messaging Patterns to Transform Your Cloud Architecture",
+    "speaker": "Chad Green",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3785",
+    "slug": "what-s-new-in-spring-boot-4",
+    "title": "What's new in Spring Boot 4",
+    "speaker": "Dan Vega",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3697",
+    "slug": "moving-beyond-crud-to-cqrs",
+    "title": "Moving beyond CRUD to CQRS",
+    "speaker": "Chris Hartjes",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3773",
+    "slug": "prepare-your-code-for-php-9-overview-of-php-8-deprecations",
+    "title": "Prepare Your Code for PHP 9: Overview of PHP 8 Deprecations",
+    "speaker": "Damien Seguy",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3816",
+    "slug": "instrument-and-govern-ai-agents-before-they-go-rogue",
+    "title": "Instrument and Govern AI Agents Before They Go Rogue",
+    "speaker": "Carl Lapierre",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3792",
+    "slug": "full-stack-ai-security",
+    "title": "Full Stack AI Security",
+    "speaker": "Jonathan Marcil",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3739",
+    "slug": "transformer-l-etat-spoiler-la-techno-ne-suffit-pas",
+    "title": "Transformer l'\u00c9tat? Spoiler: la techno ne suffit pas",
+    "speaker": "Jessica Tornare",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3729",
+    "slug": "what-s-in-a-kubernetes-data-platform-let-s-build-one",
+    "title": "What's in a Kubernetes Data Platform? Let's Build One!",
+    "speaker": "Robert Hodges",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3705",
+    "slug": "from-zero-to-emulator-chip-8-and-the-art-of-c-abstraction",
+    "title": "From Zero to Emulator: CHIP-8 and the Art of C# Abstraction",
+    "speaker": "David Guida",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Thursday",
+    "start_time": "16:00",
+    "end_time": "16:45",
+    "session_id": "3719",
+    "slug": "from-address-to-dashboard-weather-history-at-scale",
+    "title": "From address to Dashboard: Weather History at Scale",
+    "speaker": "Lo\u00efc Tr\u00e9hin",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3688",
+    "slug": "how-i-automated-my-life-with-mcp-servers",
+    "title": "How I automated my life with MCP Servers",
+    "speaker": "Cedric Clyburn",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3716",
+    "slug": "leap-up-your-career",
+    "title": "Leap Up Your Career",
+    "speaker": "Karol Deland",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3635",
+    "slug": "web-application-security-up-to-date-the-2025-owasp-top-ten",
+    "title": "Web Application Security Up-to-date: The 2025 OWASP Top Ten",
+    "speaker": "Christian Wenz",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3732",
+    "slug": "talk-nerdy-to-me-building-an-mcp-server-with-node-js",
+    "title": "Talk Nerdy to Me: Building an MCP Server with Node.js",
+    "speaker": "Scott Stroz",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3737",
+    "slug": "old-dog-new-tricks-the-java-25-reinvention",
+    "title": "Old Dog, New Tricks: The Java 25 Reinvention",
+    "speaker": "A N M Bazlur Rahman",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3794",
+    "slug": "from-mosaic-to-modern-the-evolution-of-web-app-architecture",
+    "title": "From Mosaic to Modern: The Evolution of Web App Architecture",
+    "speaker": "Kito Mann",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3791",
+    "slug": "practical-llm-use-cases-for-security",
+    "title": "Practical LLM Use Cases for Security",
+    "speaker": "Jonathan Marcil",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3730",
+    "slug": "crafting-beautiful-charts-easily",
+    "title": "Crafting beautiful charts easily",
+    "speaker": "Rapha\u00ebl Rougeron",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3637",
+    "slug": "parallel-futures-unlocking-multithreading-in-php",
+    "title": "Parallel Futures: Unlocking Multithreading in PHP",
+    "speaker": "Florian Engelhardt",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "09:00",
+    "end_time": "09:45",
+    "session_id": "3692",
+    "slug": "from-cloud-to-laptop-practical-guide-to-local-ai-inference",
+    "title": "From Cloud to Laptop: Practical Guide to Local AI Inference",
+    "speaker": "Ron Dagdag",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3671",
+    "slug": "mental-models-and-heuristics",
+    "title": "Mental Models and Heuristics",
+    "speaker": "Marc-Antoine Aub\u00e9",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3707",
+    "slug": "building-rock-solid-encrypted-applications",
+    "title": "Building Rock-Solid Encrypted Applications",
+    "speaker": "Ben Dechrai",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3762",
+    "slug": "webrtc-realtime-glue-between-ai-agents-and-the-world",
+    "title": "WebRTC - Realtime Glue between AI Agents and the World",
+    "speaker": "Etienne Caron",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3787",
+    "slug": "frankenphp-performance-promises-and-pitfalls",
+    "title": "FrankenPHP: Performance, Promises and Pitfalls",
+    "speaker": "Arne Blankerts",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3769",
+    "slug": "effortless-sustainable-apps-with-azure-containers",
+    "title": "Effortless & Sustainable Apps with Azure Containers",
+    "speaker": "Chad Green",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3806",
+    "slug": "event-sourcing-without-dogma-slaying-aggregates-entities",
+    "title": "Event Sourcing without Dogma - Slaying Aggregates & Entities",
+    "speaker": "Ralf Westphal",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3643",
+    "slug": "becoming-a-tanstack-developer",
+    "title": "Becoming a Tanstack developer",
+    "speaker": "Guy Nesher",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3682",
+    "slug": "tailwind-css-styliser-sans-devenir-fou",
+    "title": "Tailwind CSS - Styliser sans devenir fou",
+    "speaker": "Mathys Deshaies",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3666",
+    "slug": "jdk-25-s-new-cpu-time-profiler",
+    "title": "JDK 25's new CPU-Time Profiler",
+    "speaker": "Johannes Bechberger",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "10:00",
+    "end_time": "10:45",
+    "session_id": "3809",
+    "slug": "simplify-your-observability-layer-with-opentelemetry-and-ebp",
+    "title": "Simplify your observability layer with OpenTelemetry & eBPF",
+    "speaker": "Marian Marinov",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3655",
+    "slug": "apis-secured-the-modern-way",
+    "title": "APIs secured, the modern way",
+    "speaker": "Mathieu Santostefano",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3793",
+    "slug": "oauth2-client-and-server-implementation",
+    "title": "oAuth2 - Client and Server Implementation",
+    "speaker": "Martin Legris",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3641",
+    "slug": "3-illusions-in-software-delivery",
+    "title": "3 Illusions in Software Delivery",
+    "speaker": "Joel Tosi",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3736",
+    "slug": "screen-reader-101",
+    "title": "Screen Reader 101",
+    "speaker": "Ashleigh Lodge",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3639",
+    "slug": "spring-boot-and-graalvm-lessons-from-30-000-feet",
+    "title": "Spring Boot and GraalVM - Lessons from 30,000 feet",
+    "speaker": "Andrew Lombardi",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3745",
+    "slug": "agentic-coding-building-features-with-ai-teammates",
+    "title": "Agentic Coding: Building Features with AI Teammates",
+    "speaker": "Rida Al Barazi",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3630",
+    "slug": "coding-c-with-c",
+    "title": "Coding C# with C#",
+    "speaker": "AL Rodriguez",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3798",
+    "slug": "human-intelligence-vs-artificial-intelligence",
+    "title": "Human Intelligence vs. Artificial Intelligence",
+    "speaker": "Tamires Marcal",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3623",
+    "slug": "understanding-kubernetes-in-a-visual-way",
+    "title": "Understanding Kubernetes in a visual way",
+    "speaker": "Aur\u00e9lie Vache",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "11:00",
+    "end_time": "11:45",
+    "session_id": "3693",
+    "slug": "creez-des-services-web-avec-rust-et-axum",
+    "title": "D\u00e9couverte des services web avec Rust et Axum",
+    "speaker": "Francis Lavoie",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3686",
+    "slug": "api-development-shifting-from-code-first-to-design-first",
+    "title": "API Development: Shifting from Code-First to Design-First",
+    "speaker": "Pavel Makhov",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3663",
+    "slug": "programming-principles-for-front-end-developers",
+    "title": "Programming principles for front-end developers",
+    "speaker": "Kilian Valkhof",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3724",
+    "slug": "etre-directeur-technique",
+    "title": "\u00catre directeur technique",
+    "speaker": "Henri Tremblay",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3759",
+    "slug": "container-deep-dive-namespaces-layers-and-cgroups",
+    "title": "Container Deep Dive: Namespaces, Layers, and cgroups",
+    "speaker": "Daniel Mikusa",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3622",
+    "slug": "a-web-for-anyone-anywhere-anytime",
+    "title": "A web for anyone, anywhere, anytime",
+    "speaker": "Rowdy Rabouw",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3796",
+    "slug": "when-should-you-use-mcp",
+    "title": "When should you use MCP?",
+    "speaker": "Shao Hang He",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3748",
+    "slug": "llm-from-scratch-no-slide-just-code",
+    "title": "LLM from Scratch, No Slide, Just Code",
+    "speaker": "Alexis Fortin-C\u00f4t\u00e9",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3743",
+    "slug": "saving-time-by-using-a-debugger",
+    "title": "Saving Time by Using a Debugger",
+    "speaker": "Derick Rethans",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3768",
+    "slug": "know-your-data-just-a-tad-more-than-adding-indexes",
+    "title": "Know Your Data! Just a Tad More Than Adding Indexes",
+    "speaker": "reza madabadi",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "13:00",
+    "end_time": "13:45",
+    "session_id": "3818",
+    "slug": "how-the-browser-is-breaking-your-web-app",
+    "title": "How the browser is breaking your web app",
+    "speaker": "Anthony Vallee-Dubois",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3689",
+    "slug": "the-art-of-context-engineering",
+    "title": "The Art of Context Engineering",
+    "speaker": "Carl Lapierre",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3626",
+    "slug": "learn-enough-design-to-be-dangerous",
+    "title": "Learn Enough Design to be Dangerous",
+    "speaker": "Kathryn Grayson Nanz",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3784",
+    "slug": "evaluer-les-llms-ce-que-mesurent-et-ratent-les-benchmarks",
+    "title": "\u00c9valuer les LLMs: ce que mesurent et ratent les benchmarks",
+    "speaker": "Justine Gehring",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3815",
+    "slug": "the-rum-archive-a-real-user-monitoring-dataset",
+    "title": "The RUM Archive: a Real User Monitoring Dataset",
+    "speaker": "Henri Helvetica",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3802",
+    "slug": "immutable-by-design",
+    "title": "Immutable by Design",
+    "speaker": "Andres Pineda",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3717",
+    "slug": "magical-client-side-logging-the-little-headers-that-could",
+    "title": "Magical client-side logging \u2013 the little headers that could",
+    "speaker": "Marcus Bointon",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3649",
+    "slug": "rag-that-works-fixing-vector-search-with-l2-normalization",
+    "title": "Why Your Vector Search Is Silently Wrong (And How to Fix It)",
+    "speaker": "Nicholas Nadeau",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3781",
+    "slug": "building-php-extensions-with-webassembly",
+    "title": "Building PHP extensions with WebAssembly",
+    "speaker": "Johan Janssens",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3654",
+    "slug": "a-better-fluxcapacitor-will-not-make-clients-happy",
+    "title": "A better fluxcapacitor will not make clients happy",
+    "speaker": "Julian Egelstaff",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "14:00",
+    "end_time": "14:45",
+    "session_id": "3760",
+    "slug": "la-qualite-des-donnees-un-objectif-atteignable",
+    "title": "La Qualit\u00e9 des Donn\u00e9es : Un Objectif Atteignable ?",
+    "speaker": "Sherif Behna",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3755",
+    "slug": "developers-should-choose-team-structure-not-managers",
+    "title": "Developers should choose team structure, not managers",
+    "speaker": "Louis Beaudoin-Allaire",
+    "room": "ST-Laurent 1"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3694",
+    "slug": "gitting-more-out-of-git",
+    "title": "Gitting More Out of Git",
+    "speaker": "Jordan Kasper",
+    "room": "ST-Laurent 3"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3777",
+    "slug": "java-streams-and-caffeine-dreams",
+    "title": "Java Streams and Caffeine Dreams",
+    "speaker": "Mika\u00ebl Francoeur",
+    "room": "ST-Laurent 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3774",
+    "slug": "why-ai-isn-t-close-to-beat-human-yet-the-ml-perspective",
+    "title": "Why AI isn\u2019t close to beat human yet: the ML perspective",
+    "speaker": "Francis Pieraut",
+    "room": "ST-Laurent 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3772",
+    "slug": "how-php-is-really-written-stats-syntax-and-surprises",
+    "title": "How PHP Is Really Written: Stats, Syntax, and Surprises",
+    "speaker": "Damien Seguy",
+    "room": "ST-Laurent 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3624",
+    "slug": "functional-ideas-in-non-functional-languages",
+    "title": "Functional Ideas in Non-Functional Languages",
+    "speaker": "Christopher Neugebauer",
+    "room": "ST-Laurent 7"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3765",
+    "slug": "my-journey-into-open-source-and-how-you-can-start-too",
+    "title": "My Journey into Open Source and How You Can Start Too",
+    "speaker": "Maxime David",
+    "room": "ST-Laurent 8"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3711",
+    "slug": "building-agentic-research-assistants-to-search-online-for-us",
+    "title": "Building agentic research assistants to search online for us",
+    "speaker": "Frank Boucher",
+    "room": "Westmount 6"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3677",
+    "slug": "red-teaming-llm-du-jailbreak-a-la-mitigation",
+    "title": "Red teaming LLM - du jailbreak \u00e0 la mitigation",
+    "speaker": "Ali Amine Ghazali",
+    "room": "Outremont 4"
+  },
+  {
+    "day": "Friday",
+    "start_time": "15:00",
+    "end_time": "15:45",
+    "session_id": "3728",
+    "slug": "five-ways-to-slow-your-analytic-database-and-avoid-them",
+    "title": "Five Ways to Slow Your Analytic Database (and Avoid Them)",
+    "speaker": "Robert Hodges",
+    "room": "Outremont 5"
+  },
+  {
+    "day": "Friday",
+    "start_time": "16:00",
+    "end_time": "16:30",
+    "session_id": "3672",
+    "slug": "seven-habits-of-a-mostly-successful-team",
+    "title": "Seven Habits of a (Mostly) Successful Team",
+    "speaker": "Sander Hoogendoorn",
+    "room": "ST-Laurent 1"
+  }
+]
