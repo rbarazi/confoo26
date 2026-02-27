@@ -62,7 +62,7 @@ if [[ -s "${TOKEN_FILE}" ]]; then
 
 # BranchBox GH token
 if [ -f "${TOKEN_FILE}" ]; then
-  export GH_TOKEN="\$(grep '^GITHUB_TOKEN=' \"${TOKEN_FILE}\" | cut -d= -f2-)"
+  export GH_TOKEN="\$(grep '^GITHUB_TOKEN=' '${TOKEN_FILE}' | cut -d= -f2-)"
 fi
 EOF
     fi
