@@ -1,16 +1,14 @@
 {
-  "name": "Rails Project",
+  "name": "ConFoo 2026",
   "dockerComposeFile": "compose.yaml",
   "service": "rails-app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind,consistency=cached",
+  "remoteUser": "vscode",
   "containerEnv": {
     "DOCKER_CONTAINER": "true"
   },
   "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {
-      "moby": "false"
-    },
     "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/devcontainers/features/node:1": {
       "version": "20"
@@ -20,7 +18,7 @@
   },
   "forwardPorts": [3000],
   "initializeCommand": "bash -c 'cd \"${localWorkspaceFolder}\" && bash .devcontainer/scripts/init-host.sh'",
-  "postCreateCommand": "mise trust --all && mise install && mise exec -- bin/setup",
+  "postCreateCommand": "mise trust --all && mise install && mise exec -- bin/setup --skip-server",
   "postStartCommand": "bash -c 'cd \"${WORKSPACE_FOLDER:-.}\" && bash .devcontainer/scripts/setup-git.sh'",
   "runArgs": [
     "--env-file",

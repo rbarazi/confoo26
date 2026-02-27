@@ -41,7 +41,7 @@ RUN mkdir -p /etc/apt/keyrings && \
 RUN curl https://mise.run | sh && \
     /root/.local/bin/mise settings set experimental true && \
     /root/.local/bin/mise settings set legacy_version_file true && \
-    echo 'eval "$(/root/.local/bin/mise activate bash)"' >> /etc/bash.bashrc
+    echo 'if [ "$(id -u)" = "0" ]; then eval "$(/root/.local/bin/mise activate bash)"; fi' >> /etc/bash.bashrc
 
 USER vscode
 
@@ -52,9 +52,8 @@ RUN curl https://mise.run | sh && \
     echo 'eval "$(/home/vscode/.local/bin/mise activate bash)"' >> ~/.bashrc && \
     echo 'eval "$(/home/vscode/.local/bin/mise activate zsh)"' >> ~/.zshrc
 
-# Pre-install common Ruby versions to speed up first run
-# Projects can override via .ruby-version or .mise.toml
-RUN /home/vscode/.local/bin/mise install ruby@3.3 ruby@3.4 && \
-    /home/vscode/.local/bin/mise use --global ruby@3.3
+# Pre-install Ruby 3.4 (project default via .ruby-version / mise.toml)
+RUN /home/vscode/.local/bin/mise install ruby@3.4 && \
+    /home/vscode/.local/bin/mise use --global ruby@3.4
 
 ENV PATH="/home/vscode/.local/bin:/home/vscode/.local/share/mise/shims:$PATH"

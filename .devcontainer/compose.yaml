@@ -5,12 +5,10 @@ services:
       context: ..
       dockerfile: .devcontainer/Dockerfile
     pull_policy: ${DEVCONTAINER_PULL_POLICY:-missing}
-    privileged: true
     init: true
     ipc: host
     volumes:
     - ../..:/workspaces:cached
-    - dind-data:/var/lib/docker
     - mise-cache:/home/vscode/.local/share/mise
     - ${SHARED_CONFIG_DIR:-../..}/.ai-agents/codex:/home/vscode/.codex
     - ${SHARED_CONFIG_DIR:-../..}/.ai-agents/claude:/home/vscode/.claude
@@ -26,12 +24,39 @@ services:
     - path: .branchbox.env
       required: false
     environment:
-      SOLID_QUEUE_IN_PUMA: ${SOLID_QUEUE_IN_PUMA:-false}
+      DB_HOST: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      CHROME_URL: http://chrome:3000
+      SELENIUM_DRIVER_URL: http://chrome:3000/webdriver
     depends_on:
-    - cloudflared
+      postgres:
+        condition: service_healthy
+      chrome:
+        condition: service_started
+  postgres:
+    image: postgres:17
+    restart: unless-stopped
+    volumes:
+    - postgres-data:/var/lib/postgresql/data
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+  chrome:
+    image: ghcr.io/browserless/chromium
+    restart: unless-stopped
+    environment:
+      CONNECTION_TIMEOUT: 600000
   cloudflared:
     image: cloudflare/cloudflared:latest
     restart: unless-stopped
+    depends_on:
+    - rails-app
     env_file:
     - path: .cloudflared.env
       required: false
@@ -40,5 +65,5 @@ services:
     - --no-autoupdate
     - run
 volumes:
-  dind-data: null
   mise-cache: null
+  postgres-data: null
