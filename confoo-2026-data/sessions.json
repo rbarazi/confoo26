@@ -1,0 +1,2243 @@
+[
+  {
+    "id": "3803",
+    "title": "Edge AI on Mobile: Practical Approaches and Challenges",
+    "speaker": "Mathieu Fillion",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/edge-ai-on-mobile-practical-approaches-and-challenges",
+    "tags": [
+      "mobile",
+      "ai"
+    ],
+    "description": "Leverage edge AI to deliver instant, private, and offline-ready intelligence in your mobile apps. We\u2019ll explore practical ways to use on-device foundation models like Gemini-nano and Apple Intelligence and explain the balance between the powerful benefits of edge AI and its unique technical trade-offs to ship smarter and delightful mobile experiences."
+  },
+  {
+    "id": "3636",
+    "title": "What's New in ASP.NET Core 10 and Blazor 10",
+    "speaker": "Christian Wenz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/what-s-new-in-asp-net-core-10-and-blazor-10",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "On November 11, 2025 .NET 10 was released. As a part of this milestone version with 3 years of long-term support, the web frameworks ASP.NET Core and Blazor were updated. This session will showcase the major new features that were added, including many live demos. Especially when currently using .NET 8 or 9, an upgrade to .NET 10 is mandatory, since the support for older versions is running out. Come to see what to watch out for when migrating."
+  },
+  {
+    "id": "3695",
+    "title": "/^[Rr]eg(ular\\s)?[Ee]x(p|pressions?)?$/",
+    "speaker": "Jordan Kasper",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/rr-eg-ular-s-ee-x-p-pressions",
+    "tags": [],
+    "description": "Regular expressions exist in a mystical, magical wonderland that many developers avoid like the plague. This talk aims to demystify this useful and powerful tool. We'll talk about what regular expressions are, why we use them, some basic concepts, and some new ones for developers at any level."
+  },
+  {
+    "id": "3757",
+    "title": "17 Things Developers Need to Know About Databases",
+    "speaker": "Peter Zaitsev",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/17-things-developers-need-to-know-about-databases-1",
+    "tags": [
+      "db"
+    ],
+    "description": "Many applications suffer from inefficient database use, causing poor performance, downtime, and security risks. This talk shares foundational best practices for MySQL, PostgreSQL, and MongoDB. We\u2019ll cover schema design, query execution, indexing, and scalability\u2014equipping developers with the skills to build robust, secure, and efficient applications through smarter database operations."
+  },
+  {
+    "id": "3814",
+    "title": "2026: The Future In Performance",
+    "speaker": "Henri Helvetica",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/2026-the-future-in-performance",
+    "tags": [
+      "js",
+      "perf"
+    ],
+    "description": "Our quest for web performance has evolved from simple delivery to near-instant page loads. But what if we could go beyond instant? 2026: The Future in Performance redefines speed by focusing on critical metrics, Real User Monitoring (RUM) insights, and modern browser APIs. This session equips frontend developers to build the next generation of truly fast user experiences."
+  },
+  {
+    "id": "3641",
+    "title": "3 Illusions in Software Delivery",
+    "speaker": "Joel Tosi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/3-illusions-in-software-delivery",
+    "tags": [
+      "qa",
+      "cto"
+    ],
+    "description": "Software Delivery is full of illusions. In this session, we will look at 3 of them - Illusion of Progress, Illusion of Predictability, and Illusion of Control.\r\n\r\nWant to understand why all of those meetings aren't helping? What about all of that planning? How about why all that agile stuff we are doing (our own special way) just seems to make things slower?\r\n\r\nWe have you covered."
+  },
+  {
+    "id": "3654",
+    "title": "A better fluxcapacitor will not make clients happy",
+    "speaker": "Julian Egelstaff",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-better-fluxcapacitor-will-not-make-clients-happy",
+    "tags": [
+      "startup",
+      "human"
+    ],
+    "description": "If you're a tech person talking to clients, stop talking about technology. Start listening to people, figure out what they need, and make them happy. I guarantee you, a better fluxcapacitor will not make them happy, even if they need one. I spent 10+ years selling IT services as a principal at a small consultancy. Before that, I went to Journalism school. Let me tell you my best interview tips, people tips, and how and why you make clients happy."
+  },
+  {
+    "id": "3632",
+    "title": "A crash course into high availability for cloud apps",
+    "speaker": "Mario Bittencourt",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-crash-course-into-high-availability-for-cloud-apps",
+    "tags": [
+      "architecture",
+      "cloud"
+    ],
+    "description": "Our applications are expected to be operational 24/7, but what does it take to achieve high availability when considering the current cloud offerings we have available?\r\nI will go over redundancy for compute and persistence, graceful degradation, disaster recovery, and active-active patterns if you need more than 99.99% availability.\r\nI will discuss a framework to help you assess and prioritize to keep your costs and complexity in check."
+  },
+  {
+    "id": "3722",
+    "title": "A Database DevOps Pipeline",
+    "speaker": "Rob Richardson",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-database-devops-pipeline",
+    "tags": [
+      "db",
+      "devops"
+    ],
+    "description": "Are your automation practices accounting for the database? How do you verify database software quality? Most importantly, how do you care for customer data as the schema evolves? Let's dig into building a CI/CD pipeline for databases. We'll leverage Red Gate tools and containers for automation, testing, and push-button deployment. You can bring DevOps to the database."
+  },
+  {
+    "id": "3669",
+    "title": "A Java Developer's Quest for I/O Performance",
+    "speaker": "David vlijmincx",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-java-developer-s-quest-for-i-o-performance",
+    "tags": [
+      "java",
+      "perf"
+    ],
+    "description": "My journey optimizing Java's io_uring bindings taught me what performance truly means. Through misleading benchmarks, midnight debugging sessions, and countless profiler runs, I learned how to measure and systematically improve I/O performance. This talk reveals the practical techniques that pushed my implementation far beyond FileChannels, the surprising bottlenecks I encountered, and the hard won lessons that transformed how I develop bindings."
+  },
+  {
+    "id": "3644",
+    "title": "A Practical Guide to Passkeys with ASP.NET Core",
+    "speaker": "Maarten Balliauw",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-practical-guide-to-passkeys-with-asp-net-core",
+    "tags": [
+      "dotnet",
+      "security"
+    ],
+    "description": "Passkeys, using the WebAuthn protocol, replace passwords with stronger, simpler, and phishing-resistant authentication using your device's built-in security or a dedicated hardware key.\r\nLet's look at passkey authentication and its implementation in ASP.NET Core applications. We'll demonstrate how to integrate passkey authentication into your projects. We will also explain origins and why they matter in a passkey deployment."
+  },
+  {
+    "id": "3622",
+    "title": "A web for anyone, anywhere, anytime",
+    "speaker": "Rowdy Rabouw",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/a-web-for-anyone-anywhere-anytime",
+    "tags": [
+      "accessibility",
+      "html"
+    ],
+    "description": "The web is designed to be accessible by default, but we developers made a mess of it along the way. We exclude a large group of people, while the web is an intrinsic part of our daily lives.\r\n\r\nIn this talk, we will look at common mistakes and see solutions to improve your website for people with disabilities. We will also discuss practical examples of how to make websites more enjoyable and usable for every user."
+  },
+  {
+    "id": "3680",
+    "title": "Accelerate Docker Image delivery with Varnish caching",
+    "speaker": "Thijs Feryn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/accelerate-docker-image-delivery-with-varnish-caching",
+    "tags": [
+      "devops",
+      "perf"
+    ],
+    "description": "Organizations relying on Docker need fast registries, but at scale image pulls slow down, raise costs & create bottlenecks.\r\n\r\nThis talk shows how Varnish is optimized to cache Docker image manifests & image layers to dramatically boost performance & developer efficiency. We\u2019ll examine the HTTP requests behind the \"docker pull\" command & cover caching strategies for public and private repos while preserving authentication and access controls."
+  },
+  {
+    "id": "3652",
+    "title": "Accelerating .NET Modernization with AI Transformation",
+    "speaker": "Mohamed Wali",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/accelerating-net-modernization-with-ai-transformation",
+    "tags": [
+      "dotnet",
+      "ai"
+    ],
+    "description": "Migrating legacy .NET apps from Windows to Linux can be complex and costly. This session shows how generative AI can simplify modernization by automating dependency analysis, version upgrades, and code transformations cutting time and expense. Learn how to overcome scaling challenges, reduce licensing costs, improve security, and free your teams to focus on delivering business value instead of manual migration tasks."
+  },
+  {
+    "id": "3628",
+    "title": "Agentic Access: OAuth Gets You In. Zero Trust Keeps You Safe",
+    "speaker": "Nick Taylor",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/agentic-access-oauth-gets-you-in-zero-trust-keeps-you-safe",
+    "tags": [
+      "security",
+      "ai"
+    ],
+    "description": "AI agents and automated workloads are now interacting directly with production systems, making API calls, triggering automation, and even writing data at machine speed. This creates new risks: over-privileged tokens, opaque decision-making, and lack of real-time control. In this session, we show how to secure these workloads using identity-aware proxies, OAuth 2.1, and Zero Trust policies."
+  },
+  {
+    "id": "3745",
+    "title": "Agentic Coding: Building Features with AI Teammates",
+    "speaker": "Rida Al Barazi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/agentic-coding-building-features-with-ai-teammates",
+    "tags": [
+      "architecture",
+      "ai"
+    ],
+    "description": "Coding Agents succeed when you give them structure. This session runs like a workshop: we\u2019ll demonstrate how to build a feature with coding agents by defining a spec, managing context, and breaking the work into smaller subtasks. Along the way, you\u2019ll see real prompts, failure cases, and handoff rhythms that keep quality high while boosting delivery speed."
+  },
+  {
+    "id": "3753",
+    "title": "AI Assemble! Build your own private Development Team",
+    "speaker": "Heath Kesler",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ai-assemble-build-your-own-private-development-team",
+    "tags": [
+      "ai"
+    ],
+    "description": "This presentation examines how AI automation through MCP servers revolutionizes development team management and project workflows. Attendees explore practical implementations of AI-powered ticket assessment, automated bug resolution, UI design, and Full SDLC management. Participants gain actionable strategies to implement intelligent automation that reduces overhead while improving productivity and delivery speed."
+  },
+  {
+    "id": "3799",
+    "title": "AI consistency: Prompt Optimization with LLM as a judge",
+    "speaker": "Shao Hang He",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ai-consistency-prompt-optimization-with-llm-as-a-judge",
+    "tags": [
+      "qa",
+      "ai"
+    ],
+    "description": "LLM as a judge uses a language model to evaluate responses based on criteria you define, and prompt optimization is the process of refining the evaluation prompt to ensure the LLM judge is consistent, accurate, and fair in its scoring. Tools and techniques exist to automate this optimization, helping to capture complex evaluation criteria even with limited human supervision, improving performance, and reducing costly manual iterations."
+  },
+  {
+    "id": "3786",
+    "title": "AI for Java Developers",
+    "speaker": "Dan Vega",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ai-for-java-developers",
+    "tags": [
+      "java",
+      "ai"
+    ],
+    "description": "Java is everywhere in the enterprise and it's perfectly positioned to be the language of AI workloads. AI isn't magic. It's just another integration problem and Java developers have been solving those for decades. In this session you'll learn how to build AI-powered applications with Spring AI. Its model abstraction layer lets you write one codebase that talks to any model. Switch providers without rewriting your app."
+  },
+  {
+    "id": "3807",
+    "title": "An Evolution of Software Architecture Patterns",
+    "speaker": "Ralf Westphal",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/an-evolution-of-software-architecture-patterns",
+    "tags": [
+      "architecture"
+    ],
+    "description": "Clean Architecture is not the final word in application design. This talk traces the history of software architecture patterns from the 1970s to today. We will categorize them by their core principles to understand the driving forces behind their evolution. You will leave with a clear framework to look beyond today's popular patterns, helping you make informed architectural choices that improve the testability and productivity of your team."
+  },
+  {
+    "id": "3686",
+    "title": "API Development: Shifting from Code-First to Design-First",
+    "speaker": "Pavel Makhov",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/api-development-shifting-from-code-first-to-design-first",
+    "tags": [
+      "architecture",
+      "java"
+    ],
+    "description": "Migrating from code-first to design-first API development dramatically improved our team's workflow and API quality across dozens of microservices. We'll explore collaborative OpenAPI workflows, automated validation pipelines, and automated governance strategies that eliminated API inconsistencies and breaking changes. You'll learn practical migration steps, proven tooling, and adoption frameworks that work across languages and team sizes."
+  },
+  {
+    "id": "3655",
+    "title": "APIs secured, the modern way",
+    "speaker": "Mathieu Santostefano",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/apis-secured-the-modern-way",
+    "tags": [
+      "php",
+      "security"
+    ],
+    "description": "Securing APIs has become more standardized with modern solutions like OAuth2, OIDC, JWT and rate limiting. Now, tools like Keycloak and Symfony\u2019s new features simplify implementing these protocols.\r\nAs an API developer, you\u2019ll learn to enhance your API\u2019s security. As an API consumer, you\u2019ll discover how to interact securely with external APIs. Join us to master secure API practices, without the complexity!"
+  },
+  {
+    "id": "3804",
+    "title": "ASP.NET Core Authentication Explained",
+    "speaker": "Wesley Cabus",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/asp-net-core-authentication-explained",
+    "tags": [
+      "dotnet",
+      "security"
+    ],
+    "description": "Ever had to add the ability to your ASP.NET Core web application to authenticate users? Be honest: did you fully understand what you were doing, or did you just copy-paste some code from StackOverflow or your favorite AI assistant and hope for the best?\r\n\r\nIn this session, I'll explain how authentication actually works in ASP.NET Core from start to finish. Bring your questions, and leave your fear of AddAuthentication() behind!"
+  },
+  {
+    "id": "3805",
+    "title": "ASP.NET Core, from DEV to PRD",
+    "speaker": "Wesley Cabus",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/asp-net-core-from-dev-to-prd",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "Your ASP.NET Core web app runs fine on your machine and even in the DEV environment. But what happens when you deploy to multiple instances behind a load balancer? Suddenly, things that looked solid in DEV start breaking in PRD!\r\n\r\nIn this session, I'll show some common pitfalls you may encounter when deploying your apps to production. Come for the horror stories, leave with practical fixes!"
+  },
+  {
+    "id": "3744",
+    "title": "Automating My House with Go and PHP",
+    "speaker": "Derick Rethans",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/automating-my-house-with-go-and-php",
+    "tags": [
+      "php",
+      "ai",
+      "iot"
+    ],
+    "description": "In this presentation I will be showing how I use PHP, Go, and Home Assistant to automate many tasks in my office and house.\r\n\r\nWe'll be looking at how to interact with Home Assistant, with MQTT from both PHP and Go, and obtain sensor data. With this we can create complex scenarios for complex situations, such as trying to figure out how dark and cold/warm it is going to be in a room."
+  },
+  {
+    "id": "3645",
+    "title": "Avoiding D\u00e9j\u00e0 Vu: Building Resilient APIs with Idempotency",
+    "speaker": "Paul Conroy",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/avoiding-deja-vu-building-resilient-apis-with-idempotency",
+    "tags": [
+      "architecture",
+      "php"
+    ],
+    "description": "Repeated API requests happen more often than we'd like - double clicks, flaky networks, retries, and proxies can all replay calls unexpectedly. Without idempotency, this can lead to duplicate charges, broken state, and confused users.\r\n\r\nThis talk explores what really goes wrong when idempotency is missing, how companies like Stripe and Shopify design for retries in practice, and why implementing idempotency is often far simpler than we expect!"
+  },
+  {
+    "id": "3643",
+    "title": "Becoming a Tanstack developer",
+    "speaker": "Guy Nesher",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/becoming-a-tanstack-developer",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "TanStack is fast becoming the standard frontend toolkit, with consistent APIs and robust TypeScript support across frameworks. This talk challenges us to move past 'React' or 'Vue' specialization and become adaptable TanStack Developers. \r\n\r\nWe'll map common frontend problems to TanStack's composable tools, spotlight new features, and share practical tips and patterns."
+  },
+  {
+    "id": "3783",
+    "title": "Beyond the chatbot, beyond the IDE: AI in my CI/CD",
+    "speaker": "Justine Gehring",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/beyond-the-chatbot-beyond-the-ide-ai-in-my-ci-cd",
+    "tags": [
+      "devops",
+      "ai"
+    ],
+    "description": "AI\u2019s potential in software development goes far beyond code generation or IDE chatbots. This talk explores five AI capability families (Learning, Coding Assistants, Automation & Agents, Planning, and Data Exploration) that can reshape the CI/CD lifecycle. From process assessment to VM migrations, centering AI integration around developers throughout the entire lifecycle of planning, coding, deployment, and monitoring unlocks greater ROI."
+  },
+  {
+    "id": "3629",
+    "title": "Blending Product Thinking with Architecture",
+    "speaker": "Joel Tosi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/blending-product-thinking-with-architecture-1",
+    "tags": [
+      "architecture"
+    ],
+    "description": "Systems grow and change over time.  You can have intentional design, or accidental design.\r\n\r\nIn this session we will walk through approaches that leverage product context to keep architecture aligned with the needs of the product.  We will look at strategic DDD, C4 modeling, and architecture decision records.\r\n\r\nLeave this session with simple techniques that you can apply immediately to start blending product with architecture."
+  },
+  {
+    "id": "3646",
+    "title": "Boosting Frontend Speed: Quick Wins for Backend Developers",
+    "speaker": "Paul Conroy",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/boosting-frontend-speed-quick-wins-for-backend-developers",
+    "tags": [
+      "html",
+      "perf"
+    ],
+    "description": "Page speed makes or breaks user experience, yet many of us backend devs would rather wrangle APIs than wrestle with CSS quirks or jumpy images. The good news: you don\u2019t need to be a frontend wizard to make big gains!\r\n\r\nThis talk shares quick wins for common page speed issues, plus the metrics to prove your changes made things faster (and less painful). All without getting into the trenches with npm build processes and node version issues!"
+  },
+  {
+    "id": "3812",
+    "title": "Build Voice-First Agents with Gemini 3 Pro",
+    "speaker": "Gerard Sans",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/build-voice-first-agents-with-gemini-3-pro",
+    "tags": [
+      "ai"
+    ],
+    "description": "Explore how Gemini 3 Pro powers multimodal generation (text, image, audio, video) and real-time agents, plus effortless \u201cvibe coding\u201d in Google AI Studio. Dive into the Gemini Live API for real-time bidirectional voice and video conversations with tone-aware replies, tool use, RAG, and session memory. Together we\u2019ll cover prompt-to-code flows, media generation, voice-first use cases, and the next generation of MCP-driven agentic AI using Angular."
+  },
+  {
+    "id": "3678",
+    "title": "Build with Astro",
+    "speaker": "Christopher Harrison",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/build-with-astro",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "Meet Astro: the framework for content-driven sites which meets you as the developer where you are. Its syntax feels natural for web developers, and you can even use your favorite library - Svelte, React, Vue, and others - for interactive components. It's optimized for performance, using server-side rendering by default, reducing the amount of JavaScript run on the client. Let's explore how to quickly create sites with your new favorite framework!"
+  },
+  {
+    "id": "3701",
+    "title": "Build your own JavaScript Runtime",
+    "speaker": "Vagmi Mudumbai",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/build-your-own-javascript-runtime",
+    "tags": [
+      "js",
+      "rust"
+    ],
+    "description": "There is Node, Bun, Deno, CF Workers, vercel edge runtime and a lot more. This talk delves into how runtimes work and their relationship with their underlying JS engine like V8, JavascriptCore, Hermes and more. We will then understand V8's architecture and how we can integrate with V8 using Rust and Deno. We will walk through a simple JS runtime that can do ES Module loading, native typescript support and see how we can extend it with the ops."
+  },
+  {
+    "id": "3778",
+    "title": "Building a 10-Foot Experience: React Native for TV",
+    "speaker": "Arvin Singla",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-a-10-foot-experience-react-native-for-tv",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "React Native's potential extends well beyond mobile devices into the television ecosystem. TV development introduces distinct UX paradigms. From remote-first navigation to distance interface design. This session bridges that knowledge gap through live demonstrations and practical application. Join us to explore the nuances of 10-foot experiences and TV development best practices."
+  },
+  {
+    "id": "3715",
+    "title": "Building a Modular Monolith at Scale",
+    "speaker": "Karol Deland",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-a-modular-monolith-at-scale",
+    "tags": [
+      "architecture",
+      "dotnet"
+    ],
+    "description": "Building a modular monolith in a multi-team environment comes with complex technical challenges and no one-size-fits-all solutions. Unlike microservices, the approaches are less documented and often highly context-specific. In this experience-based talk, we\u2019ll explore issues such as long build times, dependency injection complexity, and module isolation and share practical strategies to overcome them."
+  },
+  {
+    "id": "3710",
+    "title": "Building a supply chain attack with .NET and NuGet",
+    "speaker": "Maarten Balliauw",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-a-supply-chain-attack-with-net-and-nuget",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "\"Haha, npm had yet another supply chain attack!\"\r\n\r\nI'm waiting for the day this happens with .NET and NuGet. The tools are there! A number of interesting techniques exist to smuggle code into someone's codebase, malicious or genuine.\r\n\r\nIn this talk, we'll look at several .NET, NuGet and MSBuild techniques to inject code into a software supply chain. We'll also look at some ways to mitigate the risk (but you can't eliminate it)."
+  },
+  {
+    "id": "3711",
+    "title": "Building agentic research assistants to search online for us",
+    "speaker": "Frank Boucher",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-agentic-research-assistants-to-search-online-for-us",
+    "tags": [
+      "dotnet",
+      "ai"
+    ],
+    "description": "This hands-on session will guide developers on how to build agentic AI systems for real-time business research using fragmented, fast-changing information. Using Reka Research API with C# to build AI assistants that search across multi-source and generate grounded, traceable answers."
+  },
+  {
+    "id": "3700",
+    "title": "Building Effective real-world voice agents",
+    "speaker": "Vagmi Mudumbai",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-effective-real-world-voice-agents",
+    "tags": [
+      "ai",
+      "rust"
+    ],
+    "description": "In this session, you will learn how to build voice agents. We will examine the elements and patterns of building voice agents, including full and half-cascade models, native speech models, and others. We will see how to run them locally and on the cloud. We will also explore common challenges in terms of getting reliable transcripts and tool calling, deployment infrastructure and considerations of how to deploy and scale voice agents."
+  },
+  {
+    "id": "3661",
+    "title": "Building PHP Applications with the Symfony Framework in 2026",
+    "speaker": "David Buchmann",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-php-applications-with-the-symfony-framework-in-2025",
+    "tags": [
+      "php",
+      "qa"
+    ],
+    "description": "PHP and Symfony both evolved a lot in the last couple of years. I want to show you how I build applications in Symfony, touching various new functionalities of PHP and Symfony. With hands-on examples, I will demonstrate step by step setting up useful tools and building a modern PHP application, leveraging Symfony components."
+  },
+  {
+    "id": "3781",
+    "title": "Building PHP extensions with WebAssembly",
+    "speaker": "Johan Janssens",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-php-extensions-with-webassembly",
+    "tags": [
+      "php"
+    ],
+    "description": "What if PHP extensions could be written not just in C, but in almost any programming language, safely, securely, and without steep learning curves?\r\n\r\nWith WebAssembly and FrankenPHP, this is possible. Wasm lets you create PHP extensions using Rust, Go, or JS, running untrusted code securely in a sandbox. This talk shows how you can build multi-language Wasm plugins for PHP with minimal code and run them with FrankenPHP."
+  },
+  {
+    "id": "3707",
+    "title": "Building Rock-Solid Encrypted Applications",
+    "speaker": "Ben Dechrai",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-rock-solid-encrypted-applications",
+    "tags": [
+      "architecture",
+      "security"
+    ],
+    "description": "Explore how to implement encryption correctly in real-world applications beyond just cryptography. Using live demos, learn architectural patterns for end-to-end encryption, perfect forward secrecy, secure device migration, and metadata protection. Attendees will gain practical knowledge to build truly secure systems that scale and avoid common pitfalls."
+  },
+  {
+    "id": "3687",
+    "title": "Building with Open Source AI: A Crash Course",
+    "speaker": "Cedric Clyburn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/building-with-open-source-ai-a-crash-course",
+    "tags": [
+      "cloud",
+      "ai"
+    ],
+    "description": "In the past year, we\u2019ve seen a fundamental change: developers and enterprises are moving away from proprietary, closed-source models. To save costs, prioritize privacy, and allow for customization, they are building, testing, and deploying their own open models. Join us as we demo the tools for model serving/scaling, adding unique data, agentic workflows, evaluation/optimization, and more- built on Linux and Kubernetes!"
+  },
+  {
+    "id": "3789",
+    "title": "CaddyServer: First Contact",
+    "speaker": "Arne Blankerts",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/caddyserver-first-contact",
+    "tags": [
+      "devops"
+    ],
+    "description": "Caddy Server, a modern, easy-to-use web server, is gaining popularity due to its simplicity and automatic HTTPS features. In this session, we'll explore its installation and configuration for static sites, reverse proxying, and dynamic applications. Through hands-on examples, you'll learn about the API for making instant configuration changes, as well as real-world use cases, ranging from hosting multiple sites to containerized deployments."
+  },
+  {
+    "id": "3712",
+    "title": "Can we use AI with .NET?",
+    "speaker": "Frank Boucher",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/can-we-use-ai-with-net",
+    "tags": [
+      "dotnet",
+      "ai"
+    ],
+    "description": "This session is a practical tour to compare different SDKs (OpenAI, Microsoft AI agent, etc.), ergonomics, setup when trying to use AI from a .NET application. Let's talk about what worked, what didn\u2019t, and lessons learned from the little gotchas you hit along the way."
+  },
+  {
+    "id": "3630",
+    "title": "Coding C# with C#",
+    "speaker": "AL Rodriguez",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/coding-c-with-c",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "Remembering every step of a coding pattern opens the door to mistakes. We're human after all (or an LLM trained on human written code). Thankfully we can write C# code that helps us write our C# code. C# Roslyn Analyzers, Roslyn Code Fixes, and even Source Generators can help us automate the code we write.\r\n\r\nIn this session we'll review those aforementioned features and discuss their pros and cons, plus the benefits of codifying code."
+  },
+  {
+    "id": "3642",
+    "title": "Component Testing in 2026, the return of the browser",
+    "speaker": "Guy Nesher",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/component-testing-in-2025-the-return-of-the-browser",
+    "tags": [
+      "js",
+      "qa"
+    ],
+    "description": "Component tests started in real browsers with Karma: high fidelity, but slow feedback and painful config. Jest + JSDOM made tests fast and easy, but emulation can miss rendering, layout, and browser APIs. \r\n\r\nPlaywright and Vitest Browser Mode bring back browser-first testing with headless speed, parallel runs, and traces. We\u2019ll compare the approaches and share migration tips for legacy code."
+  },
+  {
+    "id": "3668",
+    "title": "Comprendre Docker de fa\u00e7on visuelle",
+    "speaker": "Aur\u00e9lie Vache",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/comprendre-docker-de-facon-visuelle",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "description": "Comprendre Docker, le standard pour packager et ex\u00e9cuter nos applications, peut \u00eatre difficile et/ou prendre du temps.\r\n\r\nDepuis + de 5 ans je vulgarise Docker et ses concepts cl\u00e9s (images, layers, registry...) pour les expliquer visuellement, en sketchnotes, dans des articles, vid\u00e9os et m\u00eame un livre illustr\u00e9.\r\n\r\nDans cette talk, je partagerai ce parcours et vous expliquerai Docker, et ses concepts, de fa\u00e7on visuelle :-)."
+  },
+  {
+    "id": "3759",
+    "title": "Container Deep Dive: Namespaces, Layers, and cgroups",
+    "speaker": "Daniel Mikusa",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/container-deep-dive-namespaces-layers-and-cgroups",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "description": "Containers are everywhere! Since Docker's release, they've transformed software bundling and deployment. Many developers write Dockerfiles and build images, but what's really happening under the hood? This talk explores namespaces, cgroups and other container primitives. You'll learn how containers provide isolation, layers are composed, and what makes them secure and powerful. Perfect for developers and ops professionals seeking deeper insights."
+  },
+  {
+    "id": "3691",
+    "title": "Context-Aware Copilots for Next.js",
+    "speaker": "Ron Dagdag",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/context-aware-copilots-for-next-js",
+    "tags": [
+      "js",
+      "ai"
+    ],
+    "description": "We\u2019ll embed a copilot into a Next.js app that actually reads UI context (form values, selections, route state) and takes approved actions. We\u2019ll connect chat to real capabilities via typed tool calls, gate risk with consent prompts. You\u2019ll see simple routing between chat, tools, and retrieval\u2014and how to fail safely. Attend this presentation, walk out with a understanding context? decide? act? audit template you can drop into your product."
+  },
+  {
+    "id": "3730",
+    "title": "Crafting beautiful charts easily",
+    "speaker": "Rapha\u00ebl Rougeron",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/crafting-beautiful-charts-easily",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "Tired of charting libraries that don't live up to their promises? This session will guide you through the essentials needed to master the goat of charting: D3.js. We'll demystify core principles such as scales, axes, and ticks, and see how we can easily render complex SVG paths from pure data. With practical examples in React, you'll learn how to create your own charting components library."
+  },
+  {
+    "id": "3679",
+    "title": "Create demos which go to 11",
+    "speaker": "Christopher Harrison",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/create-demos-which-go-to-11",
+    "tags": [
+      "human"
+    ],
+    "description": "Technology for technology's sake is boring. What makes tech exciting is the problems it solves, how it makes things easier, not simply the fact it exists. When we look to create compelling demos (and content), we need to ensure we're telling a story, meeting people where they are, and giving them a narrative they can connect with. Let's explore how to build great demos, from the idea to the script to the video."
+  },
+  {
+    "id": "3676",
+    "title": "Cr\u00e9er un pip IA Multimodales pour l'analyse radiographique",
+    "speaker": "Ali Amine Ghazali",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/creer-un-pip-ia-multimodales-pour-l-analyse-radiographique",
+    "tags": [
+      "ai",
+      "python"
+    ],
+    "description": "Cette session est une plong\u00e9e technique dans la cr\u00e9ation d'un pipeline de diagnostic assist\u00e9 par IA. Nous verrons comment encha\u00eener trois mod\u00e8les de vision par ordinateur pour analyser des radiographies et d\u00e9tecter pneumonie, COVID-19 et tuberculose. Puis, nous utiliserons les r\u00e9sultats pour interroger un LLM via une architecture RAG afin de g\u00e9n\u00e9rer un rapport pr\u00e9liminaire. Un cas d'usage de bout en bout qui montre la puissance de la combinaison."
+  },
+  {
+    "id": "3708",
+    "title": "CSRF are back with Client-Side Path Traversal",
+    "speaker": "Philippe Arteau",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/csrf-are-back-with-client-side-path-traversal",
+    "tags": [
+      "js",
+      "security"
+    ],
+    "description": "CSRF vulnerabilities were thought to be a thing of the past thanks to automatic protections integrated into APIs, which require a token or header. Many client-side scripts automatically inject these tokens or headers. The \"Client-Side Path Traversal\" attack abuses this mechanism. Several examples of vulnerable code will be presented. This talk will also offer solutions to effectively mitigate this emerging risk."
+  },
+  {
+    "id": "3726",
+    "title": "Custom PHPStan Rules: Automate Standards and Save Time",
+    "speaker": "Dave Liddament",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/custom-phpstan-rules-automate-standards-and-save-time",
+    "tags": [
+      "php"
+    ],
+    "description": "PHPStan is best known for its ability to catch bugs, but did you know it can do so much more? By creating custom PHPStan rules you can enforce your project-specific coding standards, automate tedious review tasks, and ensure a consistent codebase - all without manual intervention. \r\n\r\nThis talk will guide you through step by step the process of creating a custom PHPStan rule, soon you'll be crafting your own!"
+  },
+  {
+    "id": "3723",
+    "title": "Database DevOps with Containers",
+    "speaker": "Rob Richardson",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/database-devops-with-containers",
+    "tags": [
+      "db",
+      "devops"
+    ],
+    "description": "Unlike CI/CD pipelines for applications, we can't just delete the database and pop up a new one with each new version. Let's start with the production database, and get SQL Server content to developers in containers, and then flow schema and lookup data back into production with migration tools. You can bring the reliability and automation of CI/CD pipelines to Database DevOps with containers."
+  },
+  {
+    "id": "3693",
+    "title": "D\u00e9couverte des services web avec Rust et Axum",
+    "speaker": "Francis Lavoie",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/creez-des-services-web-avec-rust-et-axum",
+    "tags": [
+      "rust"
+    ],
+    "description": "Introduction \u00e0 la puissance de Rust, exploration d\u2019Axum pour faire des api ou service web performant et fiable. Nous verrons comment construire une application, de vous donner les outils pour cr\u00e9er votre propre applications web modernes, s\u00fbres et ultra-performantes. Vous repartirez avec une feuille de route pour lancer votre propre projet."
+  },
+  {
+    "id": "3755",
+    "title": "Developers should choose team structure, not managers",
+    "speaker": "Louis Beaudoin-Allaire",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/developers-should-choose-team-structure-not-managers",
+    "tags": [
+      "human",
+      "cto"
+    ],
+    "description": "In many large organizations, leadership defines team structures without considering their impact on software. The result? Conway\u2019s Law inevitably shapes your systems in ways you may not expect. \r\n\r\nIn this session, we'll explore how ignoring software architecture undermines development, delivery, and ambitions. Then, we will see what can be done to better align teams with the intended targets."
+  },
+  {
+    "id": "3685",
+    "title": "DevOps for the age of AI",
+    "speaker": "Semira Allen",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/devops-for-the-age-of-ai",
+    "tags": [
+      "devops",
+      "ai"
+    ],
+    "description": "AI isn\u2019t coming for the future of software delivery, it\u2019s already here, rewriting the rules in real time. Models are being trained, deployed, and scaled faster than ever, but while DevOps gave us speed and reliability for traditional applications, it wasn\u2019t built for the messy, unpredictable world of machine learning. That\u2019s where MLOps comes in, the next evolution of DevOps, engineered for the age of AI."
+  },
+  {
+    "id": "3733",
+    "title": "Ditch Flaky Tests: Node + Testcontainers = Reliable Testing",
+    "speaker": "Scott Stroz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ditch-flaky-tests-node-testcontainers-reliable-testing",
+    "tags": [
+      "db",
+      "qa"
+    ],
+    "description": "Testing code that talks to your database doesn\u2019t have to be stressful! With Testcontainers, you can eliminate database testing headaches and boost your workflow. In this action-packed session, learn how to use Testcontainers to spin up fresh MySQL environments for every test, ensuring no more messy data. Discover the key benefits and get practical tips for integrating Testcontainers into your Node.js  projects."
+  },
+  {
+    "id": "3810",
+    "title": "DJ Set",
+    "speaker": "\u00c9tienne V\u00e9zina",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/dj-set",
+    "tags": [],
+    "description": "TBA"
+  },
+  {
+    "id": "3684",
+    "title": "Drowning in Details: Turning TechTalk Into Everyday Language",
+    "speaker": "Semira Allen",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/drowning-in-details-turning-techtalk-into-everyday-language",
+    "tags": [
+      "human"
+    ],
+    "description": "Ever found yourself rambling about Kubernetes, observability, or CI/CD pipelines\u2014only to be met with blank stares? In this session, we'll explore how to stop drowning in details and start making technical conversations resonate with non-technical stakeholders, new hires, or even your grandma. Whether you're pitching a project, mentoring juniors, or just trying to explain what you actually do at work, this talk is your life raft."
+  },
+  {
+    "id": "3735",
+    "title": "Easy Accessibility Wins: Better Accessibility in <5 Minutes",
+    "speaker": "Ashleigh Lodge",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/easy-accessibility-wins-better-accessibility-in-5-minutes",
+    "tags": [
+      "accessibility"
+    ],
+    "description": "Once people are aware of digital accessibility, the biggest roadblocks are lack of knowledge and experience, and organizations who are unwilling to dedicate time to it without a solid business case. \r\n\r\nWe\u2019ll walk through quick, easy and meaningful fixes that you can make in five minutes or less, along with why these are crucial accessibility issues, and how you can approach your leaders about prioritizing accessibility every day."
+  },
+  {
+    "id": "3769",
+    "title": "Effortless & Sustainable Apps with Azure Containers",
+    "speaker": "Chad Green",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/effortless-sustainable-apps-with-azure-containers",
+    "tags": [
+      "cloud",
+      "dotnet"
+    ],
+    "description": "Discover how Azure Container Apps simplify containerization by delivering enterprise-grade capabilities without Kubernetes complexity. Learn how built-in scaling, integrated services, and strong security enable effortless, sustainable deployments. Through real-world insights and best practices, explore ways to optimize resources, cut costs, and streamline orchestration for long-term success."
+  },
+  {
+    "id": "3767",
+    "title": "Effortless Containerization with Cloud Native Buildpacks",
+    "speaker": "Daniel Mikusa",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/effortless-containerization-with-cloud-native-buildpacks",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "description": "Ready to reduce your container build complexity? Cloud Native Buildpacks automatically transform your source code into production ready container images with very little configuration. This session introduces CNB fundamentals through practical examples: local builds with Pack CLI, CI pipeline integration, and proven strategies to overcome common adoption challenges and streamline your containerization workflow."
+  },
+  {
+    "id": "3634",
+    "title": "Enhancing your customers' search experience with Gally",
+    "speaker": "Stephan Hochdoerfer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/enhancing-your-customers-search-experience-with-gally",
+    "tags": [
+      "php",
+      "ecom"
+    ],
+    "description": "In this presentation, I will be introducing Gally - a highly advanced searchandising engine built on top of Symfony, API Platform, and Elasticsearch that allows you to build an API-first e-commerce search engine with ease. During the talk, I will walk you through the process of setting up and configuring Gally as well as the Gally bundle for Sylius."
+  },
+  {
+    "id": "3771",
+    "title": "Enrich the CLIs' Experience: Modern TUIs with Python",
+    "speaker": "Andres Pineda",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/enrich-the-clis-experience-modern-tuis-with-python",
+    "tags": [
+      "python"
+    ],
+    "description": "Command-line tools are potent, but they can also be visually appealing. In this talk, we'll explore how Rich, a Python library for beautiful formatting and text-based user interfaces, can help us transform simple CLIs into engaging TUIs.\r\n\r\nBy the end of the session, you'll know how to bring your CLIs to life, making them not only more functional but also more enjoyable to use."
+  },
+  {
+    "id": "3724",
+    "title": "\u00catre directeur technique",
+    "speaker": "Henri Tremblay",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/etre-directeur-technique",
+    "tags": [
+      "human",
+      "cto"
+    ],
+    "description": "La fa\u00e7on de penser d'un directeur technique n'est pas la m\u00eame que celle d'un d\u00e9veloppeur. Vos contraintes ne sont pas les m\u00eames. Vos incitatifs non plus. Comprendre ce qui pousse quelqu'un \u00e0 prendre une d\u00e9cision est une comp\u00e9tence utile. Comprendre pourquoi votre directeur technique prend une certaine d\u00e9cision est utile."
+  },
+  {
+    "id": "3784",
+    "title": "\u00c9valuer les LLMs: ce que mesurent et ratent les benchmarks",
+    "speaker": "Justine Gehring",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/evaluer-les-llms-ce-que-mesurent-et-ratent-les-benchmarks",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "description": "Claude ici, GPT par-ici, Qwen par-l\u00e0, mais comment les \u00e9valuer ? Cette session explore ce que mesurent et ratent des benchmarks comme HumanEval, MBPP, et DS-1000. Nous comparerons les m\u00e9triques textuelles et bas\u00e9es sur l\u2019ex\u00e9cution, verrons comment les benchmarks peuvent \u00eatre biais\u00e9s, et expliquerons les jeux d\u2019entra\u00eenement, de test et tests cach\u00e9s. Vous apprendrez \u00e0 juger la qualit\u00e9 et l\u2019utilit\u00e9 d\u2019un dataset, et m\u00eame comment en construire un."
+  },
+  {
+    "id": "3806",
+    "title": "Event Sourcing without Dogma - Slaying Aggregates & Entities",
+    "speaker": "Ralf Westphal",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/event-sourcing-without-dogma-slaying-aggregates-entities",
+    "tags": [
+      "architecture",
+      "db"
+    ],
+    "description": "Event Sourcing appears complex because it's often presented with unnecessary DDD patterns and specialized databases. This talk returns to first principles, showing Event Sourcing as a simple, natural approach that mirrors how living systems handle information. You'll learn to implement Event Sourcing using only basic data structures and standard storage. Let\u2019s move this powerful pattern from niche to mainstream development."
+  },
+  {
+    "id": "3797",
+    "title": "Explainable AI (XAI): Where to Begin",
+    "speaker": "Tamires Marcal",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/explainable-ai-xai-where-to-begin",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "description": "Black-box models fall short when decisions demand clarity and trust. This session shows how Explainable AI make troubleshooting easier and reveals hidden patterns in data. From making financial risk models more transparent to helping retailers see what drives sales, we\u2019ll explore real-world examples and focus on hands-on skills for building understandable models, including the use of Shapley values."
+  },
+  {
+    "id": "3621",
+    "title": "Exploring the Power of Browser Storage",
+    "speaker": "Rowdy Rabouw",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/exploring-the-power-of-browser-storage",
+    "tags": [
+      "db",
+      "js"
+    ],
+    "description": "The modern web browser is a powerhouse of storage capabilities that enables dynamic and interactive web experiences. From simple cookies to sophisticated IndexedDB, the browser offers a variety of storage mechanisms that can profoundly impact user interactions, performance, and data management.\r\n\r\nIn this talk, we'll explore the various storage options available to web developers and explain how each can enhance your web applications."
+  },
+  {
+    "id": "3683",
+    "title": "Figma dev mode - survivre aux designers",
+    "speaker": "Mathys Deshaies",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/figma-dev-mode-survivre-aux-designers",
+    "tags": [
+      "html",
+      "ux"
+    ],
+    "description": "Entre les couleurs qui changent tous les jours, les ic\u00f4nes impossibles \u00e0 trouver et les maquettes qui bougent comme par magie, Figma peut devenir le bordel. Dans cette pr\u00e9sentation, d\u00e9couvrez comment un d\u00e9veloppeur peut naviguer efficacement sur la plateforme tout en collaborant avec les designers. Nous explorerons les outils et les r\u00e8gles de base du design afin de rendre l\u2019int\u00e9gration d\u2019une maquette fluide et compr\u00e9hensible pour le d\u00e9veloppeur."
+  },
+  {
+    "id": "3728",
+    "title": "Five Ways to Slow Your Analytic Database (and Avoid Them)",
+    "speaker": "Robert Hodges",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/five-ways-to-slow-your-analytic-database-and-avoid-them",
+    "tags": [
+      "db",
+      "perf"
+    ],
+    "description": "We all want analytics that deliver real-time results, but too often systems crawl like slugs. This talk reveals the five biggest performance killers: choosing the wrong database, poor input batching, flawed schemas, queries that don\u2019t parallelize, and skimping on resources. We\u2019ll explain why each slows you down and how to avoid them. You may not hit gazelle speed, but you won\u2019t be stuck at slug pace either."
+  },
+  {
+    "id": "3787",
+    "title": "FrankenPHP: Performance, Promises and Pitfalls",
+    "speaker": "Arne Blankerts",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/frankenphp-performance-promises-and-pitfalls",
+    "tags": [
+      "php"
+    ],
+    "description": "Built on top of the powerful Caddy web server, FrankenPHP's Worker Mode promises revolutionary performance for PHP applications. To deliver on this promise, though, FrankenPHP sacrifices the safety of process isolation. This session explores architectural implications and real-world consequences, while sharing practical guidance on how to avoid unwanted and potentially unexpected side effects."
+  },
+  {
+    "id": "3719",
+    "title": "From address to Dashboard: Weather History at Scale",
+    "speaker": "Lo\u00efc Tr\u00e9hin",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-address-to-dashboard-weather-history-at-scale",
+    "tags": [
+      "architecture"
+    ],
+    "description": "How to rebuild multi-year hourly weather for dozens of sites, from postal addresses to one dashboard. Topics include geocoding, timezone resolution, and grouping nearby locations. A provider-agnostic API unifies historical, real-time, and forecast ranges. A background service backfills and refreshes safely. Guidance on rate limits, DST edge cases, and data quality. Leave with patterns and a minimal template."
+  },
+  {
+    "id": "3692",
+    "title": "From Cloud to Laptop: Practical Guide to Local AI Inference",
+    "speaker": "Ron Dagdag",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-cloud-to-laptop-practical-guide-to-local-ai-inference",
+    "tags": [
+      "dotnet",
+      "ai"
+    ],
+    "description": "On-device AI cuts latency, lowers cost, and keeps data private by running models locally. This talk shows how to ship real on-device AI that runs entirely on laptops and edge boxes. We\u2019ll start with model selection. Next, we\u2019ll add an OpenAI-compatible SDK and a simple UI."
+  },
+  {
+    "id": "3776",
+    "title": "From Code to Reality: A Developer's Journey with 3D Printing",
+    "speaker": "Arvin Singla",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-code-to-reality-a-developer-s-guide-to-3d-printing",
+    "tags": [],
+    "description": "Four years ago I knew nothing about 3D printing. Today it is central to my creative expression. In this talk I'll share my journey and explore why the technology became accessible, how it works, and what's possible when you have the tools to build your ideas. No experience needed, just curiosity."
+  },
+  {
+    "id": "3749",
+    "title": "From Dev to Lead: Guiding Without Managing",
+    "speaker": "Erik Beaulieu",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-dev-to-lead-guiding-without-managing",
+    "tags": [
+      "human"
+    ],
+    "description": "Stepping into leadership as a developer is tricky: you\u2019re expected to guide peers without becoming a manager. This talk shares strategies to influence without authority, avoid micromanagement, and balance coding with people skills. We will give practical insights to build trust, give feedback, and help your team thrive."
+  },
+  {
+    "id": "3794",
+    "title": "From Mosaic to Modern: The Evolution of Web App Architecture",
+    "speaker": "Kito Mann",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-mosaic-to-modern-the-evolution-of-web-app-architecture",
+    "tags": [
+      "architecture"
+    ],
+    "description": "The Mosaic web browser launched the modern web in 1993, sparking a journey from static pages to today\u2019s rich applications. This session explores key shifts in web app architectures, the successes and missteps along the way, and recurring patterns that shaped the web\u2014offering insights to guide future web development challenges with clarity and confidence."
+  },
+  {
+    "id": "3665",
+    "title": "From the Crypt to the Code",
+    "speaker": "Ramona Schwering",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-the-crypt-to-the-code",
+    "tags": [
+      "js",
+      "security"
+    ],
+    "description": "A cryptic videotape haunting its viewers, a shape-shifting entity haunting a research station, or an astronaut unknowingly carrying an alien onto a spaceship, do these scenarios sound familiar? These horror movie plots share similarities with creepy scenarios in web security you have already encountered. In a horror movie, a team should never split up, so please join me in countering the horrors of injection, broken access control and others!"
+  },
+  {
+    "id": "3751",
+    "title": "From Vulnerability to Victory: Java Security Essentials",
+    "speaker": "Anthony Dahanne",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-vulnerability-to-victory-java-security-essentials",
+    "tags": [
+      "java",
+      "security"
+    ],
+    "description": "This session demystifies the vulnerability lifecycle for Java devs: how flaws are found, scored (CVSS), and disclosed. \r\n\r\nLearn the key databases (NVD, GitHub Advisory, OSS Index) and the tools that use them. \r\n\r\nGet hands-on with discovery (SBOM), remediation (VEX files) and their associated tools. Also learn how handle framework End-of-Life. \r\n\r\nTurn security from burden to advantage in your Java projects."
+  },
+  {
+    "id": "3705",
+    "title": "From Zero to Emulator: CHIP-8 and the Art of C# Abstraction",
+    "speaker": "David Guida",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/from-zero-to-emulator-chip-8-and-the-art-of-c-abstraction",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "CHIP-8 is the Hello World of emulation, and the perfect excuse to write some beautiful C#. In this talk, we\u2019ll explore what CHIP-8 is, how to emulate it from scratch, and how to architect your emulator so it can render on multiple platforms like Blazor and MonoGame. Whether you\u2019re into retro computing or just want to level up your low-level coding skills, this talk will get you there. With style!"
+  },
+  {
+    "id": "3792",
+    "title": "Full Stack AI Security",
+    "speaker": "Jonathan Marcil",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/full-stack-ai-security",
+    "tags": [
+      "security"
+    ],
+    "description": "When it comes to securing AI, protecting the model is often a tiny piece of the puzzle, if not a distraction from the real risks.\r\n\r\nThis session presents a full-stack security approach for your entire AI pipeline. We'll cover everything from initial threat modeling and data handling policies to the practical details of protecting your cloud infrastructure, APIs, and keys. Learn to secure AI end-to-end."
+  },
+  {
+    "id": "3624",
+    "title": "Functional Ideas in Non-Functional Languages",
+    "speaker": "Christopher Neugebauer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/functional-ideas-in-non-functional-languages",
+    "tags": [
+      "architecture",
+      "qa"
+    ],
+    "description": "Can you do better than writing tests to make sure your code is actually correct? Yes!\r\n\r\nLet's look at how ideas from functional languages can reduce the amount of code you need to test. We'll be looking at how to use things like type guards, Result types, immutable data structures, and monads (I guess), to create better guarantees about what your code can do and where. I'm a Python person, but these techniques work in JS/typescript and PHP too!"
+  },
+  {
+    "id": "3658",
+    "title": "Ghosts in the Machine: Tampering with the JS Supply Chain",
+    "speaker": "Chris DeMars",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ghosts-in-the-machine-tampering-with-the-js-supply-chain",
+    "tags": [
+      "js",
+      "security"
+    ],
+    "description": "What if the code you\u2019re shipping isn\u2019t yours anymore? The scariest JavaScript bugs don\u2019t always come from your team, they come from open-source packages that have been possessed. This talk digs deep into the dark world of supply chain tampering: what it looks like, how it happens, and what modern devs can do to protect themselves. We\u2019ll talk tamper detection, package provenance, lockfile integrity, and even how to set up GitHub Actions."
+  },
+  {
+    "id": "3721",
+    "title": "GITOPS with fluxCD, kubernetes and kubeseal",
+    "speaker": "Benoit des Ligneris",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/gitops-with-fluxcd-kubernetes-and-kubeseal",
+    "tags": [
+      "architecture",
+      "cloud"
+    ],
+    "description": "We will cover what is Gitops and how does it works in practice using an in-production system that has been used for two years to manage thousands of deployment and hundreds of pods. We will review both the gloibal architecture as well as dig deeper into FluxCD/kubeseal with real-life demo (with Internet) or detailed video real-life action.,"
+  },
+  {
+    "id": "3694",
+    "title": "Gitting More Out of Git",
+    "speaker": "Jordan Kasper",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/gitting-more-out-of-git",
+    "tags": [],
+    "description": "Having trouble groking Git? Not sure what the difference between merging and rebasing is? Wonder what you would ever use a \"cherry-pick\" for? We'll cover these topics and more in this talk, helping you get past Git novice and on your way to Git master. This is not an introductory talk, come prepared to put your existing knowledge of staging, committing, and basic version control to the test!"
+  },
+  {
+    "id": "3795",
+    "title": "GraphQL Distilled",
+    "speaker": "Kito Mann",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/graphql-distilled",
+    "tags": [
+      "architecture",
+      "java"
+    ],
+    "description": "REST APIs expose fixed endpoints, but clients are limited to predefined queries. GraphQL changes that\u2014clients request exactly the data they need, while backends gain flexibility to unify multiple services. In this session, you\u2019ll learn what GraphQL is, how it works, and how to build and consume GraphQL APIs."
+  },
+  {
+    "id": "3688",
+    "title": "How I automated my life with MCP Servers",
+    "speaker": "Cedric Clyburn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-i-automated-my-life-with-mcp-servers",
+    "tags": [
+      "cloud",
+      "ai"
+    ],
+    "description": "Being a developer these days means you\u2019re not only writing code, but also a Linux admin, a DevOps engineer, you name it! Thankfully, the Model Context Protocol (MCP) has made it significantly easier for me to ask my natural language questions, such as \u201cWhat\u2019s consuming the most memory in our dev cluster right now?\u201d, and quickly receive a response. Hint: It was Prometheus. Learn the most popular MCP Servers, and how to chain them together too!"
+  },
+  {
+    "id": "3648",
+    "title": "How I Became a Repo Man for a Day",
+    "speaker": "Micah Silverman",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-i-became-a-repo-man-for-a-day",
+    "tags": [
+      "security"
+    ],
+    "description": "In summer 2024, I became a repo man for a day\u2014legally reclaiming a vehicle without confrontation. In this talk, I share how I approached it like a capture-the-flag challenge: planning, intel gathering, analysis, and execution. I cover legal recovery, avoiding counterattacks, and lessons on personal security my adversary could have used to stop me."
+  },
+  {
+    "id": "3772",
+    "title": "How PHP Is Really Written: Stats, Syntax, and Surprises",
+    "speaker": "Damien Seguy",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-php-is-really-written-stats-syntax-and-surprises",
+    "tags": [
+      "php"
+    ],
+    "description": "We all have opinions about how PHP should be written\u2014but what does the data say about how it actually is? In this talk, we dive into a large-scale analysis of real-world PHP code pulled from the Open Source ecosystem. Using static analysis, we measure the popularity of usage of modern features (attributes, enums, union types), and coding patterns that emerge across thousands of projects."
+  },
+  {
+    "id": "3818",
+    "title": "How the browser is breaking your web app",
+    "speaker": "Anthony Vallee-Dubois",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-the-browser-is-breaking-your-web-app",
+    "tags": [
+      "perf"
+    ],
+    "description": "Browsers can be more opinionated than we sometimes expect when building for the web. Whether it\u2019s to provide features to users, manage device resources, or make performance tradeoffs, the browser takes actions that subtly break web apps. This talk will explore a few of these cases, and how to make pages resilient to these interventions."
+  },
+  {
+    "id": "3756",
+    "title": "How to deal with claude.ai - a ML perspective",
+    "speaker": "Francis Pieraut",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-to-deal-with-claude-ai-a-ml-perspective",
+    "tags": [
+      "architecture",
+      "ai"
+    ],
+    "description": "Are you looking to better understand how to better leverage claude.ai and why it behaves this way? Dealing with claude.ai is counter-intuitive for many people. I will present why claude.ai is behaving this way and how to use the ML perspective to better constrain him to do what you really want with prompts."
+  },
+  {
+    "id": "3754",
+    "title": "How we failed at Event Sourcing",
+    "speaker": "Louis Beaudoin-Allaire",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/how-we-failed-at-event-sourcing",
+    "tags": [
+      "architecture"
+    ],
+    "description": "Event Sourcing is a powerful but tricky pattern.\r\n\r\nWhen the need for a new product arose, we began adopting the practice. Soon enough, issues in our implementation started surfacing.\r\n\r\nJoin me for a candid account of our journey with Event Sourcing: from our initial adoption to the challenges we faced early on, the pitfalls that forced us to adapt, and the lasting impact it had on our product and team."
+  },
+  {
+    "id": "3798",
+    "title": "Human Intelligence vs. Artificial Intelligence",
+    "speaker": "Tamires Marcal",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/human-intelligence-vs-artificial-intelligence",
+    "tags": [
+      "ai",
+      "human"
+    ],
+    "description": "What do they have in common? This session explores AI through the lens of neuroscience, drawing parallels between how the brain processes information and AI developments. We\u2019ll highlight key definitions, milestones, and evaluation gaps in both fields, and consider how close we are to achieving AGI."
+  },
+  {
+    "id": "3627",
+    "title": "I didn\u2019t know HTML & CSS could do THAT!",
+    "speaker": "Kathryn Grayson Nanz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/i-didn-t-know-html-css-could-do-that",
+    "tags": [
+      "html"
+    ],
+    "description": "While the flashiest news of the web dev world is often focused on the big frameworks (React, Angular, Vue, etc.), good ol\u2019 HTML and CSS have also been quietly \u2013 but steadily \u2013 upping their game. If you haven\u2019t taken a look lately, this is the perfect time to catch up! We\u2019ll look at recent (and slightly older but lesser-known) developments in HTML and CSS that may surprise you. Who knows: you might even be able to ditch a JS library or two!"
+  },
+  {
+    "id": "3802",
+    "title": "Immutable by Design",
+    "speaker": "Andres Pineda",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/immutable-by-design",
+    "tags": [
+      "architecture",
+      "dotnet"
+    ],
+    "description": "In modern C# development, immutability has become a key concept for improving code reliability, readability, and performance. \r\n\r\nThrough clear examples and common scenarios, we'll examine how immutable objects contribute to predictable state management, easier debugging, increased concurrency safety, and optimized performance. Attendees will gain practical insights into how to implement immutable patterns in their C# projects effectively."
+  },
+  {
+    "id": "3698",
+    "title": "Insights on Context & Memory for a Supportive Assistant",
+    "speaker": "Cedric L'homme",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/insights-on-context-memory-for-a-supportive-assistant",
+    "tags": [
+      "ai",
+      "python"
+    ],
+    "description": "Building supportive AI assistants requires the engineering of conversational context without dilution. We will cover the stages of conversation: setting initial context foundations; using summarizers and memory types (short/long/persistent) as conversations grow; and leveraging RAG for permanent knowledge and graph structures for dynamic information on entities. Includes practical implementation details like audio capabilities and observability."
+  },
+  {
+    "id": "3816",
+    "title": "Instrument and Govern AI Agents Before They Go Rogue",
+    "speaker": "Carl Lapierre",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/instrument-and-govern-ai-agents-before-they-go-rogue",
+    "tags": [
+      "ai"
+    ],
+    "description": "Agents need more than prompts, they need supervision. As teams move from experiments to production, they learn that agents are unpredictable, opaque, and prone to silent failure. Observability isn\u2019t optional; it keeps agents aligned and users safe. This talk explores LLM observability: what to track, how, and why. We\u2019ll compare various observability tools, and show how GenAI semantic conventions enable structured tracing at scale."
+  },
+  {
+    "id": "3662",
+    "title": "INTL: The best browser API you're not using",
+    "speaker": "Kilian Valkhof",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/intl-the-best-browser-api-you-re-not-using",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "Browsers are shipping a massive API: INTL, which is chock-full of features most developer still do an NPM install for. The INTL API will save you time, effort and frustration.\r\n\r\nLearn about all the wonderful built-in ways to deal with date formatting, lists, currencies, items and sentences in any language you can throw at the browser, without shipping literal megabytes of packages to your user."
+  },
+  {
+    "id": "3780",
+    "title": "Intro to Rust for Experienced Software Developers",
+    "speaker": "Daniel Scherzer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/intro-to-rust-for-experienced-software-developers",
+    "tags": [
+      "rust"
+    ],
+    "description": "Are you an experienced software developer? Do you want to add Rust to your repertoire? Take a crash course in becoming a Rust developer that focuses on adapting to Rust from other languages rather than starting anew. From borrow checking, to pattern matching, to macro rules, Rust comes with plenty of surprises to developers used to other languages. You'll leave this talk understanding how Rust differs from other languages and how to adapt."
+  },
+  {
+    "id": "3670",
+    "title": "Introduction and pitfalls of Java's new concurrency model",
+    "speaker": "David vlijmincx",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/introduction-and-pitfalls-of-java-s-new-concurrency-model",
+    "tags": [
+      "java"
+    ],
+    "description": "Java has almost finished Project loom. Giving developers Virtual threads, Scoped values, and structured concurrency. In this talk I will show you how all these JEP's can be used together, what works great, and when they surprisingly don't work that well. Join me as we built a spring service that lives in the dodgiest place of a server rack but still performs like a champion!"
+  },
+  {
+    "id": "3738",
+    "title": "Java Concurrency Face-Off: Virtual Threads vs Reactive",
+    "speaker": "A N M Bazlur Rahman",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/java-concurrency-face-off-virtual-threads-vs-reactive",
+    "tags": [
+      "java"
+    ],
+    "description": "With virtual threads now in Java, is reactive programming still worth it? This talk compares traditional thread pools, Reactive Streams, and virtual threads by building the same app three ways. We\u2019ll examine performance, memory use, debugging, backpressure, and error handling, then wrap up with a clear decision matrix to help you choose the right concurrency model for your needs."
+  },
+  {
+    "id": "3777",
+    "title": "Java Streams and Caffeine Dreams",
+    "speaker": "Mika\u00ebl Francoeur",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/java-streams-and-caffeine-dreams",
+    "tags": [
+      "java"
+    ],
+    "description": "The Java Streams API was introduced over ten years ago. It was since revised numerous times, most recently with the new Gatherer API in Java 24. We\u2019ll start by taking a closer look at some important concepts like laziness, intermediate and terminal operations, spliterators, and parallelism. Then we\u2019ll look at some code to explain common anti-patterns, create our own stream generators, and learn how batch data efficiently."
+  },
+  {
+    "id": "3666",
+    "title": "JDK 25's new CPU-Time Profiler",
+    "speaker": "Johannes Bechberger",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/jdk-25-s-new-cpu-time-profiler",
+    "tags": [
+      "java",
+      "perf"
+    ],
+    "description": "When your Java application is slow, you need to use a Java profiler. Before JDK 25, the built-in Java profiler only allowed you to profile based on execution time, not CPU-time, and those aren\u2019t the same. A method blocked on I/O and a method doing tight computation can look identical\u2026 unless you have CPU-time profiling, which lets you focus on what\u2019s truly burning your CPU.\r\nIn this talk, I\u2019ll introduce you to the new CPU-time profiler in JDK 25"
+  },
+  {
+    "id": "3647",
+    "title": "Kicking JavaScript to the Curb with Vaadin",
+    "speaker": "Micah Silverman",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/kicking-javascript-to-the-curb-with-vaadin",
+    "tags": [
+      "java"
+    ],
+    "description": "What happens when a long-time Spring Boot developer takes a Vue.js app built for a thriving accountability group and transforms it into an end-to-end Java solution with Vaadin Flow? In this fast-paced session, you\u2019ll hear the lessons learned and practical strategies for tackling real-world challenges in coding, security, testing, debugging, and migration\u2014all distilled into insights you can use immediately."
+  },
+  {
+    "id": "3768",
+    "title": "Know Your Data! Just a Tad More Than Adding Indexes",
+    "speaker": "reza madabadi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/know-your-data-just-a-tad-more-than-adding-indexes",
+    "tags": [
+      "db"
+    ],
+    "description": "Dive deeper into how MySQL manages and retrieves data. We will explore indexes, composite indexes, and how data is stored under the hood. Learn what a B-tree really means when you define a primary index. Discover how to use explain along with other useful functions to improve performance. We will finish with practical tips to make your data scale reliably."
+  },
+  {
+    "id": "3657",
+    "title": "Know Your JS: SBOMs for Frontend Devs",
+    "speaker": "Chris DeMars",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/know-your-js-sboms-for-frontend-devs",
+    "tags": [
+      "js",
+      "security"
+    ],
+    "description": "Ever wonder what\u2019s lurking in the dark corners of your node_modules, like unidentified flying dependencies sneaking aboard your project? In an age of escalating software supply chain attacks, knowing exactly what you're shipping is as vital as tracking strange lights in the sky. This talk will shine a beam on SBOMs (Software Bills of Materials), explaining why frontend developers should care and how to generate one."
+  },
+  {
+    "id": "3760",
+    "title": "La Qualit\u00e9 des Donn\u00e9es : Un Objectif Atteignable ?",
+    "speaker": "Sherif Behna",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/la-qualite-des-donnees-un-objectif-atteignable",
+    "tags": [
+      "data",
+      "python"
+    ],
+    "description": "On dit que les donn\u00e9es sont l\u2019or noir du 21e si\u00e8cle. Cependant, la qualit\u00e9 des donn\u00e9es dans les organisations est toujours point\u00e9e du doigt comme \u00e9tant insuffisante pour en tirer une valeur. Dans cette conf\u00e9rence, nous allons passer en revue les techniques peuvent aider \u00e0 am\u00e9liorer la qualit\u00e9 et la valeur des donn\u00e9es, comme les quality checks, le data observability, les data contract et le data mesh. Le tout accompagn\u00e9 d'exemples pratiques."
+  },
+  {
+    "id": "3716",
+    "title": "Leap Up Your Career",
+    "speaker": "Karol Deland",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/leap-up-your-career",
+    "tags": [
+      "human"
+    ],
+    "description": "Are you looking for a new role? That journey comes with its own set of questions. Should you look for a role inside your company or externally? Can you grow as a developer, or must you switch to management? How can you find the next perfect employer? In this talk, we will depict a comprehensive landscape that will guide you toward your next perfect role. Having been a developer for 20 years, I wish I had attended a talk like this many years ago."
+  },
+  {
+    "id": "3626",
+    "title": "Learn Enough Design to be Dangerous",
+    "speaker": "Kathryn Grayson Nanz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/learn-enough-design-to-be-dangerous",
+    "tags": [
+      "ux"
+    ],
+    "description": "I hear lots of developers say \"Oh, I could never be a designer; I just don't have the eye\" \u2013 and I'm here to tell you that's BS. Design is a skill that can be learned, like anything else! A designer's full responsibilities are complex & multifaceted; this talk won't teach you everything you need to know to get a design job. However, it WILL go over design basics in a straightforward way, for devs who want to create UIs that don't look terrible."
+  },
+  {
+    "id": "3752",
+    "title": "Learn to develop at WARP speed!",
+    "speaker": "Heath Kesler",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/learn-to-develop-at-warp-speed",
+    "tags": [
+      "ai"
+    ],
+    "description": "Demonstrates WARP 2.0's Model Context Protocol servers and Rules engine for complete development lifecycle automation. Attendees will master using WARP AI to build multi-tiered applications, configure Docker environments, and implement comprehensive testing frameworks through intelligent automation rather than manual coding. Participants gain practical skills to streamline their entire development process from initial concept through production."
+  },
+  {
+    "id": "3681",
+    "title": "Leveraging the edge for observability",
+    "speaker": "Thijs Feryn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/leveraging-the-edge-for-observability",
+    "tags": [
+      "devops"
+    ],
+    "description": "Many teams use CDNs or caching proxies for speed and scale, but often overlook their value for observability.\r\n\r\nIn this talk, Thijs shows how to turn Varnish into a rich observability layer, unlocking metrics and logs already flowing through the proxy. Integrating with tools like Prometheus, Loki, and Grafana, and standardizing telemetry data with OpenTelemetry. \r\n\r\nYour proxy is not only a performance booster, it's a key source of insights."
+  },
+  {
+    "id": "3748",
+    "title": "LLM from Scratch, No Slide, Just Code",
+    "speaker": "Alexis Fortin-C\u00f4t\u00e9",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/llm-from-scratch-no-slide-just-code",
+    "tags": [
+      "ai",
+      "python"
+    ],
+    "description": "Large Language Models are everywhere, but how they actually work \u201cunder the hood\u201d often remains a mystery. In this live-coding talk, we\u2019ll skip the slides and build an LLM step by step, not just a toy model, but a state-of-the-art one. Along the way we\u2019ll dive into tokenization, transformer architecture, small-scale training, and inference, showing how these components come together to power today\u2019s most advanced models."
+  },
+  {
+    "id": "3717",
+    "title": "Magical client-side logging \u2013 the little headers that could",
+    "speaker": "Marcus Bointon",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/magical-client-side-logging-the-little-headers-that-could",
+    "tags": [
+      "qa",
+      "security"
+    ],
+    "description": "In a server-side app, it's easy to find out what went wrong from logs. But what about the client side? The W3C's Reporting API, Content-Security-Policy, Network Error Logging (NEL), and the Reporting-Endpoints HTTP headers can let you know about all kinds of client-side issues that you might otherwise never see. Find out how to use them, monitor what they're up to, and solve all the issues that only your customers have been seeing!"
+  },
+  {
+    "id": "3734",
+    "title": "Managing the human side of a large-scale platform upgrade",
+    "speaker": "Joyce Peralta",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/managing-the-human-side-of-a-large-scale-platform-upgrade",
+    "tags": [
+      "architecture",
+      "doc"
+    ],
+    "description": "McGill University is leading a multi-year migration to a new major version of our content management system, Drupal, impacting several hundred websites and more stakeholders. We'll explore the change management strategy behind the project, including stakeholder engagement, communication planning, and user outreach. We'll also share how metrics, reporting, and data-driven decisions are guiding task prioritization and resource optimization."
+  },
+  {
+    "id": "3671",
+    "title": "Mental Models and Heuristics",
+    "speaker": "Marc-Antoine Aub\u00e9",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/mental-models-and-heuristics",
+    "tags": [
+      "architecture",
+      "human"
+    ],
+    "description": "Thinking tools to solve thorny problems. Software engineering isn\u2019t just about production, it\u2019s about learning in complex, uncertain situations. This talk explores how useful (if imperfect) models and practical heuristics can help you reframe problems, cut through complexity, and make better technical decisions."
+  },
+  {
+    "id": "3770",
+    "title": "Messaging Patterns to Transform Your Cloud Architecture",
+    "speaker": "Chad Green",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/messaging-patterns-to-transform-your-cloud-architecture",
+    "tags": [
+      "architecture",
+      "cloud"
+    ],
+    "description": "Messaging patterns are the backbone of resilient, high-performance cloud systems. This session explores paradigms from Point-to-Point to the Saga Pattern, showing how they enable scalable, dynamic designs. Through hands-on demos and real-world case studies, gain practical skills and fresh insights to integrate effective, future-proof messaging into your cloud solutions with confidence."
+  },
+  {
+    "id": "3702",
+    "title": "Modern DevOps on Legacy Code",
+    "speaker": "Julian Egelstaff",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/modern-devops-on-legacy-code",
+    "tags": [
+      "devops"
+    ],
+    "description": "Things we might take for granted today: comprehensive testing, automated deployment, local dev environments on demand. How do you take a 20 year old web application, including its runtime dependence on a live database, and retrofit it with these modern best practices? Well, testing was the (relatively) easy part, it was the deployment cycle, and spinning up local dev environments that was harder, but not impossible. Let us show you how we did it."
+  },
+  {
+    "id": "3697",
+    "title": "Moving beyond CRUD to CQRS",
+    "speaker": "Chris Hartjes",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/moving-beyond-crud-to-cqrs",
+    "tags": [
+      "php"
+    ],
+    "description": "Most PHP web application frameworks are designed to allow us to quickly build CRUD apps. Create, Read, Update, Delete -- most applications (despite what our egos tell us) are just slight variations of this pattern.\r\n\r\nThere are alternatives that might actually relate to your business logic in a better way! It might be time to start using CQRS -- Command Query Responsibility Segregation."
+  },
+  {
+    "id": "3765",
+    "title": "My Journey into Open Source and How You Can Start Too",
+    "speaker": "Maxime David",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/my-journey-into-open-source-and-how-you-can-start-too",
+    "tags": [
+      "cloud",
+      "perf"
+    ],
+    "description": "Open source has had a major influence on my career: first as a consumer, then as a contributor, later as the author of a popular serverless benchmarking tool, and now as a core maintainer at Amazon, where I lead the AWS Lambda Runtimes team.\r\n\r\nAs a strong advocate for the open source ecosystem, my goal in this talk is to share the lessons I\u2019ve learned, the pitfalls I\u2019ve faced, and to show you how open source might shape your journey too."
+  },
+  {
+    "id": "3811",
+    "title": "Nano Banana Pro: Prompt to Reel Magic",
+    "speaker": "Gerard Sans",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/nano-banana-pro-prompt-to-reel-magic",
+    "tags": [
+      "ai"
+    ],
+    "description": "In this talk, you\u2019ll learn how to craft high-quality video content using Google AI. You\u2019ll move from concept and prompt iteration, through image and layout design, to animated video generation and voice synthesis via Gemini, Nano Banana Pro, and Veo.\r\n\r\nAlong the way, you\u2019ll see how to layer in intelligence, like tool integration, retrieval-augmented generation (RAG), and API calls, to make your short reels ready for publishing using Angular."
+  },
+  {
+    "id": "3625",
+    "title": "New Features You've Missed In Python",
+    "speaker": "Christopher Neugebauer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/new-features-you-ve-missed-in-python",
+    "tags": [
+      "python"
+    ],
+    "description": "Python gets a new version every year, and every version gets new features.\r\n\r\nIn this talk, I'll look at the most interesting features added to Python in the last few years, with some examples of how to use them!\r\n\r\nIf you're still writing Python like it's 2015, why not learn what Python does can do in 2025?"
+  },
+  {
+    "id": "3746",
+    "title": "No Frameworks for Old Devs",
+    "speaker": "Simon MacDonald",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/no-frameworks-for-old-devs",
+    "tags": [
+      "html",
+      "js"
+    ],
+    "description": "Once upon a time, we built websites with just HTML, CSS, and a sprinkle of JavaScript. Then came the frameworks, the bundlers, the transpilers, and the Great NPM Dependency Flood of \u201915. Suddenly, shipping a \u201cHello World\u201d meant downloading half the internet.\r\n\r\nBut what if you don\u2019t actually need all that baggage? In this talk, we\u2019ll dust off the basics and see how modern browsers let you build rich, interactive web apps. No frameworks required!"
+  },
+  {
+    "id": "3706",
+    "title": "Nobody is Serious About Digital Sovereignty",
+    "speaker": "Josh Reed",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/nobody-is-serious-about-digital-sovereignty",
+    "tags": [
+      "architecture",
+      "cloud"
+    ],
+    "description": "Data sovereignty has become a hot topic in the last year. Longstanding geopolitical assumptions are being stood on their head, and many folks have gotten far less comfortable with three large American companies hosting all their data. But can we even fight it? Unless you're on-prem, open source, and SaaS-avoidant, probably not. In this talk we investigate what it means to have digital sovereignty, what it takes, and if it even matters."
+  },
+  {
+    "id": "3793",
+    "title": "oAuth2 - Client and Server Implementation",
+    "speaker": "Martin Legris",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/oauth2-client-and-server-implementation",
+    "tags": [
+      "architecture",
+      "security"
+    ],
+    "description": "This is a workshop on oAuth2, how to implement on the client and server side. First I will describe the essential mechanics, and the \"almost\" standards (there exists a few implementations unfortunately).\r\n\r\nThen I will describe, and allow you to diagram your own data structure and see how it integrates with your current data structure.\r\n\r\nThen I will demonstrate how to generalize the implementation so it is database driven and not hard coded!"
+  },
+  {
+    "id": "3790",
+    "title": "Observabilit\u00e9 avec Spring Boot",
+    "speaker": "Xavier Bouclet",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/observabilite-avec-spring-boot",
+    "tags": [
+      "java",
+      "perf"
+    ],
+    "description": "Vous avez livr\u00e9 votre application et maintenant ? Comment savoir ce qu'il se passe ? Logs, m\u00e9triques, traces distribu\u00e9es, que faire ?  Micrometer, Prometheus, Grafana, quels outils utiliser, nous en discuterons lors de cette session."
+  },
+  {
+    "id": "3638",
+    "title": "Observing PHP for Fun and Profit",
+    "speaker": "Florian Engelhardt",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/observing-php-for-fun-and-profit",
+    "tags": [
+      "php",
+      "rust"
+    ],
+    "description": "Someone on the internet asked: \"Hey #php folks: is it possible to hook into the include, include_once, require and require_once calls, like with a C extension or something?\". Not only that \"yes, it is possible\", but also we can write this in Rust!\r\nWe'll build an extension that surfaces file includes and captures key performance metrics right in production.\r\nBecause the best advice still stands: measure, don\u2019t guess!"
+  },
+  {
+    "id": "3640",
+    "title": "Offline-First at 35k Feet: When your app can't call home",
+    "speaker": "Andrew Lombardi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/offline-first-at-35k-feet-when-your-app-can-t-call-home",
+    "tags": [
+      "architecture",
+      "db"
+    ],
+    "description": "Most offline-first apps assume you'll reconnect in minutes. What happens when your systems operate for hours without connectivity and no team to monitor them?\r\n\r\nReal lessons from building systems that must work reliably in environments where network access is unreliable and remote debugging is impossible. We'll explore data sync strategies, conflict resolution patterns, and building bulletproof systems when remote support isn't an option"
+  },
+  {
+    "id": "3737",
+    "title": "Old Dog, New Tricks: The Java 25 Reinvention",
+    "speaker": "A N M Bazlur Rahman",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/old-dog-new-tricks-the-java-25-reinvention",
+    "tags": [
+      "java"
+    ],
+    "description": "Modern Java has evolved into a powerful and expressive language, while maintaining readability, safety, and performance. This talk demonstrates how Java 25 now rivals Kotlin, Scala, Rust, and Go with features such as pattern matching, virtual threads, structured concurrency, records, and the Foreign Function & Memory API. See how Java is not just catching up but redefining what a modern language can be."
+  },
+  {
+    "id": "3808",
+    "title": "OpenTelemetry and distributed tracing",
+    "speaker": "Marian Marinov",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/opentelemetry-and-distributed-tracing",
+    "tags": [
+      "devops"
+    ],
+    "description": "Following application requests across multiple applications and distributed server architecture is hard.\r\n\r\nYou will see how OpenTelemetry enables you to pull this information together in a structured and meaningful way."
+  },
+  {
+    "id": "3740",
+    "title": "Organisation du futur: humaine, performante et durable!",
+    "speaker": "Jessica Tornare",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/organisation-du-futur-humaine-performante-durable",
+    "tags": [
+      "human"
+    ],
+    "description": "Les organisations performantes de demain ne na\u00eetront pas d\u2019un organigramme, mais d\u2019un design centr\u00e9 sur l\u2019humain.\r\nCette conf\u00e9rence explore comment innover dans les pratiques manag\u00e9riales pour b\u00e2tir des mod\u00e8les qui allient autonomie, clart\u00e9 et responsabilit\u00e9 partag\u00e9e.\r\n\u00c0 travers des exemples concrets, on y d\u00e9crypte les piliers des organisations \u00e0 haute performance : sens du collectif, confiance, transparence, feedback continu."
+  },
+  {
+    "id": "3637",
+    "title": "Parallel Futures: Unlocking Multithreading in PHP",
+    "speaker": "Florian Engelhardt",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/parallel-futures-unlocking-multithreading-in-php",
+    "tags": [
+      "perf",
+      "php"
+    ],
+    "description": "Ever faced a heavy computational task and thought, \"Maybe PHP isn't the right tool for this\"? Think again! With `ext-parallel`, multithreading is a reality in PHP. In this session, I'll show you how to use it to tackle demanding tasks, scale your applications, and unlock performance you didn\u2019t think was possible, all without leaving PHP behind."
+  },
+  {
+    "id": "3779",
+    "title": "PHP 8.5: New Features from the Source",
+    "speaker": "Daniel Scherzer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/php-8-5-new-features-from-the-source",
+    "tags": [
+      "php"
+    ],
+    "description": "Join PHP 8.5 release manager Daniel Scherzer for a deep dive into the new features, syntax updates, deprecations, and surprises PHP 8.5. Whether you're maintaining legacy apps or building bleeding-edge libraries, this talk will help you switch to PHP 8.5 with confidence. Features include a new URL handling extension, expanded syntax support in constant expressions, the pipe operator (`|>`), object cloning with property changes, and more."
+  },
+  {
+    "id": "3782",
+    "title": "PHP, 150x Faster still Legacy Friendly",
+    "speaker": "Johan Janssens",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/php-150x-faster-still-legacy-friendly",
+    "tags": [
+      "php"
+    ],
+    "description": "Your PHP scripts are constantly waiting for the database, HTTP requests, or files. Solutions exist, but often require rewriting code.\r\n\r\nIn this talk, I will show you how to push PHP to its limits running scripts 150x faster. The ingredients: FrankenPHP threads, Swow coroutines, PHP Generators, a sprinkle of PHP, and a dash of Go to orchestrate it all. This approach works for any PHP code both legacy and new, including blocking I/O."
+  },
+  {
+    "id": "3791",
+    "title": "Practical LLM Use Cases for Security",
+    "speaker": "Jonathan Marcil",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/practical-llm-use-cases-for-security",
+    "tags": [
+      "security",
+      "ai"
+    ],
+    "description": "LLMs are often pitched as coding co-pilots, but their true long-term value for engineering teams can be in tackling the tedious work nobody wants to do.\r\n\r\nThis session will present a selection of practical, \"boring\" LLM use cases, such as the enforcement of security policies and training. We'll have a critical look at what to trust and how to verify an LLM's output when it comes to code and knowledge transfer."
+  },
+  {
+    "id": "3718",
+    "title": "PrAIvacy \u2013 Privacy and security in AI tools",
+    "speaker": "Marcus Bointon",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/praivacy-privacy-and-security-in-ai-tools",
+    "tags": [
+      "security",
+      "ai"
+    ],
+    "description": "AI tools are rapidly embedding themselves into every layer of the modern development stack, whether via design platforms, IDEs, chatbots, review services, MCP servers, or CLI tools. But what happens to your sensitive data and code when these tools are involved? What are they really up to behind the scenes, and what risks do they introduce?\r\n\r\nWe'll take a practical tour of threats, vectors, and defensive strategies to help you use AI tools safely"
+  },
+  {
+    "id": "3725",
+    "title": "Prendre du vieux Java et en faire quelque chose de beau",
+    "speaker": "Henri Tremblay",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/prendre-du-vieux-java-et-en-faire-quelque-chose-de-beau",
+    "tags": [
+      "architecture",
+      "java"
+    ],
+    "description": "Prendre une ancienne application Java 8 et la moderniser en Java 25 montre \u00e0 quel point Java a \u00e9volu\u00e9 \u00e0 travers le temps.\r\n\r\nLe code est plus concis, plus expressif, plus fonctionnel. Notre fa\u00e7on de penser et de g\u00e9rer nos applications change aussi.\r\n\r\n\u00c0 l'aide d'un exemple de code, nous allons aider ce vieux code \u00e0 retrouver une nouvelle jeunesse et lisibilit\u00e9."
+  },
+  {
+    "id": "3773",
+    "title": "Prepare Your Code for PHP 9: Overview of PHP 8 Deprecations",
+    "speaker": "Damien Seguy",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/prepare-your-code-for-php-9-overview-of-php-8-deprecations",
+    "tags": [
+      "php"
+    ],
+    "description": "Four years after its first version, PHP 8 has already started the work of feature deprecations, targeting PHP 9. This conference offers a complete overview of these changes: from the planned disappearance of certain features to the modernization of basic behaviors. We will detail each major deprecation, explaining the reasons behind these changes, the potential impacts on existing code, and best practices for adopting them today. You will leave w"
+  },
+  {
+    "id": "3675",
+    "title": "Probably Secure: How We Misunderstand AI And Determinism",
+    "speaker": "Dwayne McDaniel",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/probably-secure-how-we-misunderstand-ai-and-determinism",
+    "tags": [
+      "security",
+      "ai"
+    ],
+    "description": "AI is built on probability, not certainty. Security is built on definitely. \r\nFrom image classifiers to Generative AI, these systems operate on \u201cmost likely correct,\u201d raising new security questions. Can we apply the same deterministic models we\u2019ve trusted for decades, or do probabilistic outcomes demand new thinking? This talk explores the risks, when traditional tools still apply, and how to keep teams safe as AI assistants reshape workflows."
+  },
+  {
+    "id": "3663",
+    "title": "Programming principles for front-end developers",
+    "speaker": "Kilian Valkhof",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/programming-principles-for-front-end-developers",
+    "tags": [
+      "architecture",
+      "js"
+    ],
+    "description": "Frontend development has evolved from building pages with HTML to building complex applications using the web platform, yet many developers miss out on powerful programming principles that can help improve their code quality, productivity and effectiveness.\r\nAs someone who had to find and learn these maxims in the wild to discover how useful they are, this is the talk I wish I had when I just started out: pragmatic, useful and directly applicable"
+  },
+  {
+    "id": "3714",
+    "title": "Ramping up on Llama Stack for developing AI applications",
+    "speaker": "Michael Dawson",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/ramping-up-on-llama-stack-for-developing-ai-applications",
+    "tags": [
+      "js",
+      "ai"
+    ],
+    "description": "Llama Stack is Meta's open-source framework designed to simplify the development and deployment of generative AI applications. It provides a consistent set of APIs regardless of the programming language you use (including Node.js, Python, and more). In this talk, we'll introduce you to the core concepts of Llama Stack and how it can help you build robust applications more efficiently."
+  },
+  {
+    "id": "3813",
+    "title": "React Patterns to maintain a scalable design system",
+    "speaker": "Thibault Friedrich",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/react-patterns-to-maintain-a-scalable-design-system",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "Design systems are often seen as essential for scaling design and development in growing organizations. However, in teams where a dedicated design function is lacking or under-resourced, maintaining and evolving a coherent system becomes a challenge, especially when driven primarily by engineers. This talk presents a pragmatic, engineer-led approach to promoting and sustaining a design system, using concrete React patterns and techniques."
+  },
+  {
+    "id": "3788",
+    "title": "Reactive Programming avec Spring WebFlux",
+    "speaker": "Xavier Bouclet",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/reactive-programming-avec-spring-webflux",
+    "tags": [
+      "java",
+      "perf"
+    ],
+    "description": "WebFlux bas\u00e9 sur le projet Reactor permet de faire des applications non bloquantes et asynchrones. \u00c0 l'heure des threads virtuels est-ce toujours int\u00e9ressant ? Est-ce que la mont\u00e9e en comp\u00e9tence sur cette stack Spring est suffisamment int\u00e9ressante pour vos applications ? Nous essayerons de r\u00e9pondre \u00e0 ces questions."
+  },
+  {
+    "id": "3775",
+    "title": "Real-Time Streaming Showdown: Apache Spark and Apache Flink",
+    "speaker": "Sherif Behna",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/real-time-streaming-showdown-apache-spark-and-apache-flink",
+    "tags": [
+      "db",
+      "iot"
+    ],
+    "description": "Real-time data processing and analytics is more and more a requirement for modern applications. But how do you choose between Apache Spark and Apache Flink for streaming workloads? This talk dives into their architectures, trade-offs, and real-world use cases. We compare Spark Structured Streaming (micro-batching, ease of use) vs. Flink\u2019s native streaming (low latency, stateful processing), looking at their features, performance and ecosystem."
+  },
+  {
+    "id": "3677",
+    "title": "Red teaming LLM - du jailbreak \u00e0 la mitigation",
+    "speaker": "Ali Amine Ghazali",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/red-teaming-llm-du-jailbreak-a-la-mitigation",
+    "tags": [
+      "architecture",
+      "security",
+      "ai"
+    ],
+    "description": "Cette conf\u00e9rence offre un guide pratique des vuln\u00e9rabilit\u00e9s sp\u00e9cifiques \u00e0 l'IA, techniques d'attaque et de d\u00e9fense, avec d\u00e9monstrations de red teaming sur LLMs. M\u00e9thodologie d\u2019attaque contr\u00f4l\u00e9e (prompt injection, exfiltration), m\u00e9triques de robustesse et mise en place de garde-fous runtime."
+  },
+  {
+    "id": "3750",
+    "title": "Redefining Code Review with AI",
+    "speaker": "Erik Beaulieu",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/redefining-code-review-with-ai",
+    "tags": [
+      "qa",
+      "ai"
+    ],
+    "description": "Code reviews often get stuck on nits like spacing, naming, minor style. AI can automate the noise, freeing reviewers to focus on design, maintainability, and business impact. This talk shows how to leverage AI as a review partner, improving code quality and developer collaboration without losing the human touch."
+  },
+  {
+    "id": "3800",
+    "title": "Rising After the Fall: Engineering Your Career Comeback",
+    "speaker": "Kevin Goldsmith",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/rising-after-the-fall-engineering-your-career-comeback",
+    "tags": [
+      "human"
+    ],
+    "description": "Everyone faces career inflection points: some by choice, others thrust upon us, including me. When your career gets disrupted, recover faster with proven frameworks. Learn systematic methods for self-assessment, market positioning, and opportunity evaluation. Convert setbacks into skill-building advantages through structured approaches to networking, decision-making, and professional growth that work for analytical minds."
+  },
+  {
+    "id": "3709",
+    "title": "Rogue LLMs: Securing Prompts and Ensuring Persona Fidelity",
+    "speaker": "Ben Dechrai",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/rogue-llms-securing-prompts-and-ensuring-persona-fidelity",
+    "tags": [
+      "security",
+      "ai"
+    ],
+    "description": "This session demonstrates how to detect, analyze, and prevent prompt leaks and persona failures in large language models. Participants will learn proven techniques and tools for securing AI prompts, enforcing consistent bot behaviour, and integrating evaluation and threat modelling into real-world engineering workflows."
+  },
+  {
+    "id": "3667",
+    "title": "Running Kubernetes on a Phone",
+    "speaker": "Johannes Bechberger",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/running-kubernetes-on-a-phone",
+    "tags": [
+      "cloud",
+      "mobile"
+    ],
+    "description": "As smarthphones are becoming more and more powerful, do you ever wonder whether you can use smartphones as Kubernetes nodes and use the AI-capabilities of the devices in your application?\r\nIn this talk I'll show you how this works with Android 16 and a few bash scripts."
+  },
+  {
+    "id": "3742",
+    "title": "Safe Agentic Dev Environments",
+    "speaker": "Rida Al Barazi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/safe-agentic-dev-environments",
+    "tags": [
+      "devops",
+      "ai"
+    ],
+    "description": "Learn how to build a modern development setup where coding agents can safely contribute code, run their own automated and manual tests, and debug issues before handing changes back to you. This session covers dev container setups, agent coding tools using MCP, and cross-agent pull request reviews. Attendees will see practical examples of how to make agentic coding a reliable part of day-to-day development."
+  },
+  {
+    "id": "3743",
+    "title": "Saving Time by Using a Debugger",
+    "speaker": "Derick Rethans",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/saving-time-by-using-a-debugger",
+    "tags": [
+      "php"
+    ],
+    "description": "In this talk I explain how to use Xdebug to get more productive writing PHP code, focussing on the improvements in Xdebug 3.5 such as Native Path Mapping, to make the debugging experience better and easier to set up.\r\n\r\nBeyond that, this session also goes through a few complicated scenarios that are harder to debug, and shows solutions to these conundrums. I will also focus on the new features."
+  },
+  {
+    "id": "3736",
+    "title": "Screen Reader 101",
+    "speaker": "Ashleigh Lodge",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/screen-reader-101",
+    "tags": [
+      "accessibility",
+      "qa"
+    ],
+    "description": "What is a screen reader? How do they work? Who uses them?\r\n\r\nScreen readers are essential tools for many disabled users and navigating via a screen reader is also a very different experience from navigating visually. \r\n\r\nLearn about the history of screen readers, how they work under the hood, how users navigate and use websites with a screen reader, and how you can ensure users are supported and able to use your sites and apps with ease."
+  },
+  {
+    "id": "3674",
+    "title": "Secrets Security End-To-End",
+    "speaker": "Dwayne McDaniel",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/secrets-security-end-to-end",
+    "tags": [
+      "security"
+    ],
+    "description": "The current leading cause of breaches is credential abuse. In 2024, 93% of organizations faced multiple identity-related breaches, driven by secrets sprawl across code, scripts, and tools. Attackers exploit plaintext credentials daily. \r\n\r\nThis talk delivers an end-to-end roadmap to secure the vast majority of these identities, belonging to machines at scale: detection, vaulting, developer workflows, rotation, and governance."
+  },
+  {
+    "id": "3653",
+    "title": "Securing the SDLC: From Code to Production",
+    "speaker": "Mohamed Wali",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/securing-the-sdlc-from-code-to-production",
+    "tags": [
+      "devops",
+      "security"
+    ],
+    "description": "Modern applications face security challenges across the full software lifecycle, from development to production. This session explores strategies to integrate vulnerability scanning early in the IDE, enforce secure practices in CI/CD, and monitor running systems. Learn how to identify, remediate, and prevent security risks throughout the SDLC, creating resilient, secure applications without slowing development."
+  },
+  {
+    "id": "3741",
+    "title": "Serverless PHP: How to Say Goodbye to Pager Duty",
+    "speaker": "Carl Alexander",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/serverless-php-how-to-say-goodbye-to-pager-duty",
+    "tags": [
+      "cloud",
+      "php"
+    ],
+    "description": "Did you start coding in PHP to build cool things, only to become an accidental sysadmin on pager duty?\r\n\r\nThis talk introduces the Vercel-like bliss of serverless PHP, where your app can scale from zero to thousands of PHP workers without you doing anything. We'll survey the modern serverless PHP ecosystem, looking at different tools and workflows. We'll finish by going over stories from the trenches."
+  },
+  {
+    "id": "3631",
+    "title": "Setting Up a C# Pit of Success",
+    "speaker": "AL Rodriguez",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/setting-up-a-c-pit-of-success",
+    "tags": [
+      "dotnet"
+    ],
+    "description": "Did you know a C# project can detect when there's a known security vulnerability for a NuGet package it's using? Or that you can manage warnings/errors/suggestions for an entire C# project in a single file, without installing an extension?\r\n\r\nC# has a handful of free features we can use to enforce high code quality. In this session, we'll look at those C# features and discuss what it takes to use them and create our own C# pit of success."
+  },
+  {
+    "id": "3672",
+    "title": "Seven Habits of a (Mostly) Successful Team",
+    "speaker": "Sander Hoogendoorn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/seven-habits-of-a-mostly-successful-team",
+    "tags": [
+      "startup",
+      "human"
+    ],
+    "description": "After five years of building our team, we\u2019ve distilled seven practical habits\u2014no Scrum, no dogma\u2014that fuel delivery, motivation, and continuous improvement:\r\n\r\n1. Learn how to prioritize pragmatically, \r\n2. Kill complexity, \r\n3. Own your work\r\n4. Communicate relentlessly\r\n5. Build microteams\r\n6. Deliver continuously\r\n7. Have fun. \r\n\r\nFull of real-world stories and takeaways for thriving teams. We've had no churn in 5 years"
+  },
+  {
+    "id": "3766",
+    "title": "Short-Lived, Long Traced: Serverless Observability Deep Dive",
+    "speaker": "Maxime David",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/short-lived-long-traced-serverless-observability-deep-dive",
+    "tags": [
+      "cloud",
+      "perf"
+    ],
+    "description": "Serverless computing empowers rapid development and elastic scaling but brings a unique set of observability challenges. How do you trace ephemeral executions, handle cold starts, or monitor performance under strict memory and CPU constraints?\r\n\r\nIn this talk, we'll explore how OpenTelemetry helps tackle observability in serverless environments. We'll start with a quick refresher on the core concepts, then dive into advanced topics."
+  },
+  {
+    "id": "3809",
+    "title": "Simplify your observability layer with OpenTelemetry & eBPF",
+    "speaker": "Marian Marinov",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/simplify-your-observability-layer-with-opentelemetry-and-ebp",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "description": "Building an ideal observability stack is far from easy, it often means steep costs, invasive code changes, and vendor lock-in. This talk shows how OpenTelemetry with eBPF delivers logs, metrics, and traces with near-zero overhead. Using examples from real-life applications running on the Incus container platform, we will see how this combination provides effective monitoring."
+  },
+  {
+    "id": "3758",
+    "title": "Simplifying Observability: Focus on What Truly Matters",
+    "speaker": "Peter Zaitsev",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/simplifying-observability-focus-on-what-truly-matters",
+    "tags": [
+      "devops",
+      "perf"
+    ],
+    "description": "With so many observability tools, complexity, cost, and data overload are common. This talk presents a minimalist approach, focusing only on essential signals to detect and resolve issues. We\u2019ll show how tools like Coroot simplify deployment, lower overhead, and deliver actionable insights. Whether in hybrid setups or Kubernetes, learn how to streamline observability and cut costs while boosting reliability."
+  },
+  {
+    "id": "3660",
+    "title": "Simultaneous editing: Easy with Symfony UX",
+    "speaker": "David Buchmann",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/simultaneous-editing-easy-with-symfony-ux",
+    "tags": [
+      "architecture",
+      "js",
+      "php"
+    ],
+    "description": "You no longer need to build a separate frontend application in Javascript to build fast interactive web applications. Hotwire Turbo loads HTML and fragments asynchronously and with Turbo Streams you can even push changes from the backend to the frontend. Hotwire Stimulus complements Turbo with a neat tool to implement Javascript logic for the places where you still need it.\r\n\r\nThese tools are ready to use in Symfony with the Symfony UX component."
+  },
+  {
+    "id": "3817",
+    "title": "Spec-Driven Development: A Faster Way to Code",
+    "speaker": "Erik Hanchett",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/spec-driven-development-a-faster-way-to-code",
+    "tags": [
+      "ai"
+    ],
+    "description": "AI coding assistants excel at small tasks, but complex codebases require upfront thinking. This talk introduces spec-driven development as a way to scale AI for real features. You\u2019ll see how tools like Kiro break work into planning, execution, and validation phases, explore real-world tradeoffs, and learn how to apply this approach to your own projects immediately."
+  },
+  {
+    "id": "3639",
+    "title": "Spring Boot and GraalVM - Lessons from 30,000 feet",
+    "speaker": "Andrew Lombardi",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/spring-boot-and-graalvm-lessons-from-30-000-feet",
+    "tags": [
+      "java"
+    ],
+    "description": "What do you do when your Spring Boot app suddenly needs 75% less memory? Here's our real-world GraalVM retrofit story.\r\n\r\nActual production performance metrics, reflection gotchas that break compilation, brutal build times that killed productivity, and what we'd architect differently from day one to avoid the retrofit pain entirely."
+  },
+  {
+    "id": "3703",
+    "title": "SQLite: more powerful than you think",
+    "speaker": "Mika\u00ebl Francoeur",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/sqlite-more-powerful-than-you-think",
+    "tags": [
+      "db"
+    ],
+    "description": "With over 1 trillion active databases worldwide, SQLite is ubiquitous and a solid foundation for modern systems. But did you know it can do much more than CRUD queries? In this talk, we\u2019ll see how to use SQLite and open source extensions for vector search, spell checking, consuming pageable REST APIs and CSV files for fast prototyping, manipulating zip files, collaborating and syncing devices, and generating json data."
+  },
+  {
+    "id": "3682",
+    "title": "Tailwind CSS - Styliser sans devenir fou",
+    "speaker": "Mathys Deshaies",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/tailwind-css-styliser-sans-devenir-fou",
+    "tags": [
+      "html"
+    ],
+    "description": "Tailwind CSS nous permet de cr\u00e9er rapidement des interfaces esth\u00e9tiques et r\u00e9actives, mais l\u2019usage intensif des classes utilitaires peut parfois rendre le code r\u00e9p\u00e9titif. Nous explorerons des m\u00e9thodes pratiques pour structurer, organiser et styliser vos projets \u00e0 l'aide de Atomic Design. Vous repartirez avec des astuces pour gagner en productivit\u00e9 tout en gardant \u00e0 l\u2019esprit les avantages et les inconv\u00e9nients d\u2019int\u00e9grer une telle solution."
+  },
+  {
+    "id": "3732",
+    "title": "Talk Nerdy to Me: Building an MCP Server with Node.js",
+    "speaker": "Scott Stroz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/talk-nerdy-to-me-building-an-mcp-server-with-node-js",
+    "tags": [
+      "db",
+      "ai"
+    ],
+    "description": "As AI agents expand, scaling their ability to interact with external systems becomes essential. Enter the Model Context Protocol (MCP), a powerful design pattern that connects AI reasoning models with real-world tools. In this session, you\u2019ll learn how to build an MCP server in Node.js  that allows AI clients to query and interact with MySQL. We\u2019ll explore the architecture, offer integration tips, and share lessons learned along the way."
+  },
+  {
+    "id": "3689",
+    "title": "The Art of Context Engineering",
+    "speaker": "Carl Lapierre",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-art-of-context-engineering",
+    "tags": [
+      "ai"
+    ],
+    "description": "Agents fail for two reasons: the model you're using isn\u2019t good enough, or the context is a mess. Today, we focus on the mess. LLMs are pure functions, what goes in determines what comes out. That\u2019s why context is everything. This session covers context engineering: how to write, select, compress, and isolate information. You\u2019ll learn to avoid context rot, when to use memory, and how to split problems so models don\u2019t drown in tokens."
+  },
+  {
+    "id": "3664",
+    "title": "The Cake Is a Lie... And So Is Your Login\u2019s Accessibility",
+    "speaker": "Ramona Schwering",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-cake-is-a-lie-and-so-is-your-login-s-accessibility",
+    "tags": [
+      "accessibility"
+    ],
+    "description": "In this session, we will debug the accessibility issues of a real React login component live, similar to traversing Portal\u2019s test chambers: Using an actual screen reader, we'll show how minor improvements, can transform a complex test chamber into a smooth user experience. In addition, we will zoom in onto the WCAG to see how they talk about \u201cAccessible Authentication\u201d. The cake might be a lie, but accessibility doesn't have to be!"
+  },
+  {
+    "id": "3713",
+    "title": "The Crucial Role of AI Evaluations",
+    "speaker": "Michael Dawson",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-crucial-role-of-ai-evaluations",
+    "tags": [
+      "qa",
+      "ai"
+    ],
+    "description": "Building applications with AI and large language models (LLMs) adds a new layer of variability that makes testing difficult. Since interactions can be subtly different each time but still correct, traditional testing tools often fail. In this talk, we'll share our journey using the open-source tool deepeval to evaluate multi-turn conversations, tune prompts, and ensure our AI applications are reliable so that we could sleep at night."
+  },
+  {
+    "id": "3801",
+    "title": "The Director to CTO path: following it, or mentoring it",
+    "speaker": "Kevin Goldsmith",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-director-to-cto-path-following-it-or-mentoring-it",
+    "tags": [
+      "cto"
+    ],
+    "description": "For aspiring CTOs and their mentors: a systematic approach to the Director-to-CTO growth path. Covers essential skill development (technical depth, strategic planning, leadership), mentorship strategies for identifying and nurturing potential, plus real-world examples of successful transitions and everyday challenges."
+  },
+  {
+    "id": "3720",
+    "title": "The era of microservices and monorepos",
+    "speaker": "Benoit des Ligneris",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-era-of-microservices-and-monorepos",
+    "tags": [
+      "cloud",
+      "cto"
+    ],
+    "description": "As tools develop and teams grow, the complexity increases. With monorepos regrouping multiple shared packages with multiple technologies, how can we effectively manage this complexity and adopt proper practices to build, scale and support your business? Real life experience regarding the set-up and scale-up of a multi-monorepo (firmware, edge (arhm7), cloud (x86_64)  and multi-language (C, go, python, nodejs, pnpm, bun)."
+  },
+  {
+    "id": "3633",
+    "title": "The Fellowship of Twig",
+    "speaker": "Stephan Hochdoerfer",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-fellowship-of-twig",
+    "tags": [
+      "html",
+      "php"
+    ],
+    "description": "Embark on a legendary quest with the Fellowship of Twig to vanquish the Ring of Frontend Complexity, a dark force that has long plagued developers with uncertainty and dread. Armed with the mighty trio of Twig, Twig Hooks, and Live Components, join us on a journey of discovery as we venture into the uncharted territories of frontend development, conquering complexity and emerging triumphant with streamlined, efficient, and victorious code."
+  },
+  {
+    "id": "3763",
+    "title": "The Past, Present, and Future of Enterprise Java",
+    "speaker": "Ivar Grimstad",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-past-present-and-future-of-enterprise-java",
+    "tags": [
+      "architecture",
+      "java"
+    ],
+    "description": "Over the last 30 years, Java has been the preferred technology for developing enterprise applications. Frameworks and approaches such as J2EE, Spring Framework, Java EE, Spring Boot, and Jakarta EE all contribute to this success story.\r\n\r\nThis session will give you a history lesson of Enterprise Java and an overview of Jakarta EE 11 with lots of code demos. We will also look forward and check out what's in the pipeline for Jakarta EE 12."
+  },
+  {
+    "id": "3731",
+    "title": "The rise of Headless UI libraries",
+    "speaker": "Rapha\u00ebl Rougeron",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-rise-of-headless-ui-libraries",
+    "tags": [
+      "js",
+      "ux"
+    ],
+    "description": "Headless UI libraries are an increasingly popular trend in the frontend ecosystem. Instead of providing a rigid set of pre-styled components, these libraries give you the foundational, un-styled building blocks and logic, ensuring accessibility and flexibility. In this session, we'll see how to combine them with robust visual primitives to create a unique and consistent design system from the ground up."
+  },
+  {
+    "id": "3815",
+    "title": "The RUM Archive: a Real User Monitoring Dataset",
+    "speaker": "Henri Helvetica",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-rum-archive-a-real-user-monitoring-dataset",
+    "tags": [
+      "js",
+      "perf"
+    ],
+    "description": "Web performance engineers constantly measure. This focus on metrics led to the HTTP Archive, a rich dataset describing how the web is built. But one key piece was missing: how the web is actually used. Enter the RUM Archive, a real user monitoring dataset designed to fill that gap. This talk explores the data it collects, the insights it reveals, and why RUM is essential to modern web performance analysis."
+  },
+  {
+    "id": "3727",
+    "title": "The Test Suite Holy Trinity",
+    "speaker": "Dave Liddament",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-test-suite-holy-trinity",
+    "tags": [
+      "qa"
+    ],
+    "description": "What would the perfect test suite look like? One that covers everything, runs fast and quick to write. Sounds great? But these goals pull against each other.\r\n\r\nThis talk explores testing at different levels (unit, integration and system). You'll learn how to get the most from each level, design code for testability, and strike the right compromises. We may not reach the mythical est Suite Holy Trinity, but we\u2019ll get pretty close."
+  },
+  {
+    "id": "3673",
+    "title": "The Way of the Monad. Cleaner, Safer Code is Easy to Test",
+    "speaker": "Sander Hoogendoorn",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/the-way-of-the-monad-cleaner-safer-code-is-easy-to-test",
+    "tags": [
+      "dotnet",
+      "js"
+    ],
+    "description": "Monads help eliminate messy error handling and nulls. Starting with `Try`, they enable chaining, pure functions, and testable code. This talk introduces core monads, such as `Try`, `Option`, `Maybe`, and `Choose`, with practical examples in Java, C#, and TypeScript. You will learn how to write cleaner, safer, more predictable software, and take away patterns you can immediately apply in your daily work."
+  },
+  {
+    "id": "3739",
+    "title": "Transformer l'\u00c9tat? Spoiler: la techno ne suffit pas",
+    "speaker": "Jessica Tornare",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/transformer-l-etat-spoiler-la-techno-ne-suffit-pas",
+    "tags": [
+      "human"
+    ],
+    "description": "Derri\u00e8re chaque projet technologique dans le secteur public, il y a bien plus que du code : des choix humains, des batailles culturelles et des compromis organisationnels. Cette conf\u00e9rence propose un regard lucide sur les conditions r\u00e9elles de l\u2019innovation publique.\r\n\u00c0 partir d\u2019exemples concrets, on verra pourquoi les projets r\u00e9ussissent\u2026 et les d\u00e9fis rencontr\u00e9s.\r\nEt surtout, ce qui peut faire la diff\u00e9rence."
+  },
+  {
+    "id": "3623",
+    "title": "Understanding Kubernetes in a visual way",
+    "speaker": "Aur\u00e9lie Vache",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/understanding-kubernetes-in-a-visual-way",
+    "tags": [
+      "cloud",
+      "devops"
+    ],
+    "description": "Understanding Kubernetes can be difficult or time-consuming.\r\n\r\nYears ago, I reimagined its core concepts\u2014pods, deployments, services, jobs... and began explaining them visually. After two years of late-night work, I published an illustrated book covering everything from basics to debugging.\r\n\r\nIn this talk, I\u2019ll share that journey and then I will explain Kubernetes, and its core concepts, to you ... in a visual way :-)."
+  },
+  {
+    "id": "3656",
+    "title": "Unveil Symfony AI",
+    "speaker": "Mathieu Santostefano",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/unveil-symfony-ai",
+    "tags": [
+      "php",
+      "ai"
+    ],
+    "description": "July 2025, the Symfony AI was launched as an initiative, just like Symfony UX, to help developers integrate AI into their apps with ready-to-use components and bundles.\r\nIn this talk, let\u2019s discover Symfony AI\u2019s origins, explore its components, and learn how to use them with any AI platform. We\u2019ll also cover how to get started using it in your PHP apps and contribute to the project!"
+  },
+  {
+    "id": "3699",
+    "title": "Upgrading Legacy to the Latest PHP Version",
+    "speaker": "Anna Filina",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/upgrading-legacy-to-the-latest-php-version",
+    "tags": [
+      "php",
+      "qa"
+    ],
+    "description": "Your application runs on an old PHP version that is about to go out of support. How to upgrade without breaking the application? You will need the right tools for detecting and fixing those issues, as well as a way to verify that the application is still working correctly. In this presentation, I will share the strategy that I employed when upgrading millions of lines of untested code."
+  },
+  {
+    "id": "3761",
+    "title": "Urban Mining - Smart Android Shipping Containers for Reuse",
+    "speaker": "Etienne Caron",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/urban-mining-smart-android-shipping-containers-for-reuse",
+    "tags": [
+      "ai",
+      "iot"
+    ],
+    "description": "Organizations struggle with surplus inventory disposal. Our startup tackles this with solar-powered smart containers using embedded Android devices that automate the reuse/recycle lifecycle. \r\n\r\nThis talk covers the technical journey: hardware selection, sensor integration, solar power challenges, edge ML for object recognition, offline-first architecture, and cloud sync strategies for distributed IoT deployment."
+  },
+  {
+    "id": "3635",
+    "title": "Web Application Security Up-to-date: The 2025 OWASP Top Ten",
+    "speaker": "Christian Wenz",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/web-application-security-up-to-date-the-2025-owasp-top-ten",
+    "tags": [
+      "security"
+    ],
+    "description": "Since 2003, the Open Web Application Security Project curates a list of the top ten security risks for web applications. In 2025, the first update to the list in four years has finally been released.\r\nTime to have a look at what's new, what has changed, and to get an up-to-date refresh on how to create secure web applications and prevent the top ten risks from happening. We will also discuss whether the list is still relevant, and what's missing."
+  },
+  {
+    "id": "3762",
+    "title": "WebRTC - Realtime Glue between AI Agents and the World",
+    "speaker": "Etienne Caron",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/webrtc-realtime-glue-between-ai-agents-and-the-world",
+    "tags": [
+      "ai"
+    ],
+    "description": "We're teaching AI to help humans sort surplus furniture using voice and vision, in real-time. Camera streams flow to AI models, voice streams flow back, decisions get logged. \r\nThe magic? WebRTC, without the traditional complexity! Discover how we built AI agents that feel like helpful coworkers: real-time video analysis, context-aware responses, and natural voice interactions. All while helping the environment."
+  },
+  {
+    "id": "3764",
+    "title": "What Every Spring Developer Should Know About Jakarta EE",
+    "speaker": "Ivar Grimstad",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/what-every-spring-developer-should-know-about-jakarta-ee",
+    "tags": [
+      "java"
+    ],
+    "description": "Spring Framework and Spring Boot build on a surprisingly large set of Jakarta EE APIs and implementations. This means that it is a great advantage for a Spring developer to be aware of what is going on with the development of Jakarta EE.\r\n\r\nCome to this session to learn about the planned changes to the technologies that Spring depends on. There will be demos, and even some AI involved."
+  },
+  {
+    "id": "3729",
+    "title": "What's in a Kubernetes Data Platform? Let's Build One!",
+    "speaker": "Robert Hodges",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/what-s-in-a-kubernetes-data-platform-let-s-build-one",
+    "tags": [
+      "cloud",
+      "db"
+    ],
+    "description": "Kubernetes is a popular platform for running databases, often as DBaaS for developers. This talk shares real-world lessons from building and operating analytic SaaS platforms. We\u2019ll cover deploying databases on Kubernetes, monitoring, and providing APIs so developers can self-provision and manage. Guidance also includes upgrades, backups, and multi-tenancy\u2014everything you need to start building your own database platform."
+  },
+  {
+    "id": "3785",
+    "title": "What's new in Spring Boot 4",
+    "speaker": "Dan Vega",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/what-s-new-in-spring-boot-4",
+    "tags": [
+      "java"
+    ],
+    "description": "The next major release of Spring is here and this is your comprehensive guide to what matters most. Spring Boot 4 delivers exceptional performance gains, streamlined developer workflows, and production-ready features that solve real-world challenges. In this session you'll not only learn what's new but experience it firsthand through live coding demos. We'll explore HTTP interfaces, null safety, streamlined API versioning and more."
+  },
+  {
+    "id": "3796",
+    "title": "When should you use MCP?",
+    "speaker": "Shao Hang He",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/when-should-you-use-mcp",
+    "tags": [
+      "js",
+      "ai"
+    ],
+    "description": "MCP is a new buzzword in 2025. However, should you always use MCP in your AI projects? The short answer is no. Therefore, let's take a look at the theory behind the Model Context Protocol and how to build a simple MCP client with Gemini, Claude and GPT. We will also go over some popular MCP servers such as Shopify's Storefront MCP."
+  },
+  {
+    "id": "3774",
+    "title": "Why AI isn\u2019t close to beat human yet: the ML perspective",
+    "speaker": "Francis Pieraut",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/why-ai-isn-t-close-to-beat-human-yet-the-ml-perspective",
+    "tags": [
+      "ai",
+      "human"
+    ],
+    "description": "Everyone seems to be scared about AI taking over humanity. I don\u2019t think so and I will present why in a Machine Learning perspective and importance of higher level consciousness. Fear is making us weak and doesn\u2019t allow us to get a clear picture of the true challenge we are facing."
+  },
+  {
+    "id": "3649",
+    "title": "Why Your Vector Search Is Silently Wrong (And How to Fix It)",
+    "speaker": "Nicholas Nadeau",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/rag-that-works-fixing-vector-search-with-l2-normalization",
+    "tags": [
+      "db",
+      "ai"
+    ],
+    "description": "A few years ago, a major enterprise wanted to spend months on human annotation to fix their broken RAG system. The actual problem? Their vectors weren't normalized. One line of code, and it worked.\r\n\r\nToday it's worse. With vibe coding, developers ship vector search without looking under the hood.\r\n\r\nThis talk covers the geometry tutorials skip, why your results might rank by document length instead of relevance, and the one-liner that fixes it."
+  },
+  {
+    "id": "3696",
+    "title": "Writing Testable PHP Code In An Uncaring World",
+    "speaker": "Chris Hartjes",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/writing-testable-php-code-in-an-uncaring-world",
+    "tags": [
+      "php",
+      "qa"
+    ],
+    "description": "It's a tough time to be someone who cares about writing code that you can test. Your boss? They want to replace you with someone cheaper and an LLM. Your teammates? They just want to close out some tickets and go home. The end users? They don't care, they just want it to work. In this talk I will show you what things look like in 2025 when you want to write testable PHP code."
+  },
+  {
+    "id": "3747",
+    "title": "You Like FastAPI, You Like Pydantic, You'll Love Pydantic AI",
+    "speaker": "Alexis Fortin-C\u00f4t\u00e9",
+    "speaker_url": "",
+    "url": "https://confoo.ca/en/2026/session/you-like-fastapi-you-like-pydantic-you-ll-love-pydantic-ai",
+    "tags": [
+      "ai",
+      "python"
+    ],
+    "description": "FastAPI and Pydantic revolutionized API building in Python with strong typing, validation, and auto-docs. But generative AI often breaks that structure, messy JSON, brittle parsing, endless debugging. Pydantic AI brings the same rigor to AI agents: typed, validated, model-agnostic, observable. This talk shows how it works and how to use it to build reliable, structured AI Agent."
+  }
+]
