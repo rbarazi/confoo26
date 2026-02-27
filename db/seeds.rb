@@ -98,3 +98,13 @@ schedule_data.each do |entry|
 end
 
 puts "Imported #{ScheduleEntry.count} schedule entries"
+
+seed_email = ENV.fetch("SEED_USER_EMAIL", "seed@example.com")
+seed_password = ENV.fetch("SEED_USER_PASSWORD", "password123")
+
+user = User.find_or_initialize_by(email_address: seed_email)
+user.password = seed_password
+user.password_confirmation = seed_password
+user.save!
+
+puts "Seed user ready: #{user.email_address} / #{seed_password}"

@@ -8,3 +8,29 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+}
+
+.flash {
+  border: 1px solid;
+  margin: 0 0 1rem;
+  max-width: 40rem;
+  padding: 0.5rem 0.75rem;
+}
+
+.flash.alert {
+  background: #fff5f5;
+  border-color: #c53030;
+}
+
+.flash.notice {
+  background: #f0fff4;
+  border-color: #2f855a;
+}
+
+.signed-in-user {
+  margin: 0;
+}

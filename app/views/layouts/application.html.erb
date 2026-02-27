@@ -24,6 +24,17 @@
   </head>
 
   <body>
+    <% flash.each do |type, message| %>
+      <%= tag.p message, class: "flash #{type}" %>
+    <% end %>
+
+    <% if authenticated? %>
+      <p class="signed-in-user">
+        Signed in as <strong><%= Current.user.email_address %></strong>
+      </p>
+      <%= button_to "Sign out", session_path, method: :delete %>
+    <% end %>
+
     <%= yield %>
   </body>
 </html>
