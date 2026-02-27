@@ -98,8 +98,11 @@ export default class extends Controller {
 Native `<dialog>` management:
 ```javascript
 export default class extends Controller {
-  connect() { this.element.addEventListener("close", this.#onClose.bind(this)) }
-  disconnect() { this.element.removeEventListener("close", this.#onClose.bind(this)) }
+  connect() {
+    this.#boundOnClose = this.#onClose.bind(this)
+    this.element.addEventListener("close", this.#boundOnClose)
+  }
+  disconnect() { this.element.removeEventListener("close", this.#boundOnClose) }
   open() { this.element.showModal() }
   close() { this.element.close() }
   closeOnOutsideClick(event) { if (event.target === this.element) this.close() }

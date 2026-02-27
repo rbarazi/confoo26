@@ -136,6 +136,10 @@ Path-based tenancy with shared database.
 ```ruby
 module AccountSlug
   class Extractor
+    def initialize(app)
+      @app = app
+    end
+
     def call(env)
       request = ActionDispatch::Request.new(env)
       if request.path_info =~ /\A(\/(\d{7,}))/
