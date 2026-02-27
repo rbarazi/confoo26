@@ -2,6 +2,11 @@ require "json"
 
 data_dir = Rails.root.join("confoo-2026-data")
 
+unless data_dir.exist?
+  puts "Skipping seed: #{data_dir} not found"
+  return
+end
+
 # === Step 1: Import Speakers ===
 speakers_data = JSON.parse(File.read(data_dir.join("speakers.json")))
 
@@ -61,12 +66,13 @@ schedule_data.each do |entry|
   speaker = Speaker.find_by(name: entry["speaker"])
   next unless speaker
 
-  ConferenceSession.find_or_create_by!(slug: entry["slug"]) do |cs|
-    cs.title = entry["title"]
-    cs.description = "Workshop session"
-    cs.tags = []
-    cs.speaker = speaker
-  end
+  conference_session = ConferenceSession.find_or_initialize_by(slug: entry["slug"])
+  conference_session.update!(
+    title: entry["title"],
+    description: "Workshop session",
+    tags: [],
+    speaker: speaker
+  )
 end
 
 puts "Imported #{ConferenceSession.count} conference sessions"
