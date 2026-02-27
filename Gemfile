@@ -29,7 +29,7 @@ gem "solid_queue"
 gem "solid_cable"
 
 # Load .env files in development and test
-gem "dotenv-rails", groups: [:development, :test]
+gem "dotenv-rails", groups: [ :development, :test ]
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
