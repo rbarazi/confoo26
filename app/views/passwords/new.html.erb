@@ -1,0 +1,10 @@
+<h1>Forgot your password?</h1>
+
+<%= form_with url: passwords_path, scope: :password do |form| %>
+  <p>
+    <%= form.label :email_address, "Email address" %><br>
+    <%= form.email_field :email_address, required: true, autofocus: true, autocomplete: "username", value: params.dig(:password, :email_address) %>
+  </p>
+
+  <%= form.submit "Email reset instructions" %>
+<% end %>

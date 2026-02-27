@@ -72,6 +72,9 @@ Rails.application.configure do
     config.hosts << ENV["APP_URL"].split(":").first
   end
 
+  # Allow requests from the devcontainer service hostname.
+  config.hosts << "rails-app"
+
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
 
