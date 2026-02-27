@@ -1,3 +1,18 @@
+## Pull Request Policy
+
+**ALWAYS** validate that all CI checks pass locally before creating or updating a pull request. Run the full CI suite and fix any failures before pushing:
+
+```bash
+bin/rubocop              # Lint
+bin/importmap audit      # JS security scan
+bin/rails test           # Unit/integration tests
+bin/rails test:system    # System tests
+```
+
+Do NOT open a PR with known CI failures. If a check fails, fix the root cause and re-run before pushing.
+
+---
+
 ## Skills
 A skill is a set of local instructions to follow that is stored in a `SKILL.md` file. Below is the list of skills that can be used in this repository.
 
