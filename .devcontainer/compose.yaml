@@ -27,8 +27,8 @@ services:
       DB_HOST: postgres
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
-      CHROME_URL: http://chrome:3000
-      SELENIUM_DRIVER_URL: http://chrome:3000/webdriver
+      CHROME_URL: http://chrome:4444
+      SELENIUM_DRIVER_URL: http://chrome:4444
     depends_on:
       postgres:
         condition: service_healthy
@@ -48,10 +48,15 @@ services:
       timeout: 5s
       retries: 5
   chrome:
-    image: ghcr.io/browserless/chromium
+    image: seleniarm/standalone-chromium:latest
     restart: unless-stopped
+    shm_size: 2gb
     environment:
-      CONNECTION_TIMEOUT: 600000
+      SE_VNC_NO_PASSWORD: "true"
+      SE_SCREEN_WIDTH: 1400
+      SE_SCREEN_HEIGHT: 1400
+    # ports:
+    # - "7900:7900"
   cloudflared:
     image: cloudflare/cloudflared:latest
     restart: unless-stopped
