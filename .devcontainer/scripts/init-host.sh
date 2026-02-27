@@ -6,11 +6,17 @@ export PATH="$PATH:/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DEVCONTAINER_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
+SHARED_ENV="${SHARED_CONFIG_DIR:-${DEVCONTAINER_DIR}/../..}/.env"
 
-# Source the devcontainer .env file if it exists (contains OP_GITHUB_REF, OP_SIGNING_KEY_REF, etc.)
+# Source .env for OP_GITHUB_REF, OP_SIGNING_KEY_REF, etc.
+# Check per-worktree first, fall back to shared parent (available to all worktrees).
 if [[ -f "${DEVCONTAINER_DIR}/.env" ]]; then
   set -a
   source "${DEVCONTAINER_DIR}/.env"
+  set +a
+elif [[ -f "${SHARED_ENV}" ]]; then
+  set -a
+  source "${SHARED_ENV}"
   set +a
 fi
 TOKEN_FILE="${DEVCONTAINER_DIR}/.github-token.env"
