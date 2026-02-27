@@ -1,6 +1,8 @@
 class ConferenceSession < ApplicationRecord
   belongs_to :speaker
   has_one :schedule_entry, dependent: :destroy, inverse_of: :conference_session
+  has_many :favorites, dependent: :destroy
+  has_many :favoriting_users, through: :favorites, source: :user
 
   validates :title, presence: true
   validates :description, presence: true
