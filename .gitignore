@@ -1,0 +1,13 @@
+
+# BranchBox
+.branchbox/registry.json
+.branchbox/secure/
+.branchbox/secure/tunnels/
+.devcontainer/.branchbox.env
+.devcontainer/.cloudflared.env
+.devcontainer/.github-token.env
+.devcontainer/.git-signing-key
+.devcontainer/.gitconfig.env
+.branchbox.env
+.env
+.env.local

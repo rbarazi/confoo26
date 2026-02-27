@@ -1,0 +1,32 @@
+{
+  "name": "Rails Project",
+  "dockerComposeFile": "compose.yaml",
+  "service": "rails-app",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind,consistency=cached",
+  "containerEnv": {
+    "DOCKER_CONTAINER": "true"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "moby": "false"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {},
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    },
+    "ghcr.io/rbarazi/devcontainer-features/ai-npm-packages:1": {},
+    "ghcr.io/rails/devcontainer/features/activestorage": {}
+  },
+  "forwardPorts": [3000],
+  "initializeCommand": "bash -c 'cd \"${localWorkspaceFolder}\" && bash .devcontainer/scripts/init-host.sh'",
+  "postCreateCommand": "mise trust --all && mise install && mise exec -- bin/setup",
+  "postStartCommand": "bash -c 'cd \"${WORKSPACE_FOLDER:-.}\" && bash .devcontainer/scripts/setup-git.sh'",
+  "runArgs": [
+    "--env-file",
+    "../.env",
+    "--ipc=host",
+    "--shm-size=1gb",
+    "--init"
+  ]
+}

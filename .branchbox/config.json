@@ -1,0 +1,31 @@
+{
+  "version": "1",
+  "tunnel": {
+    "enabled": true,
+    "default_provider": "cloudflared",
+    "providers": {
+      "cloudflared": {
+        "account_id": "213a41bf91b0e5c2199669f4d1e58f11",
+        "api_token_path": ".branchbox/secure/cloudflared.env",
+        "tunnel_name_prefix": "confoo26",
+        "dns_zone": "rida.me",
+        "service_url": "http://rails-app:3000",
+        "manual_instructions": false
+      }
+    }
+  },
+  "editor": {
+    "default_agent": null,
+    "auto_launch_agent_terminal": false,
+    "preferred_sidebar_view": null,
+    "hide_secondary_sidebar": false
+  },
+  "feature": {
+    "branch_prefix": "feature",
+    "teardown": {
+      "delete_branch_by_default": true,
+      "force_delete_unmerged_by_default": false,
+      "prompt_force_delete_unmerged": true
+    }
+  }
+}
